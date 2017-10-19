@@ -3,7 +3,7 @@
 #include <signal.h>
 #include <stdlib.h>
 #include <unistd.h>
-#include "t2.h"
+#include "t2.cpp"
 void baz();
 void bar() { 
 baz(); 
