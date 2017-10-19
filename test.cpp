@@ -3,6 +3,7 @@
 #include <signal.h>
 #include <stdlib.h>
 #include <unistd.h>
+#include "t2.h"
 void baz();
 void bar() { 
 baz(); 
@@ -14,8 +15,15 @@ void baz() {
  FILE* fh fopen("a.txt","w");
  fclose(fh);
 }
-
+class A{
+public:
+void hello(){
+}
+}
 int main(int argc, char **argv) {
   foo(); // this will call foo, bar, and baz.  baz segfaults.
+  A object=A();
+  object.hello();
   exit(0);
 }
+
