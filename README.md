@@ -9,5 +9,5 @@ sudo apt-get update<br>
 sudo apt-get install clang-3.8 lldb-3.8<br>
 wget https://pypi.python.org/packages/source/c/clang/clang-3.8.tar.gz<br>
 pip install clang-3.8.tar.gz<br>
-ln -s /usr/lib/llvm-3.8/lib/libclang.so.1 /usr/lib/libclang.so<br>
+sudo ln -s /usr/lib/llvm-3.8/lib/libclang.so.1 /usr/lib/libclang.so<br>
 python test.py test.cpp<br>
