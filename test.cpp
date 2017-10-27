@@ -8,7 +8,7 @@ void baz();
 void bar() { 
 baz(); 
 }
-void foo() { 
+void foo(int a,int b) { 
 bar(); 
 }
 void baz() {
@@ -22,7 +22,18 @@ void hello(){
 }
 }
 int main(int argc, char **argv) {
-  foo(); // this will call foo, bar, and baz.  baz segfaults.
+  int a=10;
+  int b;
+  b=10;
+  for(int i=0;i<10;i++){
+  b++;
+  }
+  while(true)
+  {
+	a++;
+  }
+  for(int i=0;i<10;i++) b++;
+  foo(a,b); // this will call foo, bar, and baz.  baz segfaults.
   A object=A();
   object.hello();
   exit(0);

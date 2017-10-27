@@ -65,7 +65,6 @@ int main()
         cout << "Cannot open input file.\n";
         return 1;
     }
-
     char str[255];
     std::string val;
     int i=1;

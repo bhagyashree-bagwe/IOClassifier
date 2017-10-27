@@ -4,7 +4,8 @@
 
 import sys
 import clang.cindex
-
+import json
+import cPickle
 def find_typerefs(node,filename):
     """ Find all references to the type named 'typename'
     """
@@ -16,5 +17,5 @@ def find_typerefs(node,filename):
 index = clang.cindex.Index.create()
 tu = index.parse(sys.argv[1])
 #print 'Translation unit:', tu.spelling
-print(dir(tu.cursor))
+print(vars(tu.cursor))
 find_typerefs(tu.cursor,sys.argv[1])
