@@ -36,7 +36,7 @@ void iterate(std::string function){
     if(iter!=function_end_map.end()){
         end=iter->second;
     }
-    cout << start <<" "<<end<<endl;
+    //cout << start <<" "<<end<<endl;
     if(!(start==-1 || end==-1)){
         while(start<=end){
             auto iter2=lineMap.find(start);

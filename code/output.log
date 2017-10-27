@@ -1,5 +1,5 @@
 CursorKind.TRANSLATION_UNIT#test.cpp#0#1#31#null
-CursorKind.UNEXPOSED_DECL##29#29#942#test.cpp
+CursorKind.UNEXPOSED_DECL#null#29#29#942#test.cpp
 CursorKind.TYPEDEF_DECL#__u_char#30#30#30#
 CursorKind.TYPEDEF_DECL#__u_short#31#31#31#
 CursorKind.TYPEDEF_DECL#__u_int#32#32#32#
@@ -24,13 +24,13 @@ CursorKind.TYPEDEF_DECL#__nlink_t#130#130#130#
 CursorKind.TYPEDEF_DECL#__off_t#131#131#131#
 CursorKind.TYPEDEF_DECL#__off64_t#132#132#132#
 CursorKind.TYPEDEF_DECL#__pid_t#133#133#133#
-CursorKind.STRUCT_DECL##134#134#134#
+CursorKind.STRUCT_DECL#null#134#134#134#
 CursorKind.FIELD_DECL#__val#134#134#134#
-CursorKind.INTEGER_LITERAL##134#134#134#null
+CursorKind.INTEGER_LITERAL#null#134#134#134#null
 CursorKind.TYPEDEF_DECL#__fsid_t#134#134#134#
-CursorKind.STRUCT_DECL##134#134#134#
+CursorKind.STRUCT_DECL#null#134#134#134#
 CursorKind.FIELD_DECL#__val#134#134#134#
-CursorKind.INTEGER_LITERAL##134#134#134#null
+CursorKind.INTEGER_LITERAL#null#134#134#134#null
 CursorKind.TYPEDEF_DECL#__clock_t#135#135#135#
 CursorKind.TYPEDEF_DECL#__rlim_t#136#136#136#
 CursorKind.TYPEDEF_DECL#__rlim64_t#137#137#137#
@@ -65,47 +65,47 @@ CursorKind.TYPEDEF_DECL#FILE#48#48#48#
 CursorKind.TYPE_REF#struct _IO_FILE#48#48#48#null
 CursorKind.TYPEDEF_DECL#__FILE#64#64#64#
 CursorKind.TYPE_REF#struct _IO_FILE#64#64#64#null
-CursorKind.STRUCT_DECL##82#82#94#
+CursorKind.STRUCT_DECL#null#82#82#94#
 CursorKind.FIELD_DECL#__count#84#84#84#
-CursorKind.UNION_DECL##85#85#93#
+CursorKind.UNION_DECL#null#85#85#93#
 CursorKind.FIELD_DECL#__wch#88#88#88#
 CursorKind.FIELD_DECL#__wchb#92#92#92#
-CursorKind.INTEGER_LITERAL##92#92#92#null
+CursorKind.INTEGER_LITERAL#null#92#92#92#null
 CursorKind.FIELD_DECL#__value#93#85#93#
-CursorKind.UNION_DECL##85#85#93#
+CursorKind.UNION_DECL#null#85#85#93#
 CursorKind.FIELD_DECL#__wch#88#88#88#
 CursorKind.FIELD_DECL#__wchb#92#92#92#
-CursorKind.INTEGER_LITERAL##92#92#92#null
+CursorKind.INTEGER_LITERAL#null#92#92#92#null
 CursorKind.TYPEDEF_DECL#__mbstate_t#94#82#94#
-CursorKind.STRUCT_DECL##82#82#94#
+CursorKind.STRUCT_DECL#null#82#82#94#
 CursorKind.FIELD_DECL#__count#84#84#84#
-CursorKind.UNION_DECL##85#85#93#
+CursorKind.UNION_DECL#null#85#85#93#
 CursorKind.FIELD_DECL#__wch#88#88#88#
 CursorKind.FIELD_DECL#__wchb#92#92#92#
-CursorKind.INTEGER_LITERAL##92#92#92#null
+CursorKind.INTEGER_LITERAL#null#92#92#92#null
 CursorKind.FIELD_DECL#__value#93#85#93#
-CursorKind.UNION_DECL##85#85#93#
+CursorKind.UNION_DECL#null#85#85#93#
 CursorKind.FIELD_DECL#__wch#88#88#88#
 CursorKind.FIELD_DECL#__wchb#92#92#92#
-CursorKind.INTEGER_LITERAL##92#92#92#null
-CursorKind.STRUCT_DECL##21#21#25#
+CursorKind.INTEGER_LITERAL#null#92#92#92#null
+CursorKind.STRUCT_DECL#null#21#21#25#
 CursorKind.FIELD_DECL#__pos#23#23#23#
 CursorKind.TYPE_REF#__off_t#23#23#23#null
 CursorKind.FIELD_DECL#__state#24#24#24#
 CursorKind.TYPE_REF#__mbstate_t#24#24#24#null
 CursorKind.TYPEDEF_DECL#_G_fpos_t#25#21#25#
-CursorKind.STRUCT_DECL##21#21#25#
+CursorKind.STRUCT_DECL#null#21#21#25#
 CursorKind.FIELD_DECL#__pos#23#23#23#
 CursorKind.TYPE_REF#__off_t#23#23#23#null
 CursorKind.FIELD_DECL#__state#24#24#24#
 CursorKind.TYPE_REF#__mbstate_t#24#24#24#null
-CursorKind.STRUCT_DECL##26#26#30#
+CursorKind.STRUCT_DECL#null#26#26#30#
 CursorKind.FIELD_DECL#__pos#28#28#28#
 CursorKind.TYPE_REF#__off64_t#28#28#28#null
 CursorKind.FIELD_DECL#__state#29#29#29#
 CursorKind.TYPE_REF#__mbstate_t#29#29#29#null
 CursorKind.TYPEDEF_DECL#_G_fpos64_t#30#26#30#
-CursorKind.STRUCT_DECL##26#26#30#
+CursorKind.STRUCT_DECL#null#26#26#30#
 CursorKind.FIELD_DECL#__pos#28#28#28#
 CursorKind.TYPE_REF#__off64_t#28#28#28#null
 CursorKind.FIELD_DECL#__state#29#29#29#
@@ -148,7 +148,7 @@ CursorKind.TYPE_REF#__off_t#270#270#270#null
 CursorKind.FIELD_DECL#_cur_column#274#274#274#_IO_FILE
 CursorKind.FIELD_DECL#_vtable_offset#275#275#275#_IO_FILE
 CursorKind.FIELD_DECL#_shortbuf#276#276#276#_IO_FILE
-CursorKind.INTEGER_LITERAL##276#276#276#null
+CursorKind.INTEGER_LITERAL#null#276#276#276#null
 CursorKind.FIELD_DECL#_lock#280#280#280#_IO_FILE
 CursorKind.TYPE_REF#_IO_lock_t#280#280#280#null
 CursorKind.FIELD_DECL#_offset#289#289#289#_IO_FILE
@@ -192,7 +192,7 @@ CursorKind.TYPEDEF_DECL#cookie_seek_function_t#360#360#360#
 CursorKind.TYPE_REF#__io_seek_fn#360#360#360#null
 CursorKind.TYPEDEF_DECL#cookie_close_function_t#361#361#361#
 CursorKind.TYPE_REF#__io_close_fn#361#361#361#null
-CursorKind.STRUCT_DECL##364#364#370#
+CursorKind.STRUCT_DECL#null#364#364#370#
 CursorKind.FIELD_DECL#read#366#366#366#
 CursorKind.TYPE_REF#__io_read_fn#366#366#366#null
 CursorKind.FIELD_DECL#write#367#367#367#
@@ -202,7 +202,7 @@ CursorKind.TYPE_REF#__io_seek_fn#368#368#368#null
 CursorKind.FIELD_DECL#close#369#369#369#
 CursorKind.TYPE_REF#__io_close_fn#369#369#369#null
 CursorKind.TYPEDEF_DECL#_IO_cookie_io_functions_t#370#364#370#
-CursorKind.STRUCT_DECL##364#364#370#
+CursorKind.STRUCT_DECL#null#364#364#370#
 CursorKind.FIELD_DECL#read#366#366#366#
 CursorKind.TYPE_REF#__io_read_fn#366#366#366#null
 CursorKind.FIELD_DECL#write#367#367#367#
@@ -221,17 +221,17 @@ CursorKind.PARM_DECL#__read_write#376#376#376#_IO_cookie_init(struct _IO_cookie_
 CursorKind.PARM_DECL#__cookie#377#377#377#_IO_cookie_init(struct _IO_cookie_file *, int, void *, _IO_cookie_io_functions_t)
 CursorKind.PARM_DECL#__fns#377#377#377#_IO_cookie_init(struct _IO_cookie_file *, int, void *, _IO_cookie_io_functions_t)
 CursorKind.TYPE_REF#_IO_cookie_io_functions_t#377#377#377#null
-CursorKind.UNEXPOSED_DECL##382#382#521#
+CursorKind.UNEXPOSED_DECL#null#382#382#521#
 CursorKind.FUNCTION_DECL#__underflow(_IO_FILE *)#385#385#385#
-CursorKind.PARM_DECL##385#385#385#__underflow(_IO_FILE *)
+CursorKind.PARM_DECL#null#385#385#385#__underflow(_IO_FILE *)
 CursorKind.TYPE_REF#struct _IO_FILE#385#385#385#null
 CursorKind.FUNCTION_DECL#__uflow(_IO_FILE *)#386#386#386#
-CursorKind.PARM_DECL##386#386#386#__uflow(_IO_FILE *)
+CursorKind.PARM_DECL#null#386#386#386#__uflow(_IO_FILE *)
 CursorKind.TYPE_REF#struct _IO_FILE#386#386#386#null
 CursorKind.FUNCTION_DECL#__overflow(_IO_FILE *, int)#387#387#387#
-CursorKind.PARM_DECL##387#387#387#__overflow(_IO_FILE *, int)
+CursorKind.PARM_DECL#null#387#387#387#__overflow(_IO_FILE *, int)
 CursorKind.TYPE_REF#struct _IO_FILE#387#387#387#null
-CursorKind.PARM_DECL##387#387#387#__overflow(_IO_FILE *, int)
+CursorKind.PARM_DECL#null#387#387#387#__overflow(_IO_FILE *, int)
 CursorKind.FUNCTION_DECL#_IO_getc(_IO_FILE *)#429#429#429#
 CursorKind.PARM_DECL#__fp#429#429#429#_IO_getc(_IO_FILE *)
 CursorKind.TYPE_REF#struct _IO_FILE#429#429#429#null
@@ -249,50 +249,50 @@ CursorKind.FUNCTION_DECL#_IO_peekc_locked(_IO_FILE *)#434#434#434#
 CursorKind.PARM_DECL#__fp#434#434#434#_IO_peekc_locked(_IO_FILE *)
 CursorKind.TYPE_REF#struct _IO_FILE#434#434#434#null
 CursorKind.FUNCTION_DECL#_IO_flockfile(_IO_FILE *)#440#440#440#
-CursorKind.PARM_DECL##440#440#440#_IO_flockfile(_IO_FILE *)
+CursorKind.PARM_DECL#null#440#440#440#_IO_flockfile(_IO_FILE *)
 CursorKind.TYPE_REF#struct _IO_FILE#440#440#440#null
 CursorKind.FUNCTION_DECL#_IO_funlockfile(_IO_FILE *)#441#441#441#
-CursorKind.PARM_DECL##441#441#441#_IO_funlockfile(_IO_FILE *)
+CursorKind.PARM_DECL#null#441#441#441#_IO_funlockfile(_IO_FILE *)
 CursorKind.TYPE_REF#struct _IO_FILE#441#441#441#null
 CursorKind.FUNCTION_DECL#_IO_ftrylockfile(_IO_FILE *)#442#442#442#
-CursorKind.PARM_DECL##442#442#442#_IO_ftrylockfile(_IO_FILE *)
+CursorKind.PARM_DECL#null#442#442#442#_IO_ftrylockfile(_IO_FILE *)
 CursorKind.TYPE_REF#struct _IO_FILE#442#442#442#null
 CursorKind.FUNCTION_DECL#_IO_vfscanf(_IO_FILE *__restrict, const char *__restrict, int, int *__restrict)#459#459#460#
-CursorKind.PARM_DECL##459#459#459#_IO_vfscanf(_IO_FILE *__restrict, const char *__restrict, int, int *__restrict)
+CursorKind.PARM_DECL#null#459#459#459#_IO_vfscanf(_IO_FILE *__restrict, const char *__restrict, int, int *__restrict)
 CursorKind.TYPE_REF#struct _IO_FILE#459#459#459#null
-CursorKind.PARM_DECL##459#459#459#_IO_vfscanf(_IO_FILE *__restrict, const char *__restrict, int, int *__restrict)
+CursorKind.PARM_DECL#null#459#459#459#_IO_vfscanf(_IO_FILE *__restrict, const char *__restrict, int, int *__restrict)
 CursorKind.PARM_DECL#__gnuc_va_list#460#460#460#_IO_vfscanf(_IO_FILE *__restrict, const char *__restrict, int, int *__restrict)
-CursorKind.PARM_DECL##460#460#460#_IO_vfscanf(_IO_FILE *__restrict, const char *__restrict, int, int *__restrict)
+CursorKind.PARM_DECL#null#460#460#460#_IO_vfscanf(_IO_FILE *__restrict, const char *__restrict, int, int *__restrict)
 CursorKind.FUNCTION_DECL#_IO_vfprintf(_IO_FILE *__restrict, const char *__restrict, int)#461#461#462#
-CursorKind.PARM_DECL##461#461#461#_IO_vfprintf(_IO_FILE *__restrict, const char *__restrict, int)
+CursorKind.PARM_DECL#null#461#461#461#_IO_vfprintf(_IO_FILE *__restrict, const char *__restrict, int)
 CursorKind.TYPE_REF#struct _IO_FILE#461#461#461#null
-CursorKind.PARM_DECL##461#461#461#_IO_vfprintf(_IO_FILE *__restrict, const char *__restrict, int)
-CursorKind.PARM_DECL##462#0#0#_IO_vfprintf(_IO_FILE *__restrict, const char *__restrict, int)
+CursorKind.PARM_DECL#null#461#461#461#_IO_vfprintf(_IO_FILE *__restrict, const char *__restrict, int)
+CursorKind.PARM_DECL#null#462#0#0#_IO_vfprintf(_IO_FILE *__restrict, const char *__restrict, int)
 CursorKind.FUNCTION_DECL#_IO_padn(_IO_FILE *, int, __ssize_t)#463#463#463#
 CursorKind.TYPE_REF#__ssize_t#463#463#463#null
-CursorKind.PARM_DECL##463#463#463#_IO_padn(_IO_FILE *, int, __ssize_t)
+CursorKind.PARM_DECL#null#463#463#463#_IO_padn(_IO_FILE *, int, __ssize_t)
 CursorKind.TYPE_REF#struct _IO_FILE#463#463#463#null
-CursorKind.PARM_DECL##463#463#463#_IO_padn(_IO_FILE *, int, __ssize_t)
-CursorKind.PARM_DECL##463#463#463#_IO_padn(_IO_FILE *, int, __ssize_t)
+CursorKind.PARM_DECL#null#463#463#463#_IO_padn(_IO_FILE *, int, __ssize_t)
+CursorKind.PARM_DECL#null#463#463#463#_IO_padn(_IO_FILE *, int, __ssize_t)
 CursorKind.TYPE_REF#__ssize_t#463#463#463#null
 CursorKind.FUNCTION_DECL#_IO_sgetn(_IO_FILE *, void *, int)#464#464#464#
 CursorKind.FUNCTION_DECL#_IO_seekoff(_IO_FILE *, __off64_t, int, int)#466#466#466#
 CursorKind.TYPE_REF#__off64_t#466#466#466#null
-CursorKind.PARM_DECL##466#466#466#_IO_seekoff(_IO_FILE *, __off64_t, int, int)
+CursorKind.PARM_DECL#null#466#466#466#_IO_seekoff(_IO_FILE *, __off64_t, int, int)
 CursorKind.TYPE_REF#struct _IO_FILE#466#466#466#null
-CursorKind.PARM_DECL##466#466#466#_IO_seekoff(_IO_FILE *, __off64_t, int, int)
+CursorKind.PARM_DECL#null#466#466#466#_IO_seekoff(_IO_FILE *, __off64_t, int, int)
 CursorKind.TYPE_REF#__off64_t#466#466#466#null
-CursorKind.PARM_DECL##466#466#466#_IO_seekoff(_IO_FILE *, __off64_t, int, int)
-CursorKind.PARM_DECL##466#466#466#_IO_seekoff(_IO_FILE *, __off64_t, int, int)
+CursorKind.PARM_DECL#null#466#466#466#_IO_seekoff(_IO_FILE *, __off64_t, int, int)
+CursorKind.PARM_DECL#null#466#466#466#_IO_seekoff(_IO_FILE *, __off64_t, int, int)
 CursorKind.FUNCTION_DECL#_IO_seekpos(_IO_FILE *, __off64_t, int)#467#467#467#
 CursorKind.TYPE_REF#__off64_t#467#467#467#null
-CursorKind.PARM_DECL##467#467#467#_IO_seekpos(_IO_FILE *, __off64_t, int)
+CursorKind.PARM_DECL#null#467#467#467#_IO_seekpos(_IO_FILE *, __off64_t, int)
 CursorKind.TYPE_REF#struct _IO_FILE#467#467#467#null
-CursorKind.PARM_DECL##467#467#467#_IO_seekpos(_IO_FILE *, __off64_t, int)
+CursorKind.PARM_DECL#null#467#467#467#_IO_seekpos(_IO_FILE *, __off64_t, int)
 CursorKind.TYPE_REF#__off64_t#467#467#467#null
-CursorKind.PARM_DECL##467#467#467#_IO_seekpos(_IO_FILE *, __off64_t, int)
+CursorKind.PARM_DECL#null#467#467#467#_IO_seekpos(_IO_FILE *, __off64_t, int)
 CursorKind.FUNCTION_DECL#_IO_free_backup_area(_IO_FILE *)#469#469#469#
-CursorKind.PARM_DECL##469#469#469#_IO_free_backup_area(_IO_FILE *)
+CursorKind.PARM_DECL#null#469#469#469#_IO_free_backup_area(_IO_FILE *)
 CursorKind.TYPE_REF#struct _IO_FILE#469#469#469#null
 CursorKind.TYPEDEF_DECL#va_list#79#79#79#
 CursorKind.TYPEDEF_DECL#off_t#90#90#90#
@@ -330,7 +330,7 @@ CursorKind.PARM_DECL#__s#209#209#209#tmpnam(char *)
 CursorKind.FUNCTION_DECL#tmpnam_r(char *)#215#215#215#
 CursorKind.PARM_DECL#__s#215#215#215#tmpnam_r(char *)
 CursorKind.FUNCTION_DECL#tempnam(const char *, const char *)#227#227#228#
-CursorKind.UNEXPOSED_ATTR##228#228#228#null
+CursorKind.UNEXPOSED_ATTR#null#228#228#228#null
 CursorKind.PARM_DECL#__dir#227#227#227#tempnam(const char *, const char *)
 CursorKind.PARM_DECL#__pfx#227#227#227#tempnam(const char *, const char *)
 CursorKind.FUNCTION_DECL#fclose(FILE *)#237#237#237#
@@ -401,15 +401,15 @@ CursorKind.FUNCTION_DECL#setlinebuf(FILE *)#347#347#347#
 CursorKind.PARM_DECL#__stream#347#347#347#setlinebuf(FILE *)
 CursorKind.TYPE_REF#FILE#347#347#347#null
 CursorKind.FUNCTION_DECL#fprintf(FILE *__restrict, const char *__restrict, ...)#356#356#357#
-CursorKind.UNEXPOSED_ATTR##356#356#356#null
+CursorKind.UNEXPOSED_ATTR#null#356#356#356#null
 CursorKind.PARM_DECL#__stream#356#356#356#fprintf(FILE *__restrict, const char *__restrict, ...)
 CursorKind.TYPE_REF#FILE#356#356#356#null
 CursorKind.PARM_DECL#__format#357#357#357#fprintf(FILE *__restrict, const char *__restrict, ...)
 CursorKind.FUNCTION_DECL#printf(const char *__restrict, ...)#362#362#362#
-CursorKind.UNEXPOSED_ATTR##362#362#362#null
+CursorKind.UNEXPOSED_ATTR#null#362#362#362#null
 CursorKind.PARM_DECL#__format#362#362#362#printf(const char *__restrict, ...)
 CursorKind.FUNCTION_DECL#sprintf(char *__restrict, const char *__restrict, ...)#364#364#365#
-CursorKind.UNEXPOSED_ATTR##364#364#364#null
+CursorKind.UNEXPOSED_ATTR#null#364#364#364#null
 CursorKind.PARM_DECL#__s#364#364#364#sprintf(char *__restrict, const char *__restrict, ...)
 CursorKind.PARM_DECL#__format#365#365#365#sprintf(char *__restrict, const char *__restrict, ...)
 CursorKind.FUNCTION_DECL#vfprintf(FILE *__restrict, const char *__restrict, int)#371#371#372#
@@ -425,62 +425,62 @@ CursorKind.PARM_DECL#__s#379#379#379#vsprintf(char *__restrict, const char *__re
 CursorKind.PARM_DECL#__format#379#379#379#vsprintf(char *__restrict, const char *__restrict, int)
 CursorKind.PARM_DECL#__arg#380#380#380#vsprintf(char *__restrict, const char *__restrict, int)
 CursorKind.FUNCTION_DECL#snprintf(char *__restrict, int, const char *__restrict, ...)#386#386#388#
-CursorKind.UNEXPOSED_ATTR##388#388#388#null
+CursorKind.UNEXPOSED_ATTR#null#388#388#388#null
 CursorKind.PARM_DECL#__s#386#386#386#snprintf(char *__restrict, int, const char *__restrict, ...)
 CursorKind.PARM_DECL#__maxlen#386#386#386#snprintf(char *__restrict, int, const char *__restrict, ...)
 CursorKind.PARM_DECL#__format#387#387#387#snprintf(char *__restrict, int, const char *__restrict, ...)
 CursorKind.FUNCTION_DECL#vsnprintf(char *__restrict, int, const char *__restrict, int)#390#390#392#
-CursorKind.UNEXPOSED_ATTR##392#392#392#null
+CursorKind.UNEXPOSED_ATTR#null#392#392#392#null
 CursorKind.PARM_DECL#__s#390#390#390#vsnprintf(char *__restrict, int, const char *__restrict, int)
 CursorKind.PARM_DECL#__maxlen#390#390#390#vsnprintf(char *__restrict, int, const char *__restrict, int)
 CursorKind.PARM_DECL#__format#391#391#391#vsnprintf(char *__restrict, int, const char *__restrict, int)
 CursorKind.PARM_DECL#__arg#391#391#391#vsnprintf(char *__restrict, int, const char *__restrict, int)
 CursorKind.FUNCTION_DECL#vasprintf(char **__restrict, const char *__restrict, int)#399#399#401#
-CursorKind.UNEXPOSED_ATTR##401#401#401#null
+CursorKind.UNEXPOSED_ATTR#null#401#401#401#null
 CursorKind.PARM_DECL#__ptr#399#399#399#vasprintf(char **__restrict, const char *__restrict, int)
 CursorKind.PARM_DECL#__f#399#399#399#vasprintf(char **__restrict, const char *__restrict, int)
 CursorKind.PARM_DECL#__arg#400#400#400#vasprintf(char **__restrict, const char *__restrict, int)
 CursorKind.FUNCTION_DECL#__asprintf(char **__restrict, const char *__restrict, ...)#402#402#404#
-CursorKind.UNEXPOSED_ATTR##404#404#404#null
+CursorKind.UNEXPOSED_ATTR#null#404#404#404#null
 CursorKind.PARM_DECL#__ptr#402#402#402#__asprintf(char **__restrict, const char *__restrict, ...)
 CursorKind.PARM_DECL#__fmt#403#403#403#__asprintf(char **__restrict, const char *__restrict, ...)
 CursorKind.FUNCTION_DECL#asprintf(char **__restrict, const char *__restrict, ...)#405#405#407#
-CursorKind.UNEXPOSED_ATTR##407#407#407#null
+CursorKind.UNEXPOSED_ATTR#null#407#407#407#null
 CursorKind.PARM_DECL#__ptr#405#405#405#asprintf(char **__restrict, const char *__restrict, ...)
 CursorKind.PARM_DECL#__fmt#406#406#406#asprintf(char **__restrict, const char *__restrict, ...)
 CursorKind.FUNCTION_DECL#vdprintf(int, const char *__restrict, int)#412#412#414#
-CursorKind.UNEXPOSED_ATTR##414#414#414#null
+CursorKind.UNEXPOSED_ATTR#null#414#414#414#null
 CursorKind.PARM_DECL#__fd#412#412#412#vdprintf(int, const char *__restrict, int)
 CursorKind.PARM_DECL#__fmt#412#412#412#vdprintf(int, const char *__restrict, int)
 CursorKind.PARM_DECL#__arg#413#413#413#vdprintf(int, const char *__restrict, int)
 CursorKind.FUNCTION_DECL#dprintf(int, const char *__restrict, ...)#415#415#416#
-CursorKind.UNEXPOSED_ATTR##416#416#416#null
+CursorKind.UNEXPOSED_ATTR#null#416#416#416#null
 CursorKind.PARM_DECL#__fd#415#415#415#dprintf(int, const char *__restrict, ...)
 CursorKind.PARM_DECL#__fmt#415#415#415#dprintf(int, const char *__restrict, ...)
 CursorKind.FUNCTION_DECL#fscanf(FILE *__restrict, const char *__restrict, ...)#425#425#426#
-CursorKind.UNEXPOSED_ATTR##425#425#425#null
+CursorKind.UNEXPOSED_ATTR#null#425#425#425#null
 CursorKind.PARM_DECL#__stream#425#425#425#fscanf(FILE *__restrict, const char *__restrict, ...)
 CursorKind.TYPE_REF#FILE#425#425#425#null
 CursorKind.PARM_DECL#__format#426#426#426#fscanf(FILE *__restrict, const char *__restrict, ...)
 CursorKind.FUNCTION_DECL#scanf(const char *__restrict, ...)#431#431#431#
-CursorKind.UNEXPOSED_ATTR##431#431#431#null
+CursorKind.UNEXPOSED_ATTR#null#431#431#431#null
 CursorKind.PARM_DECL#__format#431#431#431#scanf(const char *__restrict, ...)
 CursorKind.FUNCTION_DECL#sscanf(const char *__restrict, const char *__restrict, ...)#433#433#434#
-CursorKind.UNEXPOSED_ATTR##433#433#433#null
+CursorKind.UNEXPOSED_ATTR#null#433#433#433#null
 CursorKind.PARM_DECL#__s#433#433#433#sscanf(const char *__restrict, const char *__restrict, ...)
 CursorKind.PARM_DECL#__format#434#434#434#sscanf(const char *__restrict, const char *__restrict, ...)
 CursorKind.FUNCTION_DECL#vfscanf(FILE *__restrict, const char *__restrict, int)#471#471#473#
-CursorKind.UNEXPOSED_ATTR##473#473#473#null
+CursorKind.UNEXPOSED_ATTR#null#473#473#473#null
 CursorKind.PARM_DECL#__s#471#471#471#vfscanf(FILE *__restrict, const char *__restrict, int)
 CursorKind.TYPE_REF#FILE#471#471#471#null
 CursorKind.PARM_DECL#__format#471#471#471#vfscanf(FILE *__restrict, const char *__restrict, int)
 CursorKind.PARM_DECL#__arg#472#472#472#vfscanf(FILE *__restrict, const char *__restrict, int)
 CursorKind.FUNCTION_DECL#vscanf(const char *__restrict, int)#479#479#480#
-CursorKind.UNEXPOSED_ATTR##480#480#480#null
+CursorKind.UNEXPOSED_ATTR#null#480#480#480#null
 CursorKind.PARM_DECL#__format#479#479#479#vscanf(const char *__restrict, int)
 CursorKind.PARM_DECL#__arg#479#479#479#vscanf(const char *__restrict, int)
 CursorKind.FUNCTION_DECL#vsscanf(const char *__restrict, const char *__restrict, int)#483#483#485#
-CursorKind.UNEXPOSED_ATTR##485#485#485#null
+CursorKind.UNEXPOSED_ATTR#null#485#485#485#null
 CursorKind.PARM_DECL#__s#483#483#483#vsscanf(const char *__restrict, const char *__restrict, int)
 CursorKind.PARM_DECL#__format#484#484#484#vsscanf(const char *__restrict, const char *__restrict, int)
 CursorKind.PARM_DECL#__arg#484#484#484#vsscanf(const char *__restrict, const char *__restrict, int)
@@ -531,7 +531,7 @@ CursorKind.PARM_DECL#__n#622#622#622#fgets(char *__restrict, int, FILE *__restri
 CursorKind.PARM_DECL#__stream#622#622#622#fgets(char *__restrict, int, FILE *__restrict)
 CursorKind.TYPE_REF#FILE#622#622#622#null
 CursorKind.FUNCTION_DECL#gets(char *)#638#638#638#
-CursorKind.UNEXPOSED_ATTR##638#638#638#null
+CursorKind.UNEXPOSED_ATTR#null#638#638#638#null
 CursorKind.PARM_DECL#__s#638#638#638#gets(char *)
 CursorKind.FUNCTION_DECL#fgets_unlocked(char *__restrict, int, FILE *__restrict)#649#649#650#
 CursorKind.PARM_DECL#__s#649#649#649#fgets_unlocked(char *__restrict, int, FILE *__restrict)
@@ -670,12 +670,12 @@ CursorKind.FUNCTION_DECL#cuserid(char *)#890#890#890#
 CursorKind.PARM_DECL#__s#890#890#890#cuserid(char *)
 CursorKind.STRUCT_DECL#obstack#895#895#895#
 CursorKind.FUNCTION_DECL#obstack_printf(struct obstack *__restrict, const char *__restrict, ...)#898#898#900#
-CursorKind.UNEXPOSED_ATTR##900#900#900#null
+CursorKind.UNEXPOSED_ATTR#null#900#900#900#null
 CursorKind.PARM_DECL#__obstack#898#898#898#obstack_printf(struct obstack *__restrict, const char *__restrict, ...)
 CursorKind.TYPE_REF#struct obstack#898#898#898#null
 CursorKind.PARM_DECL#__format#899#899#899#obstack_printf(struct obstack *__restrict, const char *__restrict, ...)
 CursorKind.FUNCTION_DECL#obstack_vprintf(struct obstack *__restrict, const char *__restrict, int)#901#901#904#
-CursorKind.UNEXPOSED_ATTR##904#904#904#null
+CursorKind.UNEXPOSED_ATTR#null#904#904#904#null
 CursorKind.PARM_DECL#__obstack#901#901#901#obstack_vprintf(struct obstack *__restrict, const char *__restrict, int)
 CursorKind.TYPE_REF#struct obstack#901#901#901#null
 CursorKind.PARM_DECL#__format#902#902#902#obstack_vprintf(struct obstack *__restrict, const char *__restrict, int)
@@ -689,57 +689,57 @@ CursorKind.TYPE_REF#FILE#916#916#916#null
 CursorKind.FUNCTION_DECL#funlockfile(FILE *)#919#919#919#
 CursorKind.PARM_DECL#__stream#919#919#919#funlockfile(FILE *)
 CursorKind.TYPE_REF#FILE#919#919#919#null
-CursorKind.UNEXPOSED_DECL##23#23#41#test.cpp
+CursorKind.UNEXPOSED_DECL#null#23#23#41#test.cpp
 CursorKind.FUNCTION_DECL#backtrace(void **, int)#27#27#27#
-CursorKind.UNEXPOSED_ATTR##27#27#27#null
+CursorKind.UNEXPOSED_ATTR#null#27#27#27#null
 CursorKind.PARM_DECL#__array#27#27#27#backtrace(void **, int)
 CursorKind.PARM_DECL#__size#27#27#27#backtrace(void **, int)
 CursorKind.FUNCTION_DECL#backtrace_symbols(void *const *, int)#32#32#33#
-CursorKind.UNEXPOSED_ATTR##33#33#33#null
+CursorKind.UNEXPOSED_ATTR#null#33#33#33#null
 CursorKind.PARM_DECL#__array#32#32#32#backtrace_symbols(void *const *, int)
 CursorKind.PARM_DECL#__size#32#32#32#backtrace_symbols(void *const *, int)
 CursorKind.FUNCTION_DECL#backtrace_symbols_fd(void *const *, int, int)#38#38#39#
-CursorKind.UNEXPOSED_ATTR##39#39#39#null
+CursorKind.UNEXPOSED_ATTR#null#39#39#39#null
 CursorKind.PARM_DECL#__array#38#38#38#backtrace_symbols_fd(void *const *, int, int)
 CursorKind.PARM_DECL#__size#38#38#38#backtrace_symbols_fd(void *const *, int, int)
 CursorKind.PARM_DECL#__fd#38#38#38#backtrace_symbols_fd(void *const *, int, int)
-CursorKind.UNEXPOSED_DECL##30#30#375#test.cpp
+CursorKind.UNEXPOSED_DECL#null#30#30#375#test.cpp
 CursorKind.TYPEDEF_DECL#__sig_atomic_t#22#22#22#
-CursorKind.STRUCT_DECL##27#27#30#
+CursorKind.STRUCT_DECL#null#27#27#30#
 CursorKind.FIELD_DECL#__val#29#29#29#
-CursorKind.PAREN_EXPR##29#29#29#null
-CursorKind.BINARY_OPERATOR##29#29#29#null
-CursorKind.UNEXPOSED_EXPR##29#29#29#null
-CursorKind.INTEGER_LITERAL##29#29#29#null
-CursorKind.PAREN_EXPR##29#29#29#null
-CursorKind.BINARY_OPERATOR##29#29#29#null
-CursorKind.UNEXPOSED_EXPR##29#29#29#null
-CursorKind.INTEGER_LITERAL##29#29#29#null
-CursorKind.UNEXPOSED_EXPR##29#29#29#null
+CursorKind.PAREN_EXPR#null#29#29#29#null
+CursorKind.BINARY_OPERATOR#null#29#29#29#null
+CursorKind.UNEXPOSED_EXPR#null#29#29#29#null
+CursorKind.INTEGER_LITERAL#null#29#29#29#null
+CursorKind.PAREN_EXPR#null#29#29#29#null
+CursorKind.BINARY_OPERATOR#null#29#29#29#null
+CursorKind.UNEXPOSED_EXPR#null#29#29#29#null
+CursorKind.INTEGER_LITERAL#null#29#29#29#null
+CursorKind.UNEXPOSED_EXPR#null#29#29#29#null
 CursorKind.TYPEDEF_DECL#__sigset_t#30#27#30#
-CursorKind.STRUCT_DECL##27#27#30#
+CursorKind.STRUCT_DECL#null#27#27#30#
 CursorKind.FIELD_DECL#__val#29#29#29#
-CursorKind.PAREN_EXPR##29#29#29#null
-CursorKind.BINARY_OPERATOR##29#29#29#null
-CursorKind.UNEXPOSED_EXPR##29#29#29#null
-CursorKind.INTEGER_LITERAL##29#29#29#null
-CursorKind.PAREN_EXPR##29#29#29#null
-CursorKind.BINARY_OPERATOR##29#29#29#null
-CursorKind.UNEXPOSED_EXPR##29#29#29#null
-CursorKind.INTEGER_LITERAL##29#29#29#null
-CursorKind.UNEXPOSED_EXPR##29#29#29#null
+CursorKind.PAREN_EXPR#null#29#29#29#null
+CursorKind.BINARY_OPERATOR#null#29#29#29#null
+CursorKind.UNEXPOSED_EXPR#null#29#29#29#null
+CursorKind.INTEGER_LITERAL#null#29#29#29#null
+CursorKind.PAREN_EXPR#null#29#29#29#null
+CursorKind.BINARY_OPERATOR#null#29#29#29#null
+CursorKind.UNEXPOSED_EXPR#null#29#29#29#null
+CursorKind.INTEGER_LITERAL#null#29#29#29#null
+CursorKind.UNEXPOSED_EXPR#null#29#29#29#null
 CursorKind.FUNCTION_DECL#__sigismember(const __sigset_t *, int)#102#102#102#
-CursorKind.PARM_DECL##102#102#102#__sigismember(const __sigset_t *, int)
+CursorKind.PARM_DECL#null#102#102#102#__sigismember(const __sigset_t *, int)
 CursorKind.TYPE_REF#__sigset_t#102#102#102#null
-CursorKind.PARM_DECL##102#102#102#__sigismember(const __sigset_t *, int)
+CursorKind.PARM_DECL#null#102#102#102#__sigismember(const __sigset_t *, int)
 CursorKind.FUNCTION_DECL#__sigaddset(__sigset_t *, int)#103#103#103#
-CursorKind.PARM_DECL##103#103#103#__sigaddset(__sigset_t *, int)
+CursorKind.PARM_DECL#null#103#103#103#__sigaddset(__sigset_t *, int)
 CursorKind.TYPE_REF#__sigset_t#103#103#103#null
-CursorKind.PARM_DECL##103#103#103#__sigaddset(__sigset_t *, int)
+CursorKind.PARM_DECL#null#103#103#103#__sigaddset(__sigset_t *, int)
 CursorKind.FUNCTION_DECL#__sigdelset(__sigset_t *, int)#104#104#104#
-CursorKind.PARM_DECL##104#104#104#__sigdelset(__sigset_t *, int)
+CursorKind.PARM_DECL#null#104#104#104#__sigdelset(__sigset_t *, int)
 CursorKind.TYPE_REF#__sigset_t#104#104#104#null
-CursorKind.PARM_DECL##104#104#104#__sigdelset(__sigset_t *, int)
+CursorKind.PARM_DECL#null#104#104#104#__sigdelset(__sigset_t *, int)
 CursorKind.TYPEDEF_DECL#sig_atomic_t#40#40#40#
 CursorKind.TYPE_REF#__sig_atomic_t#40#40#40#null
 CursorKind.TYPEDEF_DECL#sigset_t#49#49#49#
@@ -762,44 +762,44 @@ CursorKind.FIELD_DECL#sival_int#34#34#34#sigval
 CursorKind.FIELD_DECL#sival_ptr#35#35#35#sigval
 CursorKind.TYPEDEF_DECL#__sigchld_clock_t#58#58#58#
 CursorKind.TYPE_REF#__clock_t#58#58#58#null
-CursorKind.STRUCT_DECL##62#62#133#
+CursorKind.STRUCT_DECL#null#62#62#133#
 CursorKind.FIELD_DECL#si_signo#64#64#64#
 CursorKind.FIELD_DECL#si_errno#65#65#65#
 CursorKind.FIELD_DECL#si_code#67#67#67#
-CursorKind.UNION_DECL##69#69#132#
+CursorKind.UNION_DECL#null#69#69#132#
 CursorKind.FIELD_DECL#_pad#71#71#71#
-CursorKind.PAREN_EXPR##71#71#71#null
-CursorKind.BINARY_OPERATOR##71#71#71#null
-CursorKind.PAREN_EXPR##71#71#71#null
-CursorKind.BINARY_OPERATOR##71#71#71#null
-CursorKind.UNEXPOSED_EXPR##71#71#71#null
-CursorKind.INTEGER_LITERAL##71#71#71#null
-CursorKind.UNEXPOSED_EXPR##71#71#71#null
-CursorKind.UNEXPOSED_EXPR##71#71#71#null
-CursorKind.INTEGER_LITERAL##71#71#71#null
-CursorKind.STRUCT_DECL##74#74#78#
+CursorKind.PAREN_EXPR#null#71#71#71#null
+CursorKind.BINARY_OPERATOR#null#71#71#71#null
+CursorKind.PAREN_EXPR#null#71#71#71#null
+CursorKind.BINARY_OPERATOR#null#71#71#71#null
+CursorKind.UNEXPOSED_EXPR#null#71#71#71#null
+CursorKind.INTEGER_LITERAL#null#71#71#71#null
+CursorKind.UNEXPOSED_EXPR#null#71#71#71#null
+CursorKind.UNEXPOSED_EXPR#null#71#71#71#null
+CursorKind.INTEGER_LITERAL#null#71#71#71#null
+CursorKind.STRUCT_DECL#null#74#74#78#
 CursorKind.FIELD_DECL#si_pid#76#76#76#
 CursorKind.TYPE_REF#__pid_t#76#76#76#null
 CursorKind.FIELD_DECL#si_uid#77#77#77#
 CursorKind.TYPE_REF#__uid_t#77#77#77#null
 CursorKind.FIELD_DECL#_kill#78#74#78#
-CursorKind.STRUCT_DECL##74#74#78#
+CursorKind.STRUCT_DECL#null#74#74#78#
 CursorKind.FIELD_DECL#si_pid#76#76#76#
 CursorKind.TYPE_REF#__pid_t#76#76#76#null
 CursorKind.FIELD_DECL#si_uid#77#77#77#
 CursorKind.TYPE_REF#__uid_t#77#77#77#null
-CursorKind.STRUCT_DECL##81#81#86#
+CursorKind.STRUCT_DECL#null#81#81#86#
 CursorKind.FIELD_DECL#si_tid#83#83#83#
 CursorKind.FIELD_DECL#si_overrun#84#84#84#
 CursorKind.FIELD_DECL#si_sigval#85#85#85#
 CursorKind.TYPE_REF#sigval_t#85#85#85#null
 CursorKind.FIELD_DECL#_timer#86#81#86#
-CursorKind.STRUCT_DECL##81#81#86#
+CursorKind.STRUCT_DECL#null#81#81#86#
 CursorKind.FIELD_DECL#si_tid#83#83#83#
 CursorKind.FIELD_DECL#si_overrun#84#84#84#
 CursorKind.FIELD_DECL#si_sigval#85#85#85#
 CursorKind.TYPE_REF#sigval_t#85#85#85#null
-CursorKind.STRUCT_DECL##89#89#94#
+CursorKind.STRUCT_DECL#null#89#89#94#
 CursorKind.FIELD_DECL#si_pid#91#91#91#
 CursorKind.TYPE_REF#__pid_t#91#91#91#null
 CursorKind.FIELD_DECL#si_uid#92#92#92#
@@ -807,14 +807,14 @@ CursorKind.TYPE_REF#__uid_t#92#92#92#null
 CursorKind.FIELD_DECL#si_sigval#93#93#93#
 CursorKind.TYPE_REF#sigval_t#93#93#93#null
 CursorKind.FIELD_DECL#_rt#94#89#94#
-CursorKind.STRUCT_DECL##89#89#94#
+CursorKind.STRUCT_DECL#null#89#89#94#
 CursorKind.FIELD_DECL#si_pid#91#91#91#
 CursorKind.TYPE_REF#__pid_t#91#91#91#null
 CursorKind.FIELD_DECL#si_uid#92#92#92#
 CursorKind.TYPE_REF#__uid_t#92#92#92#null
 CursorKind.FIELD_DECL#si_sigval#93#93#93#
 CursorKind.TYPE_REF#sigval_t#93#93#93#null
-CursorKind.STRUCT_DECL##97#97#104#
+CursorKind.STRUCT_DECL#null#97#97#104#
 CursorKind.FIELD_DECL#si_pid#99#99#99#
 CursorKind.TYPE_REF#__pid_t#99#99#99#null
 CursorKind.FIELD_DECL#si_uid#100#100#100#
@@ -825,7 +825,7 @@ CursorKind.TYPE_REF#__sigchld_clock_t#102#102#102#null
 CursorKind.FIELD_DECL#si_stime#103#103#103#
 CursorKind.TYPE_REF#__sigchld_clock_t#103#103#103#null
 CursorKind.FIELD_DECL#_sigchld#104#97#104#
-CursorKind.STRUCT_DECL##97#97#104#
+CursorKind.STRUCT_DECL#null#97#97#104#
 CursorKind.FIELD_DECL#si_pid#99#99#99#
 CursorKind.TYPE_REF#__pid_t#99#99#99#null
 CursorKind.FIELD_DECL#si_uid#100#100#100#
@@ -835,78 +835,78 @@ CursorKind.FIELD_DECL#si_utime#102#102#102#
 CursorKind.TYPE_REF#__sigchld_clock_t#102#102#102#null
 CursorKind.FIELD_DECL#si_stime#103#103#103#
 CursorKind.TYPE_REF#__sigchld_clock_t#103#103#103#null
-CursorKind.STRUCT_DECL##107#107#116#
+CursorKind.STRUCT_DECL#null#107#107#116#
 CursorKind.FIELD_DECL#si_addr#109#109#109#
 CursorKind.FIELD_DECL#si_addr_lsb#110#110#110#
-CursorKind.STRUCT_DECL##111#111#115#
+CursorKind.STRUCT_DECL#null#111#111#115#
 CursorKind.FIELD_DECL#_lower#113#113#113#
 CursorKind.FIELD_DECL#_upper#114#114#114#
 CursorKind.FIELD_DECL#si_addr_bnd#115#111#115#
-CursorKind.STRUCT_DECL##111#111#115#
+CursorKind.STRUCT_DECL#null#111#111#115#
 CursorKind.FIELD_DECL#_lower#113#113#113#
 CursorKind.FIELD_DECL#_upper#114#114#114#
 CursorKind.FIELD_DECL#_sigfault#116#107#116#
-CursorKind.STRUCT_DECL##107#107#116#
+CursorKind.STRUCT_DECL#null#107#107#116#
 CursorKind.FIELD_DECL#si_addr#109#109#109#
 CursorKind.FIELD_DECL#si_addr_lsb#110#110#110#
-CursorKind.STRUCT_DECL##111#111#115#
+CursorKind.STRUCT_DECL#null#111#111#115#
 CursorKind.FIELD_DECL#_lower#113#113#113#
 CursorKind.FIELD_DECL#_upper#114#114#114#
 CursorKind.FIELD_DECL#si_addr_bnd#115#111#115#
-CursorKind.STRUCT_DECL##111#111#115#
+CursorKind.STRUCT_DECL#null#111#111#115#
 CursorKind.FIELD_DECL#_lower#113#113#113#
 CursorKind.FIELD_DECL#_upper#114#114#114#
-CursorKind.STRUCT_DECL##119#119#123#
+CursorKind.STRUCT_DECL#null#119#119#123#
 CursorKind.FIELD_DECL#si_band#121#121#121#
 CursorKind.FIELD_DECL#si_fd#122#122#122#
 CursorKind.FIELD_DECL#_sigpoll#123#119#123#
-CursorKind.STRUCT_DECL##119#119#123#
+CursorKind.STRUCT_DECL#null#119#119#123#
 CursorKind.FIELD_DECL#si_band#121#121#121#
 CursorKind.FIELD_DECL#si_fd#122#122#122#
-CursorKind.STRUCT_DECL##126#126#131#
+CursorKind.STRUCT_DECL#null#126#126#131#
 CursorKind.FIELD_DECL#_call_addr#128#128#128#
 CursorKind.FIELD_DECL#_syscall#129#129#129#
 CursorKind.FIELD_DECL#_arch#130#130#130#
 CursorKind.FIELD_DECL#_sigsys#131#126#131#
-CursorKind.STRUCT_DECL##126#126#131#
+CursorKind.STRUCT_DECL#null#126#126#131#
 CursorKind.FIELD_DECL#_call_addr#128#128#128#
 CursorKind.FIELD_DECL#_syscall#129#129#129#
 CursorKind.FIELD_DECL#_arch#130#130#130#
 CursorKind.FIELD_DECL#_sifields#132#69#132#
-CursorKind.UNION_DECL##69#69#132#
+CursorKind.UNION_DECL#null#69#69#132#
 CursorKind.FIELD_DECL#_pad#71#71#71#
-CursorKind.PAREN_EXPR##71#71#71#null
-CursorKind.BINARY_OPERATOR##71#71#71#null
-CursorKind.PAREN_EXPR##71#71#71#null
-CursorKind.BINARY_OPERATOR##71#71#71#null
-CursorKind.UNEXPOSED_EXPR##71#71#71#null
-CursorKind.INTEGER_LITERAL##71#71#71#null
-CursorKind.UNEXPOSED_EXPR##71#71#71#null
-CursorKind.UNEXPOSED_EXPR##71#71#71#null
-CursorKind.INTEGER_LITERAL##71#71#71#null
-CursorKind.STRUCT_DECL##74#74#78#
+CursorKind.PAREN_EXPR#null#71#71#71#null
+CursorKind.BINARY_OPERATOR#null#71#71#71#null
+CursorKind.PAREN_EXPR#null#71#71#71#null
+CursorKind.BINARY_OPERATOR#null#71#71#71#null
+CursorKind.UNEXPOSED_EXPR#null#71#71#71#null
+CursorKind.INTEGER_LITERAL#null#71#71#71#null
+CursorKind.UNEXPOSED_EXPR#null#71#71#71#null
+CursorKind.UNEXPOSED_EXPR#null#71#71#71#null
+CursorKind.INTEGER_LITERAL#null#71#71#71#null
+CursorKind.STRUCT_DECL#null#74#74#78#
 CursorKind.FIELD_DECL#si_pid#76#76#76#
 CursorKind.TYPE_REF#__pid_t#76#76#76#null
 CursorKind.FIELD_DECL#si_uid#77#77#77#
 CursorKind.TYPE_REF#__uid_t#77#77#77#null
 CursorKind.FIELD_DECL#_kill#78#74#78#
-CursorKind.STRUCT_DECL##74#74#78#
+CursorKind.STRUCT_DECL#null#74#74#78#
 CursorKind.FIELD_DECL#si_pid#76#76#76#
 CursorKind.TYPE_REF#__pid_t#76#76#76#null
 CursorKind.FIELD_DECL#si_uid#77#77#77#
 CursorKind.TYPE_REF#__uid_t#77#77#77#null
-CursorKind.STRUCT_DECL##81#81#86#
+CursorKind.STRUCT_DECL#null#81#81#86#
 CursorKind.FIELD_DECL#si_tid#83#83#83#
 CursorKind.FIELD_DECL#si_overrun#84#84#84#
 CursorKind.FIELD_DECL#si_sigval#85#85#85#
 CursorKind.TYPE_REF#sigval_t#85#85#85#null
 CursorKind.FIELD_DECL#_timer#86#81#86#
-CursorKind.STRUCT_DECL##81#81#86#
+CursorKind.STRUCT_DECL#null#81#81#86#
 CursorKind.FIELD_DECL#si_tid#83#83#83#
 CursorKind.FIELD_DECL#si_overrun#84#84#84#
 CursorKind.FIELD_DECL#si_sigval#85#85#85#
 CursorKind.TYPE_REF#sigval_t#85#85#85#null
-CursorKind.STRUCT_DECL##89#89#94#
+CursorKind.STRUCT_DECL#null#89#89#94#
 CursorKind.FIELD_DECL#si_pid#91#91#91#
 CursorKind.TYPE_REF#__pid_t#91#91#91#null
 CursorKind.FIELD_DECL#si_uid#92#92#92#
@@ -914,14 +914,14 @@ CursorKind.TYPE_REF#__uid_t#92#92#92#null
 CursorKind.FIELD_DECL#si_sigval#93#93#93#
 CursorKind.TYPE_REF#sigval_t#93#93#93#null
 CursorKind.FIELD_DECL#_rt#94#89#94#
-CursorKind.STRUCT_DECL##89#89#94#
+CursorKind.STRUCT_DECL#null#89#89#94#
 CursorKind.FIELD_DECL#si_pid#91#91#91#
 CursorKind.TYPE_REF#__pid_t#91#91#91#null
 CursorKind.FIELD_DECL#si_uid#92#92#92#
 CursorKind.TYPE_REF#__uid_t#92#92#92#null
 CursorKind.FIELD_DECL#si_sigval#93#93#93#
 CursorKind.TYPE_REF#sigval_t#93#93#93#null
-CursorKind.STRUCT_DECL##97#97#104#
+CursorKind.STRUCT_DECL#null#97#97#104#
 CursorKind.FIELD_DECL#si_pid#99#99#99#
 CursorKind.TYPE_REF#__pid_t#99#99#99#null
 CursorKind.FIELD_DECL#si_uid#100#100#100#
@@ -932,7 +932,7 @@ CursorKind.TYPE_REF#__sigchld_clock_t#102#102#102#null
 CursorKind.FIELD_DECL#si_stime#103#103#103#
 CursorKind.TYPE_REF#__sigchld_clock_t#103#103#103#null
 CursorKind.FIELD_DECL#_sigchld#104#97#104#
-CursorKind.STRUCT_DECL##97#97#104#
+CursorKind.STRUCT_DECL#null#97#97#104#
 CursorKind.FIELD_DECL#si_pid#99#99#99#
 CursorKind.TYPE_REF#__pid_t#99#99#99#null
 CursorKind.FIELD_DECL#si_uid#100#100#100#
@@ -942,82 +942,82 @@ CursorKind.FIELD_DECL#si_utime#102#102#102#
 CursorKind.TYPE_REF#__sigchld_clock_t#102#102#102#null
 CursorKind.FIELD_DECL#si_stime#103#103#103#
 CursorKind.TYPE_REF#__sigchld_clock_t#103#103#103#null
-CursorKind.STRUCT_DECL##107#107#116#
+CursorKind.STRUCT_DECL#null#107#107#116#
 CursorKind.FIELD_DECL#si_addr#109#109#109#
 CursorKind.FIELD_DECL#si_addr_lsb#110#110#110#
-CursorKind.STRUCT_DECL##111#111#115#
+CursorKind.STRUCT_DECL#null#111#111#115#
 CursorKind.FIELD_DECL#_lower#113#113#113#
 CursorKind.FIELD_DECL#_upper#114#114#114#
 CursorKind.FIELD_DECL#si_addr_bnd#115#111#115#
-CursorKind.STRUCT_DECL##111#111#115#
+CursorKind.STRUCT_DECL#null#111#111#115#
 CursorKind.FIELD_DECL#_lower#113#113#113#
 CursorKind.FIELD_DECL#_upper#114#114#114#
 CursorKind.FIELD_DECL#_sigfault#116#107#116#
-CursorKind.STRUCT_DECL##107#107#116#
+CursorKind.STRUCT_DECL#null#107#107#116#
 CursorKind.FIELD_DECL#si_addr#109#109#109#
 CursorKind.FIELD_DECL#si_addr_lsb#110#110#110#
-CursorKind.STRUCT_DECL##111#111#115#
+CursorKind.STRUCT_DECL#null#111#111#115#
 CursorKind.FIELD_DECL#_lower#113#113#113#
 CursorKind.FIELD_DECL#_upper#114#114#114#
 CursorKind.FIELD_DECL#si_addr_bnd#115#111#115#
-CursorKind.STRUCT_DECL##111#111#115#
+CursorKind.STRUCT_DECL#null#111#111#115#
 CursorKind.FIELD_DECL#_lower#113#113#113#
 CursorKind.FIELD_DECL#_upper#114#114#114#
-CursorKind.STRUCT_DECL##119#119#123#
+CursorKind.STRUCT_DECL#null#119#119#123#
 CursorKind.FIELD_DECL#si_band#121#121#121#
 CursorKind.FIELD_DECL#si_fd#122#122#122#
 CursorKind.FIELD_DECL#_sigpoll#123#119#123#
-CursorKind.STRUCT_DECL##119#119#123#
+CursorKind.STRUCT_DECL#null#119#119#123#
 CursorKind.FIELD_DECL#si_band#121#121#121#
 CursorKind.FIELD_DECL#si_fd#122#122#122#
-CursorKind.STRUCT_DECL##126#126#131#
+CursorKind.STRUCT_DECL#null#126#126#131#
 CursorKind.FIELD_DECL#_call_addr#128#128#128#
 CursorKind.FIELD_DECL#_syscall#129#129#129#
 CursorKind.FIELD_DECL#_arch#130#130#130#
 CursorKind.FIELD_DECL#_sigsys#131#126#131#
-CursorKind.STRUCT_DECL##126#126#131#
+CursorKind.STRUCT_DECL#null#126#126#131#
 CursorKind.FIELD_DECL#_call_addr#128#128#128#
 CursorKind.FIELD_DECL#_syscall#129#129#129#
 CursorKind.FIELD_DECL#_arch#130#130#130#
 CursorKind.TYPEDEF_DECL#siginfo_t#133#62#133#
-CursorKind.STRUCT_DECL##62#62#133#
+CursorKind.STRUCT_DECL#null#62#62#133#
 CursorKind.FIELD_DECL#si_signo#64#64#64#
 CursorKind.FIELD_DECL#si_errno#65#65#65#
 CursorKind.FIELD_DECL#si_code#67#67#67#
-CursorKind.UNION_DECL##69#69#132#
+CursorKind.UNION_DECL#null#69#69#132#
 CursorKind.FIELD_DECL#_pad#71#71#71#
-CursorKind.PAREN_EXPR##71#71#71#null
-CursorKind.BINARY_OPERATOR##71#71#71#null
-CursorKind.PAREN_EXPR##71#71#71#null
-CursorKind.BINARY_OPERATOR##71#71#71#null
-CursorKind.UNEXPOSED_EXPR##71#71#71#null
-CursorKind.INTEGER_LITERAL##71#71#71#null
-CursorKind.UNEXPOSED_EXPR##71#71#71#null
-CursorKind.UNEXPOSED_EXPR##71#71#71#null
-CursorKind.INTEGER_LITERAL##71#71#71#null
-CursorKind.STRUCT_DECL##74#74#78#
+CursorKind.PAREN_EXPR#null#71#71#71#null
+CursorKind.BINARY_OPERATOR#null#71#71#71#null
+CursorKind.PAREN_EXPR#null#71#71#71#null
+CursorKind.BINARY_OPERATOR#null#71#71#71#null
+CursorKind.UNEXPOSED_EXPR#null#71#71#71#null
+CursorKind.INTEGER_LITERAL#null#71#71#71#null
+CursorKind.UNEXPOSED_EXPR#null#71#71#71#null
+CursorKind.UNEXPOSED_EXPR#null#71#71#71#null
+CursorKind.INTEGER_LITERAL#null#71#71#71#null
+CursorKind.STRUCT_DECL#null#74#74#78#
 CursorKind.FIELD_DECL#si_pid#76#76#76#
 CursorKind.TYPE_REF#__pid_t#76#76#76#null
 CursorKind.FIELD_DECL#si_uid#77#77#77#
 CursorKind.TYPE_REF#__uid_t#77#77#77#null
 CursorKind.FIELD_DECL#_kill#78#74#78#
-CursorKind.STRUCT_DECL##74#74#78#
+CursorKind.STRUCT_DECL#null#74#74#78#
 CursorKind.FIELD_DECL#si_pid#76#76#76#
 CursorKind.TYPE_REF#__pid_t#76#76#76#null
 CursorKind.FIELD_DECL#si_uid#77#77#77#
 CursorKind.TYPE_REF#__uid_t#77#77#77#null
-CursorKind.STRUCT_DECL##81#81#86#
+CursorKind.STRUCT_DECL#null#81#81#86#
 CursorKind.FIELD_DECL#si_tid#83#83#83#
 CursorKind.FIELD_DECL#si_overrun#84#84#84#
 CursorKind.FIELD_DECL#si_sigval#85#85#85#
 CursorKind.TYPE_REF#sigval_t#85#85#85#null
 CursorKind.FIELD_DECL#_timer#86#81#86#
-CursorKind.STRUCT_DECL##81#81#86#
+CursorKind.STRUCT_DECL#null#81#81#86#
 CursorKind.FIELD_DECL#si_tid#83#83#83#
 CursorKind.FIELD_DECL#si_overrun#84#84#84#
 CursorKind.FIELD_DECL#si_sigval#85#85#85#
 CursorKind.TYPE_REF#sigval_t#85#85#85#null
-CursorKind.STRUCT_DECL##89#89#94#
+CursorKind.STRUCT_DECL#null#89#89#94#
 CursorKind.FIELD_DECL#si_pid#91#91#91#
 CursorKind.TYPE_REF#__pid_t#91#91#91#null
 CursorKind.FIELD_DECL#si_uid#92#92#92#
@@ -1025,14 +1025,14 @@ CursorKind.TYPE_REF#__uid_t#92#92#92#null
 CursorKind.FIELD_DECL#si_sigval#93#93#93#
 CursorKind.TYPE_REF#sigval_t#93#93#93#null
 CursorKind.FIELD_DECL#_rt#94#89#94#
-CursorKind.STRUCT_DECL##89#89#94#
+CursorKind.STRUCT_DECL#null#89#89#94#
 CursorKind.FIELD_DECL#si_pid#91#91#91#
 CursorKind.TYPE_REF#__pid_t#91#91#91#null
 CursorKind.FIELD_DECL#si_uid#92#92#92#
 CursorKind.TYPE_REF#__uid_t#92#92#92#null
 CursorKind.FIELD_DECL#si_sigval#93#93#93#
 CursorKind.TYPE_REF#sigval_t#93#93#93#null
-CursorKind.STRUCT_DECL##97#97#104#
+CursorKind.STRUCT_DECL#null#97#97#104#
 CursorKind.FIELD_DECL#si_pid#99#99#99#
 CursorKind.TYPE_REF#__pid_t#99#99#99#null
 CursorKind.FIELD_DECL#si_uid#100#100#100#
@@ -1043,7 +1043,7 @@ CursorKind.TYPE_REF#__sigchld_clock_t#102#102#102#null
 CursorKind.FIELD_DECL#si_stime#103#103#103#
 CursorKind.TYPE_REF#__sigchld_clock_t#103#103#103#null
 CursorKind.FIELD_DECL#_sigchld#104#97#104#
-CursorKind.STRUCT_DECL##97#97#104#
+CursorKind.STRUCT_DECL#null#97#97#104#
 CursorKind.FIELD_DECL#si_pid#99#99#99#
 CursorKind.TYPE_REF#__pid_t#99#99#99#null
 CursorKind.FIELD_DECL#si_uid#100#100#100#
@@ -1053,78 +1053,78 @@ CursorKind.FIELD_DECL#si_utime#102#102#102#
 CursorKind.TYPE_REF#__sigchld_clock_t#102#102#102#null
 CursorKind.FIELD_DECL#si_stime#103#103#103#
 CursorKind.TYPE_REF#__sigchld_clock_t#103#103#103#null
-CursorKind.STRUCT_DECL##107#107#116#
+CursorKind.STRUCT_DECL#null#107#107#116#
 CursorKind.FIELD_DECL#si_addr#109#109#109#
 CursorKind.FIELD_DECL#si_addr_lsb#110#110#110#
-CursorKind.STRUCT_DECL##111#111#115#
+CursorKind.STRUCT_DECL#null#111#111#115#
 CursorKind.FIELD_DECL#_lower#113#113#113#
 CursorKind.FIELD_DECL#_upper#114#114#114#
 CursorKind.FIELD_DECL#si_addr_bnd#115#111#115#
-CursorKind.STRUCT_DECL##111#111#115#
+CursorKind.STRUCT_DECL#null#111#111#115#
 CursorKind.FIELD_DECL#_lower#113#113#113#
 CursorKind.FIELD_DECL#_upper#114#114#114#
 CursorKind.FIELD_DECL#_sigfault#116#107#116#
-CursorKind.STRUCT_DECL##107#107#116#
+CursorKind.STRUCT_DECL#null#107#107#116#
 CursorKind.FIELD_DECL#si_addr#109#109#109#
 CursorKind.FIELD_DECL#si_addr_lsb#110#110#110#
-CursorKind.STRUCT_DECL##111#111#115#
+CursorKind.STRUCT_DECL#null#111#111#115#
 CursorKind.FIELD_DECL#_lower#113#113#113#
 CursorKind.FIELD_DECL#_upper#114#114#114#
 CursorKind.FIELD_DECL#si_addr_bnd#115#111#115#
-CursorKind.STRUCT_DECL##111#111#115#
+CursorKind.STRUCT_DECL#null#111#111#115#
 CursorKind.FIELD_DECL#_lower#113#113#113#
 CursorKind.FIELD_DECL#_upper#114#114#114#
-CursorKind.STRUCT_DECL##119#119#123#
+CursorKind.STRUCT_DECL#null#119#119#123#
 CursorKind.FIELD_DECL#si_band#121#121#121#
 CursorKind.FIELD_DECL#si_fd#122#122#122#
 CursorKind.FIELD_DECL#_sigpoll#123#119#123#
-CursorKind.STRUCT_DECL##119#119#123#
+CursorKind.STRUCT_DECL#null#119#119#123#
 CursorKind.FIELD_DECL#si_band#121#121#121#
 CursorKind.FIELD_DECL#si_fd#122#122#122#
-CursorKind.STRUCT_DECL##126#126#131#
+CursorKind.STRUCT_DECL#null#126#126#131#
 CursorKind.FIELD_DECL#_call_addr#128#128#128#
 CursorKind.FIELD_DECL#_syscall#129#129#129#
 CursorKind.FIELD_DECL#_arch#130#130#130#
 CursorKind.FIELD_DECL#_sigsys#131#126#131#
-CursorKind.STRUCT_DECL##126#126#131#
+CursorKind.STRUCT_DECL#null#126#126#131#
 CursorKind.FIELD_DECL#_call_addr#128#128#128#
 CursorKind.FIELD_DECL#_syscall#129#129#129#
 CursorKind.FIELD_DECL#_arch#130#130#130#
 CursorKind.FIELD_DECL#_sifields#132#69#132#
-CursorKind.UNION_DECL##69#69#132#
+CursorKind.UNION_DECL#null#69#69#132#
 CursorKind.FIELD_DECL#_pad#71#71#71#
-CursorKind.PAREN_EXPR##71#71#71#null
-CursorKind.BINARY_OPERATOR##71#71#71#null
-CursorKind.PAREN_EXPR##71#71#71#null
-CursorKind.BINARY_OPERATOR##71#71#71#null
-CursorKind.UNEXPOSED_EXPR##71#71#71#null
-CursorKind.INTEGER_LITERAL##71#71#71#null
-CursorKind.UNEXPOSED_EXPR##71#71#71#null
-CursorKind.UNEXPOSED_EXPR##71#71#71#null
-CursorKind.INTEGER_LITERAL##71#71#71#null
-CursorKind.STRUCT_DECL##74#74#78#
+CursorKind.PAREN_EXPR#null#71#71#71#null
+CursorKind.BINARY_OPERATOR#null#71#71#71#null
+CursorKind.PAREN_EXPR#null#71#71#71#null
+CursorKind.BINARY_OPERATOR#null#71#71#71#null
+CursorKind.UNEXPOSED_EXPR#null#71#71#71#null
+CursorKind.INTEGER_LITERAL#null#71#71#71#null
+CursorKind.UNEXPOSED_EXPR#null#71#71#71#null
+CursorKind.UNEXPOSED_EXPR#null#71#71#71#null
+CursorKind.INTEGER_LITERAL#null#71#71#71#null
+CursorKind.STRUCT_DECL#null#74#74#78#
 CursorKind.FIELD_DECL#si_pid#76#76#76#
 CursorKind.TYPE_REF#__pid_t#76#76#76#null
 CursorKind.FIELD_DECL#si_uid#77#77#77#
 CursorKind.TYPE_REF#__uid_t#77#77#77#null
 CursorKind.FIELD_DECL#_kill#78#74#78#
-CursorKind.STRUCT_DECL##74#74#78#
+CursorKind.STRUCT_DECL#null#74#74#78#
 CursorKind.FIELD_DECL#si_pid#76#76#76#
 CursorKind.TYPE_REF#__pid_t#76#76#76#null
 CursorKind.FIELD_DECL#si_uid#77#77#77#
 CursorKind.TYPE_REF#__uid_t#77#77#77#null
-CursorKind.STRUCT_DECL##81#81#86#
+CursorKind.STRUCT_DECL#null#81#81#86#
 CursorKind.FIELD_DECL#si_tid#83#83#83#
 CursorKind.FIELD_DECL#si_overrun#84#84#84#
 CursorKind.FIELD_DECL#si_sigval#85#85#85#
 CursorKind.TYPE_REF#sigval_t#85#85#85#null
 CursorKind.FIELD_DECL#_timer#86#81#86#
-CursorKind.STRUCT_DECL##81#81#86#
+CursorKind.STRUCT_DECL#null#81#81#86#
 CursorKind.FIELD_DECL#si_tid#83#83#83#
 CursorKind.FIELD_DECL#si_overrun#84#84#84#
 CursorKind.FIELD_DECL#si_sigval#85#85#85#
 CursorKind.TYPE_REF#sigval_t#85#85#85#null
-CursorKind.STRUCT_DECL##89#89#94#
+CursorKind.STRUCT_DECL#null#89#89#94#
 CursorKind.FIELD_DECL#si_pid#91#91#91#
 CursorKind.TYPE_REF#__pid_t#91#91#91#null
 CursorKind.FIELD_DECL#si_uid#92#92#92#
@@ -1132,14 +1132,14 @@ CursorKind.TYPE_REF#__uid_t#92#92#92#null
 CursorKind.FIELD_DECL#si_sigval#93#93#93#
 CursorKind.TYPE_REF#sigval_t#93#93#93#null
 CursorKind.FIELD_DECL#_rt#94#89#94#
-CursorKind.STRUCT_DECL##89#89#94#
+CursorKind.STRUCT_DECL#null#89#89#94#
 CursorKind.FIELD_DECL#si_pid#91#91#91#
 CursorKind.TYPE_REF#__pid_t#91#91#91#null
 CursorKind.FIELD_DECL#si_uid#92#92#92#
 CursorKind.TYPE_REF#__uid_t#92#92#92#null
 CursorKind.FIELD_DECL#si_sigval#93#93#93#
 CursorKind.TYPE_REF#sigval_t#93#93#93#null
-CursorKind.STRUCT_DECL##97#97#104#
+CursorKind.STRUCT_DECL#null#97#97#104#
 CursorKind.FIELD_DECL#si_pid#99#99#99#
 CursorKind.TYPE_REF#__pid_t#99#99#99#null
 CursorKind.FIELD_DECL#si_uid#100#100#100#
@@ -1150,7 +1150,7 @@ CursorKind.TYPE_REF#__sigchld_clock_t#102#102#102#null
 CursorKind.FIELD_DECL#si_stime#103#103#103#
 CursorKind.TYPE_REF#__sigchld_clock_t#103#103#103#null
 CursorKind.FIELD_DECL#_sigchld#104#97#104#
-CursorKind.STRUCT_DECL##97#97#104#
+CursorKind.STRUCT_DECL#null#97#97#104#
 CursorKind.FIELD_DECL#si_pid#99#99#99#
 CursorKind.TYPE_REF#__pid_t#99#99#99#null
 CursorKind.FIELD_DECL#si_uid#100#100#100#
@@ -1160,50 +1160,50 @@ CursorKind.FIELD_DECL#si_utime#102#102#102#
 CursorKind.TYPE_REF#__sigchld_clock_t#102#102#102#null
 CursorKind.FIELD_DECL#si_stime#103#103#103#
 CursorKind.TYPE_REF#__sigchld_clock_t#103#103#103#null
-CursorKind.STRUCT_DECL##107#107#116#
+CursorKind.STRUCT_DECL#null#107#107#116#
 CursorKind.FIELD_DECL#si_addr#109#109#109#
 CursorKind.FIELD_DECL#si_addr_lsb#110#110#110#
-CursorKind.STRUCT_DECL##111#111#115#
+CursorKind.STRUCT_DECL#null#111#111#115#
 CursorKind.FIELD_DECL#_lower#113#113#113#
 CursorKind.FIELD_DECL#_upper#114#114#114#
 CursorKind.FIELD_DECL#si_addr_bnd#115#111#115#
-CursorKind.STRUCT_DECL##111#111#115#
+CursorKind.STRUCT_DECL#null#111#111#115#
 CursorKind.FIELD_DECL#_lower#113#113#113#
 CursorKind.FIELD_DECL#_upper#114#114#114#
 CursorKind.FIELD_DECL#_sigfault#116#107#116#
-CursorKind.STRUCT_DECL##107#107#116#
+CursorKind.STRUCT_DECL#null#107#107#116#
 CursorKind.FIELD_DECL#si_addr#109#109#109#
 CursorKind.FIELD_DECL#si_addr_lsb#110#110#110#
-CursorKind.STRUCT_DECL##111#111#115#
+CursorKind.STRUCT_DECL#null#111#111#115#
 CursorKind.FIELD_DECL#_lower#113#113#113#
 CursorKind.FIELD_DECL#_upper#114#114#114#
 CursorKind.FIELD_DECL#si_addr_bnd#115#111#115#
-CursorKind.STRUCT_DECL##111#111#115#
+CursorKind.STRUCT_DECL#null#111#111#115#
 CursorKind.FIELD_DECL#_lower#113#113#113#
 CursorKind.FIELD_DECL#_upper#114#114#114#
-CursorKind.STRUCT_DECL##119#119#123#
+CursorKind.STRUCT_DECL#null#119#119#123#
 CursorKind.FIELD_DECL#si_band#121#121#121#
 CursorKind.FIELD_DECL#si_fd#122#122#122#
 CursorKind.FIELD_DECL#_sigpoll#123#119#123#
-CursorKind.STRUCT_DECL##119#119#123#
+CursorKind.STRUCT_DECL#null#119#119#123#
 CursorKind.FIELD_DECL#si_band#121#121#121#
 CursorKind.FIELD_DECL#si_fd#122#122#122#
-CursorKind.STRUCT_DECL##126#126#131#
+CursorKind.STRUCT_DECL#null#126#126#131#
 CursorKind.FIELD_DECL#_call_addr#128#128#128#
 CursorKind.FIELD_DECL#_syscall#129#129#129#
 CursorKind.FIELD_DECL#_arch#130#130#130#
 CursorKind.FIELD_DECL#_sigsys#131#126#131#
-CursorKind.STRUCT_DECL##126#126#131#
+CursorKind.STRUCT_DECL#null#126#126#131#
 CursorKind.FIELD_DECL#_call_addr#128#128#128#
 CursorKind.FIELD_DECL#_syscall#129#129#129#
 CursorKind.FIELD_DECL#_arch#130#130#130#
-CursorKind.ENUM_DECL##160#160#180#
+CursorKind.ENUM_DECL#null#160#160#180#
 CursorKind.ENUM_CONSTANT_DECL#SI_ASYNCNL#162#162#162#
-CursorKind.UNARY_OPERATOR##162#162#162#null
-CursorKind.INTEGER_LITERAL##162#162#162#null
+CursorKind.UNARY_OPERATOR#null#162#162#162#null
+CursorKind.INTEGER_LITERAL#null#162#162#162#null
 CursorKind.ENUM_CONSTANT_DECL#SI_TKILL#164#164#164#
-CursorKind.UNARY_OPERATOR##164#164#164#null
-CursorKind.INTEGER_LITERAL##164#164#164#null
+CursorKind.UNARY_OPERATOR#null#164#164#164#null
+CursorKind.INTEGER_LITERAL#null#164#164#164#null
 CursorKind.ENUM_CONSTANT_DECL#SI_SIGIO#166#166#166#
 CursorKind.ENUM_CONSTANT_DECL#SI_ASYNCIO#168#168#168#
 CursorKind.ENUM_CONSTANT_DECL#SI_MESGQ#170#170#170#
@@ -1211,11 +1211,11 @@ CursorKind.ENUM_CONSTANT_DECL#SI_TIMER#172#172#172#
 CursorKind.ENUM_CONSTANT_DECL#SI_QUEUE#174#174#174#
 CursorKind.ENUM_CONSTANT_DECL#SI_USER#176#176#176#
 CursorKind.ENUM_CONSTANT_DECL#SI_KERNEL#178#178#178#
-CursorKind.INTEGER_LITERAL##178#178#178#null
-CursorKind.ENUM_DECL##185#185#203#
+CursorKind.INTEGER_LITERAL#null#178#178#178#null
+CursorKind.ENUM_DECL#null#185#185#203#
 CursorKind.ENUM_CONSTANT_DECL#ILL_ILLOPC#187#187#187#
-CursorKind.UNEXPOSED_EXPR##187#187#187#null
-CursorKind.INTEGER_LITERAL##187#187#187#null
+CursorKind.UNEXPOSED_EXPR#null#187#187#187#null
+CursorKind.INTEGER_LITERAL#null#187#187#187#null
 CursorKind.ENUM_CONSTANT_DECL#ILL_ILLOPN#189#189#189#
 CursorKind.ENUM_CONSTANT_DECL#ILL_ILLADR#191#191#191#
 CursorKind.ENUM_CONSTANT_DECL#ILL_ILLTRP#193#193#193#
@@ -1223,10 +1223,10 @@ CursorKind.ENUM_CONSTANT_DECL#ILL_PRVOPC#195#195#195#
 CursorKind.ENUM_CONSTANT_DECL#ILL_PRVREG#197#197#197#
 CursorKind.ENUM_CONSTANT_DECL#ILL_COPROC#199#199#199#
 CursorKind.ENUM_CONSTANT_DECL#ILL_BADSTK#201#201#201#
-CursorKind.ENUM_DECL##206#206#224#
+CursorKind.ENUM_DECL#null#206#206#224#
 CursorKind.ENUM_CONSTANT_DECL#FPE_INTDIV#208#208#208#
-CursorKind.UNEXPOSED_EXPR##208#208#208#null
-CursorKind.INTEGER_LITERAL##208#208#208#null
+CursorKind.UNEXPOSED_EXPR#null#208#208#208#null
+CursorKind.INTEGER_LITERAL#null#208#208#208#null
 CursorKind.ENUM_CONSTANT_DECL#FPE_INTOVF#210#210#210#
 CursorKind.ENUM_CONSTANT_DECL#FPE_FLTDIV#212#212#212#
 CursorKind.ENUM_CONSTANT_DECL#FPE_FLTOVF#214#214#214#
@@ -1234,37 +1234,37 @@ CursorKind.ENUM_CONSTANT_DECL#FPE_FLTUND#216#216#216#
 CursorKind.ENUM_CONSTANT_DECL#FPE_FLTRES#218#218#218#
 CursorKind.ENUM_CONSTANT_DECL#FPE_FLTINV#220#220#220#
 CursorKind.ENUM_CONSTANT_DECL#FPE_FLTSUB#222#222#222#
-CursorKind.ENUM_DECL##227#227#233#
+CursorKind.ENUM_DECL#null#227#227#233#
 CursorKind.ENUM_CONSTANT_DECL#SEGV_MAPERR#229#229#229#
-CursorKind.UNEXPOSED_EXPR##229#229#229#null
-CursorKind.INTEGER_LITERAL##229#229#229#null
+CursorKind.UNEXPOSED_EXPR#null#229#229#229#null
+CursorKind.INTEGER_LITERAL#null#229#229#229#null
 CursorKind.ENUM_CONSTANT_DECL#SEGV_ACCERR#231#231#231#
-CursorKind.ENUM_DECL##236#236#248#
+CursorKind.ENUM_DECL#null#236#236#248#
 CursorKind.ENUM_CONSTANT_DECL#BUS_ADRALN#238#238#238#
-CursorKind.UNEXPOSED_EXPR##238#238#238#null
-CursorKind.INTEGER_LITERAL##238#238#238#null
+CursorKind.UNEXPOSED_EXPR#null#238#238#238#null
+CursorKind.INTEGER_LITERAL#null#238#238#238#null
 CursorKind.ENUM_CONSTANT_DECL#BUS_ADRERR#240#240#240#
 CursorKind.ENUM_CONSTANT_DECL#BUS_OBJERR#242#242#242#
 CursorKind.ENUM_CONSTANT_DECL#BUS_MCEERR_AR#244#244#244#
 CursorKind.ENUM_CONSTANT_DECL#BUS_MCEERR_AO#246#246#246#
-CursorKind.ENUM_DECL##253#253#259#
+CursorKind.ENUM_DECL#null#253#253#259#
 CursorKind.ENUM_CONSTANT_DECL#TRAP_BRKPT#255#255#255#
-CursorKind.UNEXPOSED_EXPR##255#255#255#null
-CursorKind.INTEGER_LITERAL##255#255#255#null
+CursorKind.UNEXPOSED_EXPR#null#255#255#255#null
+CursorKind.INTEGER_LITERAL#null#255#255#255#null
 CursorKind.ENUM_CONSTANT_DECL#TRAP_TRACE#257#257#257#
-CursorKind.ENUM_DECL##264#264#278#
+CursorKind.ENUM_DECL#null#264#264#278#
 CursorKind.ENUM_CONSTANT_DECL#CLD_EXITED#266#266#266#
-CursorKind.UNEXPOSED_EXPR##266#266#266#null
-CursorKind.INTEGER_LITERAL##266#266#266#null
+CursorKind.UNEXPOSED_EXPR#null#266#266#266#null
+CursorKind.INTEGER_LITERAL#null#266#266#266#null
 CursorKind.ENUM_CONSTANT_DECL#CLD_KILLED#268#268#268#
 CursorKind.ENUM_CONSTANT_DECL#CLD_DUMPED#270#270#270#
 CursorKind.ENUM_CONSTANT_DECL#CLD_TRAPPED#272#272#272#
 CursorKind.ENUM_CONSTANT_DECL#CLD_STOPPED#274#274#274#
 CursorKind.ENUM_CONSTANT_DECL#CLD_CONTINUED#276#276#276#
-CursorKind.ENUM_DECL##281#281#295#
+CursorKind.ENUM_DECL#null#281#281#295#
 CursorKind.ENUM_CONSTANT_DECL#POLL_IN#283#283#283#
-CursorKind.UNEXPOSED_EXPR##283#283#283#null
-CursorKind.INTEGER_LITERAL##283#283#283#null
+CursorKind.UNEXPOSED_EXPR#null#283#283#283#null
+CursorKind.INTEGER_LITERAL#null#283#283#283#null
 CursorKind.ENUM_CONSTANT_DECL#POLL_OUT#285#285#285#
 CursorKind.ENUM_CONSTANT_DECL#POLL_MSG#287#287#287#
 CursorKind.ENUM_CONSTANT_DECL#POLL_ERR#289#289#289#
@@ -1278,56 +1278,56 @@ CursorKind.FIELD_DECL#sigev_value#322#322#322#sigevent
 CursorKind.TYPE_REF#sigval_t#322#322#322#null
 CursorKind.FIELD_DECL#sigev_signo#323#323#323#sigevent
 CursorKind.FIELD_DECL#sigev_notify#324#324#324#sigevent
-CursorKind.UNION_DECL##326#326#339#sigevent
+CursorKind.UNION_DECL#null#326#326#339#sigevent
 CursorKind.FIELD_DECL#_pad#328#328#328#
-CursorKind.PAREN_EXPR##328#328#328#null
-CursorKind.BINARY_OPERATOR##328#328#328#null
-CursorKind.PAREN_EXPR##328#328#328#null
-CursorKind.BINARY_OPERATOR##328#328#328#null
-CursorKind.UNEXPOSED_EXPR##328#328#328#null
-CursorKind.INTEGER_LITERAL##328#328#328#null
-CursorKind.UNEXPOSED_EXPR##328#328#328#null
-CursorKind.UNEXPOSED_EXPR##328#328#328#null
-CursorKind.INTEGER_LITERAL##328#328#328#null
+CursorKind.PAREN_EXPR#null#328#328#328#null
+CursorKind.BINARY_OPERATOR#null#328#328#328#null
+CursorKind.PAREN_EXPR#null#328#328#328#null
+CursorKind.BINARY_OPERATOR#null#328#328#328#null
+CursorKind.UNEXPOSED_EXPR#null#328#328#328#null
+CursorKind.INTEGER_LITERAL#null#328#328#328#null
+CursorKind.UNEXPOSED_EXPR#null#328#328#328#null
+CursorKind.UNEXPOSED_EXPR#null#328#328#328#null
+CursorKind.INTEGER_LITERAL#null#328#328#328#null
 CursorKind.FIELD_DECL#_tid#332#332#332#
 CursorKind.TYPE_REF#__pid_t#332#332#332#null
-CursorKind.STRUCT_DECL##334#334#338#
+CursorKind.STRUCT_DECL#null#334#334#338#
 CursorKind.FIELD_DECL#_function#336#336#336#
-CursorKind.PARM_DECL##336#336#336#test.cpp
+CursorKind.PARM_DECL#null#336#336#336#test.cpp
 CursorKind.TYPE_REF#sigval_t#336#336#336#null
 CursorKind.FIELD_DECL#_attribute#337#337#337#
 CursorKind.TYPE_REF#pthread_attr_t#337#337#337#null
 CursorKind.FIELD_DECL#_sigev_thread#338#334#338#
-CursorKind.STRUCT_DECL##334#334#338#
+CursorKind.STRUCT_DECL#null#334#334#338#
 CursorKind.FIELD_DECL#_function#336#336#336#
-CursorKind.PARM_DECL##336#336#336#test.cpp
+CursorKind.PARM_DECL#null#336#336#336#test.cpp
 CursorKind.TYPE_REF#sigval_t#336#336#336#null
 CursorKind.FIELD_DECL#_attribute#337#337#337#
 CursorKind.TYPE_REF#pthread_attr_t#337#337#337#null
 CursorKind.FIELD_DECL#_sigev_un#339#326#339#sigevent
-CursorKind.UNION_DECL##326#326#339#sigevent
+CursorKind.UNION_DECL#null#326#326#339#sigevent
 CursorKind.FIELD_DECL#_pad#328#328#328#
-CursorKind.PAREN_EXPR##328#328#328#null
-CursorKind.BINARY_OPERATOR##328#328#328#null
-CursorKind.PAREN_EXPR##328#328#328#null
-CursorKind.BINARY_OPERATOR##328#328#328#null
-CursorKind.UNEXPOSED_EXPR##328#328#328#null
-CursorKind.INTEGER_LITERAL##328#328#328#null
-CursorKind.UNEXPOSED_EXPR##328#328#328#null
-CursorKind.UNEXPOSED_EXPR##328#328#328#null
-CursorKind.INTEGER_LITERAL##328#328#328#null
+CursorKind.PAREN_EXPR#null#328#328#328#null
+CursorKind.BINARY_OPERATOR#null#328#328#328#null
+CursorKind.PAREN_EXPR#null#328#328#328#null
+CursorKind.BINARY_OPERATOR#null#328#328#328#null
+CursorKind.UNEXPOSED_EXPR#null#328#328#328#null
+CursorKind.INTEGER_LITERAL#null#328#328#328#null
+CursorKind.UNEXPOSED_EXPR#null#328#328#328#null
+CursorKind.UNEXPOSED_EXPR#null#328#328#328#null
+CursorKind.INTEGER_LITERAL#null#328#328#328#null
 CursorKind.FIELD_DECL#_tid#332#332#332#
 CursorKind.TYPE_REF#__pid_t#332#332#332#null
-CursorKind.STRUCT_DECL##334#334#338#
+CursorKind.STRUCT_DECL#null#334#334#338#
 CursorKind.FIELD_DECL#_function#336#336#336#
-CursorKind.PARM_DECL##336#336#336#test.cpp
+CursorKind.PARM_DECL#null#336#336#336#test.cpp
 CursorKind.TYPE_REF#sigval_t#336#336#336#null
 CursorKind.FIELD_DECL#_attribute#337#337#337#
 CursorKind.TYPE_REF#pthread_attr_t#337#337#337#null
 CursorKind.FIELD_DECL#_sigev_thread#338#334#338#
-CursorKind.STRUCT_DECL##334#334#338#
+CursorKind.STRUCT_DECL#null#334#334#338#
 CursorKind.FIELD_DECL#_function#336#336#336#
-CursorKind.PARM_DECL##336#336#336#test.cpp
+CursorKind.PARM_DECL#null#336#336#336#test.cpp
 CursorKind.TYPE_REF#sigval_t#336#336#336#null
 CursorKind.FIELD_DECL#_attribute#337#337#337#
 CursorKind.TYPE_REF#pthread_attr_t#337#337#337#null
@@ -1337,70 +1337,70 @@ CursorKind.FIELD_DECL#sigev_value#322#322#322#sigevent
 CursorKind.TYPE_REF#sigval_t#322#322#322#null
 CursorKind.FIELD_DECL#sigev_signo#323#323#323#sigevent
 CursorKind.FIELD_DECL#sigev_notify#324#324#324#sigevent
-CursorKind.UNION_DECL##326#326#339#sigevent
+CursorKind.UNION_DECL#null#326#326#339#sigevent
 CursorKind.FIELD_DECL#_pad#328#328#328#
-CursorKind.PAREN_EXPR##328#328#328#null
-CursorKind.BINARY_OPERATOR##328#328#328#null
-CursorKind.PAREN_EXPR##328#328#328#null
-CursorKind.BINARY_OPERATOR##328#328#328#null
-CursorKind.UNEXPOSED_EXPR##328#328#328#null
-CursorKind.INTEGER_LITERAL##328#328#328#null
-CursorKind.UNEXPOSED_EXPR##328#328#328#null
-CursorKind.UNEXPOSED_EXPR##328#328#328#null
-CursorKind.INTEGER_LITERAL##328#328#328#null
+CursorKind.PAREN_EXPR#null#328#328#328#null
+CursorKind.BINARY_OPERATOR#null#328#328#328#null
+CursorKind.PAREN_EXPR#null#328#328#328#null
+CursorKind.BINARY_OPERATOR#null#328#328#328#null
+CursorKind.UNEXPOSED_EXPR#null#328#328#328#null
+CursorKind.INTEGER_LITERAL#null#328#328#328#null
+CursorKind.UNEXPOSED_EXPR#null#328#328#328#null
+CursorKind.UNEXPOSED_EXPR#null#328#328#328#null
+CursorKind.INTEGER_LITERAL#null#328#328#328#null
 CursorKind.FIELD_DECL#_tid#332#332#332#
 CursorKind.TYPE_REF#__pid_t#332#332#332#null
-CursorKind.STRUCT_DECL##334#334#338#
+CursorKind.STRUCT_DECL#null#334#334#338#
 CursorKind.FIELD_DECL#_function#336#336#336#
-CursorKind.PARM_DECL##336#336#336#test.cpp
+CursorKind.PARM_DECL#null#336#336#336#test.cpp
 CursorKind.TYPE_REF#sigval_t#336#336#336#null
 CursorKind.FIELD_DECL#_attribute#337#337#337#
 CursorKind.TYPE_REF#pthread_attr_t#337#337#337#null
 CursorKind.FIELD_DECL#_sigev_thread#338#334#338#
-CursorKind.STRUCT_DECL##334#334#338#
+CursorKind.STRUCT_DECL#null#334#334#338#
 CursorKind.FIELD_DECL#_function#336#336#336#
-CursorKind.PARM_DECL##336#336#336#test.cpp
+CursorKind.PARM_DECL#null#336#336#336#test.cpp
 CursorKind.TYPE_REF#sigval_t#336#336#336#null
 CursorKind.FIELD_DECL#_attribute#337#337#337#
 CursorKind.TYPE_REF#pthread_attr_t#337#337#337#null
 CursorKind.FIELD_DECL#_sigev_un#339#326#339#sigevent
-CursorKind.UNION_DECL##326#326#339#sigevent
+CursorKind.UNION_DECL#null#326#326#339#sigevent
 CursorKind.FIELD_DECL#_pad#328#328#328#
-CursorKind.PAREN_EXPR##328#328#328#null
-CursorKind.BINARY_OPERATOR##328#328#328#null
-CursorKind.PAREN_EXPR##328#328#328#null
-CursorKind.BINARY_OPERATOR##328#328#328#null
-CursorKind.UNEXPOSED_EXPR##328#328#328#null
-CursorKind.INTEGER_LITERAL##328#328#328#null
-CursorKind.UNEXPOSED_EXPR##328#328#328#null
-CursorKind.UNEXPOSED_EXPR##328#328#328#null
-CursorKind.INTEGER_LITERAL##328#328#328#null
+CursorKind.PAREN_EXPR#null#328#328#328#null
+CursorKind.BINARY_OPERATOR#null#328#328#328#null
+CursorKind.PAREN_EXPR#null#328#328#328#null
+CursorKind.BINARY_OPERATOR#null#328#328#328#null
+CursorKind.UNEXPOSED_EXPR#null#328#328#328#null
+CursorKind.INTEGER_LITERAL#null#328#328#328#null
+CursorKind.UNEXPOSED_EXPR#null#328#328#328#null
+CursorKind.UNEXPOSED_EXPR#null#328#328#328#null
+CursorKind.INTEGER_LITERAL#null#328#328#328#null
 CursorKind.FIELD_DECL#_tid#332#332#332#
 CursorKind.TYPE_REF#__pid_t#332#332#332#null
-CursorKind.STRUCT_DECL##334#334#338#
+CursorKind.STRUCT_DECL#null#334#334#338#
 CursorKind.FIELD_DECL#_function#336#336#336#
-CursorKind.PARM_DECL##336#336#336#test.cpp
+CursorKind.PARM_DECL#null#336#336#336#test.cpp
 CursorKind.TYPE_REF#sigval_t#336#336#336#null
 CursorKind.FIELD_DECL#_attribute#337#337#337#
 CursorKind.TYPE_REF#pthread_attr_t#337#337#337#null
 CursorKind.FIELD_DECL#_sigev_thread#338#334#338#
-CursorKind.STRUCT_DECL##334#334#338#
+CursorKind.STRUCT_DECL#null#334#334#338#
 CursorKind.FIELD_DECL#_function#336#336#336#
-CursorKind.PARM_DECL##336#336#336#test.cpp
+CursorKind.PARM_DECL#null#336#336#336#test.cpp
 CursorKind.TYPE_REF#sigval_t#336#336#336#null
 CursorKind.FIELD_DECL#_attribute#337#337#337#
 CursorKind.TYPE_REF#pthread_attr_t#337#337#337#null
-CursorKind.ENUM_DECL##347#347#358#
+CursorKind.ENUM_DECL#null#347#347#358#
 CursorKind.ENUM_CONSTANT_DECL#SIGEV_SIGNAL#349#349#349#
-CursorKind.UNEXPOSED_EXPR##349#349#349#null
-CursorKind.INTEGER_LITERAL##349#349#349#null
+CursorKind.UNEXPOSED_EXPR#null#349#349#349#null
+CursorKind.INTEGER_LITERAL#null#349#349#349#null
 CursorKind.ENUM_CONSTANT_DECL#SIGEV_NONE#351#351#351#
 CursorKind.ENUM_CONSTANT_DECL#SIGEV_THREAD#353#353#353#
 CursorKind.ENUM_CONSTANT_DECL#SIGEV_THREAD_ID#356#356#356#
-CursorKind.UNEXPOSED_EXPR##356#356#356#null
-CursorKind.INTEGER_LITERAL##356#356#356#null
+CursorKind.UNEXPOSED_EXPR#null#356#356#356#null
+CursorKind.INTEGER_LITERAL#null#356#356#356#null
 CursorKind.TYPEDEF_DECL#__sighandler_t#85#85#85#
-CursorKind.PARM_DECL##85#85#85#test.cpp
+CursorKind.PARM_DECL#null#85#85#85#test.cpp
 CursorKind.FUNCTION_DECL#__sysv_signal(int, __sighandler_t)#90#90#91#
 CursorKind.TYPE_REF#__sighandler_t#90#90#90#null
 CursorKind.PARM_DECL#__sig#90#90#90#__sysv_signal(int, __sighandler_t)
@@ -1449,46 +1449,46 @@ CursorKind.FUNCTION_DECL#sigpause(int)#168#168#168#
 CursorKind.ASM_LABEL_ATTR#__xpg_sigpause#168#168#168#null
 CursorKind.PARM_DECL#__sig#168#168#168#sigpause(int)
 CursorKind.FUNCTION_DECL#sigblock(int)#187#187#187#
-CursorKind.UNEXPOSED_ATTR##187#187#187#null
+CursorKind.UNEXPOSED_ATTR#null#187#187#187#null
 CursorKind.PARM_DECL#__mask#187#187#187#sigblock(int)
 CursorKind.FUNCTION_DECL#sigsetmask(int)#190#190#190#
-CursorKind.UNEXPOSED_ATTR##190#190#190#null
+CursorKind.UNEXPOSED_ATTR#null#190#190#190#null
 CursorKind.PARM_DECL#__mask#190#190#190#sigsetmask(int)
 CursorKind.FUNCTION_DECL#siggetmask()#193#193#193#
-CursorKind.UNEXPOSED_ATTR##193#193#193#null
+CursorKind.UNEXPOSED_ATTR#null#193#193#193#null
 CursorKind.TYPEDEF_DECL#sighandler_t#202#202#202#
 CursorKind.TYPE_REF#__sighandler_t#202#202#202#null
 CursorKind.TYPEDEF_DECL#sig_t#207#207#207#
 CursorKind.TYPE_REF#__sighandler_t#207#207#207#null
 CursorKind.FUNCTION_DECL#sigemptyset(sigset_t *)#213#213#213#
-CursorKind.UNEXPOSED_ATTR##213#213#213#null
+CursorKind.UNEXPOSED_ATTR#null#213#213#213#null
 CursorKind.PARM_DECL#__set#213#213#213#sigemptyset(sigset_t *)
 CursorKind.TYPE_REF#sigset_t#213#213#213#null
 CursorKind.FUNCTION_DECL#sigfillset(sigset_t *)#216#216#216#
-CursorKind.UNEXPOSED_ATTR##216#216#216#null
+CursorKind.UNEXPOSED_ATTR#null#216#216#216#null
 CursorKind.PARM_DECL#__set#216#216#216#sigfillset(sigset_t *)
 CursorKind.TYPE_REF#sigset_t#216#216#216#null
 CursorKind.FUNCTION_DECL#sigaddset(sigset_t *, int)#219#219#219#
-CursorKind.UNEXPOSED_ATTR##219#219#219#null
+CursorKind.UNEXPOSED_ATTR#null#219#219#219#null
 CursorKind.PARM_DECL#__set#219#219#219#sigaddset(sigset_t *, int)
 CursorKind.TYPE_REF#sigset_t#219#219#219#null
 CursorKind.PARM_DECL#__signo#219#219#219#sigaddset(sigset_t *, int)
 CursorKind.FUNCTION_DECL#sigdelset(sigset_t *, int)#222#222#222#
-CursorKind.UNEXPOSED_ATTR##222#222#222#null
+CursorKind.UNEXPOSED_ATTR#null#222#222#222#null
 CursorKind.PARM_DECL#__set#222#222#222#sigdelset(sigset_t *, int)
 CursorKind.TYPE_REF#sigset_t#222#222#222#null
 CursorKind.PARM_DECL#__signo#222#222#222#sigdelset(sigset_t *, int)
 CursorKind.FUNCTION_DECL#sigismember(const sigset_t *, int)#225#225#226#
-CursorKind.UNEXPOSED_ATTR##226#226#226#null
+CursorKind.UNEXPOSED_ATTR#null#226#226#226#null
 CursorKind.PARM_DECL#__set#225#225#225#sigismember(const sigset_t *, int)
 CursorKind.TYPE_REF#sigset_t#225#225#225#null
 CursorKind.PARM_DECL#__signo#225#225#225#sigismember(const sigset_t *, int)
 CursorKind.FUNCTION_DECL#sigisemptyset(const sigset_t *)#230#230#230#
-CursorKind.UNEXPOSED_ATTR##230#230#230#null
+CursorKind.UNEXPOSED_ATTR#null#230#230#230#null
 CursorKind.PARM_DECL#__set#230#230#230#sigisemptyset(const sigset_t *)
 CursorKind.TYPE_REF#sigset_t#230#230#230#null
 CursorKind.FUNCTION_DECL#sigandset(sigset_t *, const sigset_t *, const sigset_t *)#233#233#234#
-CursorKind.UNEXPOSED_ATTR##234#234#234#null
+CursorKind.UNEXPOSED_ATTR#null#234#234#234#null
 CursorKind.PARM_DECL#__set#233#233#233#sigandset(sigset_t *, const sigset_t *, const sigset_t *)
 CursorKind.TYPE_REF#sigset_t#233#233#233#null
 CursorKind.PARM_DECL#__left#233#233#233#sigandset(sigset_t *, const sigset_t *, const sigset_t *)
@@ -1496,7 +1496,7 @@ CursorKind.TYPE_REF#sigset_t#233#233#233#null
 CursorKind.PARM_DECL#__right#234#234#234#sigandset(sigset_t *, const sigset_t *, const sigset_t *)
 CursorKind.TYPE_REF#sigset_t#234#234#234#null
 CursorKind.FUNCTION_DECL#sigorset(sigset_t *, const sigset_t *, const sigset_t *)#237#237#238#
-CursorKind.UNEXPOSED_ATTR##238#238#238#null
+CursorKind.UNEXPOSED_ATTR#null#238#238#238#null
 CursorKind.PARM_DECL#__set#237#237#237#sigorset(sigset_t *, const sigset_t *, const sigset_t *)
 CursorKind.TYPE_REF#sigset_t#237#237#237#null
 CursorKind.PARM_DECL#__left#237#237#237#sigorset(sigset_t *, const sigset_t *, const sigset_t *)
@@ -1504,23 +1504,23 @@ CursorKind.TYPE_REF#sigset_t#237#237#237#null
 CursorKind.PARM_DECL#__right#238#238#238#sigorset(sigset_t *, const sigset_t *, const sigset_t *)
 CursorKind.TYPE_REF#sigset_t#238#238#238#null
 CursorKind.STRUCT_DECL#sigaction#24#24#50#
-CursorKind.UNION_DECL##28#28#34#sigaction
+CursorKind.UNION_DECL#null#28#28#34#sigaction
 CursorKind.FIELD_DECL#sa_handler#31#31#31#
 CursorKind.TYPE_REF#__sighandler_t#31#31#31#null
 CursorKind.FIELD_DECL#sa_sigaction#33#33#33#
-CursorKind.PARM_DECL##33#33#33#test.cpp
-CursorKind.PARM_DECL##33#33#33#test.cpp
+CursorKind.PARM_DECL#null#33#33#33#test.cpp
+CursorKind.PARM_DECL#null#33#33#33#test.cpp
 CursorKind.TYPE_REF#siginfo_t#33#33#33#null
-CursorKind.PARM_DECL##33#33#33#test.cpp
+CursorKind.PARM_DECL#null#33#33#33#test.cpp
 CursorKind.FIELD_DECL#__sigaction_handler#35#28#35#sigaction
-CursorKind.UNION_DECL##28#28#34#sigaction
+CursorKind.UNION_DECL#null#28#28#34#sigaction
 CursorKind.FIELD_DECL#sa_handler#31#31#31#
 CursorKind.TYPE_REF#__sighandler_t#31#31#31#null
 CursorKind.FIELD_DECL#sa_sigaction#33#33#33#
-CursorKind.PARM_DECL##33#33#33#test.cpp
-CursorKind.PARM_DECL##33#33#33#test.cpp
+CursorKind.PARM_DECL#null#33#33#33#test.cpp
+CursorKind.PARM_DECL#null#33#33#33#test.cpp
 CursorKind.TYPE_REF#siginfo_t#33#33#33#null
-CursorKind.PARM_DECL##33#33#33#test.cpp
+CursorKind.PARM_DECL#null#33#33#33#test.cpp
 CursorKind.FIELD_DECL#sa_mask#43#43#43#sigaction
 CursorKind.TYPE_REF#__sigset_t#43#43#43#null
 CursorKind.FIELD_DECL#sa_flags#46#46#46#sigaction
@@ -1532,7 +1532,7 @@ CursorKind.TYPE_REF#sigset_t#246#246#246#null
 CursorKind.PARM_DECL#__oset#247#247#247#sigprocmask(int, const sigset_t *__restrict, sigset_t *__restrict)
 CursorKind.TYPE_REF#sigset_t#247#247#247#null
 CursorKind.FUNCTION_DECL#sigsuspend(const sigset_t *)#254#254#254#
-CursorKind.UNEXPOSED_ATTR##254#254#254#null
+CursorKind.UNEXPOSED_ATTR#null#254#254#254#null
 CursorKind.PARM_DECL#__set#254#254#254#sigsuspend(const sigset_t *)
 CursorKind.TYPE_REF#sigset_t#254#254#254#null
 CursorKind.FUNCTION_DECL#sigaction(int, const struct sigaction *__restrict, struct sigaction *__restrict)#257#257#258#
@@ -1542,22 +1542,22 @@ CursorKind.TYPE_REF#struct sigaction#257#257#257#null
 CursorKind.PARM_DECL#__oact#258#258#258#sigaction(int, const struct sigaction *__restrict, struct sigaction *__restrict)
 CursorKind.TYPE_REF#struct sigaction#258#258#258#null
 CursorKind.FUNCTION_DECL#sigpending(sigset_t *)#261#261#261#
-CursorKind.UNEXPOSED_ATTR##261#261#261#null
+CursorKind.UNEXPOSED_ATTR#null#261#261#261#null
 CursorKind.PARM_DECL#__set#261#261#261#sigpending(sigset_t *)
 CursorKind.TYPE_REF#sigset_t#261#261#261#null
 CursorKind.FUNCTION_DECL#sigwait(const sigset_t *__restrict, int *__restrict)#268#268#269#
-CursorKind.UNEXPOSED_ATTR##269#269#269#null
+CursorKind.UNEXPOSED_ATTR#null#269#269#269#null
 CursorKind.PARM_DECL#__set#268#268#268#sigwait(const sigset_t *__restrict, int *__restrict)
 CursorKind.TYPE_REF#sigset_t#268#268#268#null
 CursorKind.PARM_DECL#__sig#268#268#268#sigwait(const sigset_t *__restrict, int *__restrict)
 CursorKind.FUNCTION_DECL#sigwaitinfo(const sigset_t *__restrict, siginfo_t *__restrict)#276#276#277#
-CursorKind.UNEXPOSED_ATTR##277#277#277#null
+CursorKind.UNEXPOSED_ATTR#null#277#277#277#null
 CursorKind.PARM_DECL#__set#276#276#276#sigwaitinfo(const sigset_t *__restrict, siginfo_t *__restrict)
 CursorKind.TYPE_REF#sigset_t#276#276#276#null
 CursorKind.PARM_DECL#__info#277#277#277#sigwaitinfo(const sigset_t *__restrict, siginfo_t *__restrict)
 CursorKind.TYPE_REF#siginfo_t#277#277#277#null
 CursorKind.FUNCTION_DECL#sigtimedwait(const sigset_t *__restrict, siginfo_t *__restrict, const struct timespec *__restrict)#284#284#287#
-CursorKind.UNEXPOSED_ATTR##287#287#287#null
+CursorKind.UNEXPOSED_ATTR#null#287#287#287#null
 CursorKind.PARM_DECL#__set#284#284#284#sigtimedwait(const sigset_t *__restrict, siginfo_t *__restrict, const struct timespec *__restrict)
 CursorKind.TYPE_REF#sigset_t#284#284#284#null
 CursorKind.PARM_DECL#__info#285#285#285#sigtimedwait(const sigset_t *__restrict, siginfo_t *__restrict, const struct timespec *__restrict)
@@ -1571,9 +1571,9 @@ CursorKind.PARM_DECL#__sig#291#291#291#sigqueue(__pid_t, int, const union sigval
 CursorKind.PARM_DECL#__val#291#291#291#sigqueue(__pid_t, int, const union sigval)
 CursorKind.TYPE_REF#union sigval#291#291#291#null
 CursorKind.VAR_DECL#_sys_siglist#301#301#301#
-CursorKind.INTEGER_LITERAL##301#301#301#null
+CursorKind.INTEGER_LITERAL#null#301#301#301#null
 CursorKind.VAR_DECL#sys_siglist#302#302#302#
-CursorKind.INTEGER_LITERAL##302#302#302#null
+CursorKind.INTEGER_LITERAL#null#302#302#302#null
 CursorKind.STRUCT_DECL#_fpx_sw_bytes#29#29#36#
 CursorKind.FIELD_DECL#magic1#31#31#31#_fpx_sw_bytes
 CursorKind.TYPE_REF#__uint32_t#31#31#31#null
@@ -1585,21 +1585,21 @@ CursorKind.FIELD_DECL#xstate_size#34#34#34#_fpx_sw_bytes
 CursorKind.TYPE_REF#__uint32_t#34#34#34#null
 CursorKind.FIELD_DECL#padding#35#35#35#_fpx_sw_bytes
 CursorKind.TYPE_REF#__uint32_t#35#35#35#null
-CursorKind.INTEGER_LITERAL##35#35#35#null
+CursorKind.INTEGER_LITERAL#null#35#35#35#null
 CursorKind.STRUCT_DECL#_fpreg#38#38#42#
 CursorKind.FIELD_DECL#significand#40#40#40#_fpreg
-CursorKind.INTEGER_LITERAL##40#40#40#null
+CursorKind.INTEGER_LITERAL#null#40#40#40#null
 CursorKind.FIELD_DECL#exponent#41#41#41#_fpreg
 CursorKind.STRUCT_DECL#_fpxreg#44#44#49#
 CursorKind.FIELD_DECL#significand#46#46#46#_fpxreg
-CursorKind.INTEGER_LITERAL##46#46#46#null
+CursorKind.INTEGER_LITERAL#null#46#46#46#null
 CursorKind.FIELD_DECL#exponent#47#47#47#_fpxreg
 CursorKind.FIELD_DECL#padding#48#48#48#_fpxreg
-CursorKind.INTEGER_LITERAL##48#48#48#null
+CursorKind.INTEGER_LITERAL#null#48#48#48#null
 CursorKind.STRUCT_DECL#_xmmreg#51#51#54#
 CursorKind.FIELD_DECL#element#53#53#53#_xmmreg
 CursorKind.TYPE_REF#__uint32_t#53#53#53#null
-CursorKind.INTEGER_LITERAL##53#53#53#null
+CursorKind.INTEGER_LITERAL#null#53#53#53#null
 CursorKind.STRUCT_DECL#_fpstate#121#121#135#
 CursorKind.FIELD_DECL#cwd#124#124#124#_fpstate
 CursorKind.TYPE_REF#__uint16_t#124#124#124#null
@@ -1619,13 +1619,13 @@ CursorKind.FIELD_DECL#mxcr_mask#131#131#131#_fpstate
 CursorKind.TYPE_REF#__uint32_t#131#131#131#null
 CursorKind.FIELD_DECL#_st#132#132#132#_fpstate
 CursorKind.TYPE_REF#struct _fpxreg#132#132#132#null
-CursorKind.INTEGER_LITERAL##132#132#132#null
+CursorKind.INTEGER_LITERAL#null#132#132#132#null
 CursorKind.FIELD_DECL#_xmm#133#133#133#_fpstate
 CursorKind.TYPE_REF#struct _xmmreg#133#133#133#null
-CursorKind.INTEGER_LITERAL##133#133#133#null
+CursorKind.INTEGER_LITERAL#null#133#133#133#null
 CursorKind.FIELD_DECL#padding#134#134#134#_fpstate
 CursorKind.TYPE_REF#__uint32_t#134#134#134#null
-CursorKind.INTEGER_LITERAL##134#134#134#null
+CursorKind.INTEGER_LITERAL#null#134#134#134#null
 CursorKind.STRUCT_DECL#sigcontext#137#137#171#
 CursorKind.FIELD_DECL#r8#139#139#139#sigcontext
 CursorKind.TYPE_REF#__uint64_t#139#139#139#null
@@ -1675,27 +1675,27 @@ CursorKind.FIELD_DECL#oldmask#163#163#163#sigcontext
 CursorKind.TYPE_REF#__uint64_t#163#163#163#null
 CursorKind.FIELD_DECL#cr2#164#164#164#sigcontext
 CursorKind.TYPE_REF#__uint64_t#164#164#164#null
-CursorKind.UNION_DECL##165#165#169#sigcontext
+CursorKind.UNION_DECL#null#165#165#169#sigcontext
 CursorKind.FIELD_DECL#fpstate#167#167#167#
 CursorKind.TYPE_REF#struct _fpstate#167#167#167#null
 CursorKind.FIELD_DECL#__fpstate_word#168#168#168#
 CursorKind.TYPE_REF#__uint64_t#168#168#168#null
 CursorKind.FIELD_DECL#__reserved1#170#170#170#sigcontext
 CursorKind.TYPE_REF#__uint64_t#170#170#170#null
-CursorKind.INTEGER_LITERAL##170#170#170#null
+CursorKind.INTEGER_LITERAL#null#170#170#170#null
 CursorKind.STRUCT_DECL#_xsave_hdr#175#175#180#
 CursorKind.FIELD_DECL#xstate_bv#177#177#177#_xsave_hdr
 CursorKind.TYPE_REF#__uint64_t#177#177#177#null
 CursorKind.FIELD_DECL#reserved1#178#178#178#_xsave_hdr
 CursorKind.TYPE_REF#__uint64_t#178#178#178#null
-CursorKind.INTEGER_LITERAL##178#178#178#null
+CursorKind.INTEGER_LITERAL#null#178#178#178#null
 CursorKind.FIELD_DECL#reserved2#179#179#179#_xsave_hdr
 CursorKind.TYPE_REF#__uint64_t#179#179#179#null
-CursorKind.INTEGER_LITERAL##179#179#179#null
+CursorKind.INTEGER_LITERAL#null#179#179#179#null
 CursorKind.STRUCT_DECL#_ymmh_state#182#182#185#
 CursorKind.FIELD_DECL#ymmh_space#184#184#184#_ymmh_state
 CursorKind.TYPE_REF#__uint32_t#184#184#184#null
-CursorKind.INTEGER_LITERAL##184#184#184#null
+CursorKind.INTEGER_LITERAL#null#184#184#184#null
 CursorKind.STRUCT_DECL#_xstate#187#187#192#
 CursorKind.FIELD_DECL#fpstate#189#189#189#_xstate
 CursorKind.TYPE_REF#struct _fpstate#189#189#189#null
@@ -1712,10 +1712,10 @@ CursorKind.PARM_DECL#__interrupt#321#321#321#siginterrupt(int, int)
 CursorKind.STRUCT_DECL#sigstack#25#25#29#
 CursorKind.FIELD_DECL#ss_sp#27#27#27#sigstack
 CursorKind.FIELD_DECL#ss_onstack#28#28#28#sigstack
-CursorKind.ENUM_DECL##33#33#39#
+CursorKind.ENUM_DECL#null#33#33#39#
 CursorKind.ENUM_CONSTANT_DECL#SS_ONSTACK#35#35#35#
-CursorKind.UNEXPOSED_EXPR##35#35#35#null
-CursorKind.INTEGER_LITERAL##35#35#35#null
+CursorKind.UNEXPOSED_EXPR#null#35#35#35#null
+CursorKind.INTEGER_LITERAL#null#35#35#35#null
 CursorKind.ENUM_CONSTANT_DECL#SS_DISABLE#37#37#37#
 CursorKind.STRUCT_DECL#sigaltstack#49#49#54#
 CursorKind.FIELD_DECL#ss_sp#51#51#51#sigaltstack
@@ -1729,11 +1729,11 @@ CursorKind.FIELD_DECL#ss_size#53#53#53#sigaltstack
 CursorKind.TYPEDEF_DECL#greg_t#31#31#31#
 CursorKind.TYPEDEF_DECL#gregset_t#37#37#37#
 CursorKind.TYPE_REF#greg_t#37#37#37#null
-CursorKind.INTEGER_LITERAL##37#37#37#null
-CursorKind.ENUM_DECL##41#41#89#
+CursorKind.INTEGER_LITERAL#null#37#37#37#null
+CursorKind.ENUM_DECL#null#41#41#89#
 CursorKind.ENUM_CONSTANT_DECL#REG_R8#43#43#43#
-CursorKind.UNEXPOSED_EXPR##43#43#43#null
-CursorKind.INTEGER_LITERAL##43#43#43#null
+CursorKind.UNEXPOSED_EXPR#null#43#43#43#null
+CursorKind.INTEGER_LITERAL#null#43#43#43#null
 CursorKind.ENUM_CONSTANT_DECL#REG_R9#45#45#45#
 CursorKind.ENUM_CONSTANT_DECL#REG_R10#47#47#47#
 CursorKind.ENUM_CONSTANT_DECL#REG_R11#49#49#49#
@@ -1758,14 +1758,14 @@ CursorKind.ENUM_CONSTANT_DECL#REG_OLDMASK#85#85#85#
 CursorKind.ENUM_CONSTANT_DECL#REG_CR2#87#87#87#
 CursorKind.STRUCT_DECL#_libc_fpxreg#92#92#97#
 CursorKind.FIELD_DECL#significand#94#94#94#_libc_fpxreg
-CursorKind.INTEGER_LITERAL##94#94#94#null
+CursorKind.INTEGER_LITERAL#null#94#94#94#null
 CursorKind.FIELD_DECL#exponent#95#95#95#_libc_fpxreg
 CursorKind.FIELD_DECL#padding#96#96#96#_libc_fpxreg
-CursorKind.INTEGER_LITERAL##96#96#96#null
+CursorKind.INTEGER_LITERAL#null#96#96#96#null
 CursorKind.STRUCT_DECL#_libc_xmmreg#99#99#102#
 CursorKind.FIELD_DECL#element#101#101#101#_libc_xmmreg
 CursorKind.TYPE_REF#__uint32_t#101#101#101#null
-CursorKind.INTEGER_LITERAL##101#101#101#null
+CursorKind.INTEGER_LITERAL#null#101#101#101#null
 CursorKind.STRUCT_DECL#_libc_fpstate#104#104#118#
 CursorKind.FIELD_DECL#cwd#107#107#107#_libc_fpstate
 CursorKind.TYPE_REF#__uint16_t#107#107#107#null
@@ -1785,30 +1785,30 @@ CursorKind.FIELD_DECL#mxcr_mask#114#114#114#_libc_fpstate
 CursorKind.TYPE_REF#__uint32_t#114#114#114#null
 CursorKind.FIELD_DECL#_st#115#115#115#_libc_fpstate
 CursorKind.TYPE_REF#struct _libc_fpxreg#115#115#115#null
-CursorKind.INTEGER_LITERAL##115#115#115#null
+CursorKind.INTEGER_LITERAL#null#115#115#115#null
 CursorKind.FIELD_DECL#_xmm#116#116#116#_libc_fpstate
 CursorKind.TYPE_REF#struct _libc_xmmreg#116#116#116#null
-CursorKind.INTEGER_LITERAL##116#116#116#null
+CursorKind.INTEGER_LITERAL#null#116#116#116#null
 CursorKind.FIELD_DECL#padding#117#117#117#_libc_fpstate
 CursorKind.TYPE_REF#__uint32_t#117#117#117#null
-CursorKind.INTEGER_LITERAL##117#117#117#null
+CursorKind.INTEGER_LITERAL#null#117#117#117#null
 CursorKind.TYPEDEF_DECL#fpregset_t#121#121#121#
 CursorKind.TYPE_REF#struct _libc_fpstate#121#121#121#null
-CursorKind.STRUCT_DECL##124#124#130#
+CursorKind.STRUCT_DECL#null#124#124#130#
 CursorKind.FIELD_DECL#gregs#126#126#126#
 CursorKind.TYPE_REF#gregset_t#126#126#126#null
 CursorKind.FIELD_DECL#fpregs#128#128#128#
 CursorKind.TYPE_REF#fpregset_t#128#128#128#null
 CursorKind.FIELD_DECL#__reserved1#129#129#129#
-CursorKind.INTEGER_LITERAL##129#129#129#null
+CursorKind.INTEGER_LITERAL#null#129#129#129#null
 CursorKind.TYPEDEF_DECL#mcontext_t#130#124#130#
-CursorKind.STRUCT_DECL##124#124#130#
+CursorKind.STRUCT_DECL#null#124#124#130#
 CursorKind.FIELD_DECL#gregs#126#126#126#
 CursorKind.TYPE_REF#gregset_t#126#126#126#null
 CursorKind.FIELD_DECL#fpregs#128#128#128#
 CursorKind.TYPE_REF#fpregset_t#128#128#128#null
 CursorKind.FIELD_DECL#__reserved1#129#129#129#
-CursorKind.INTEGER_LITERAL##129#129#129#null
+CursorKind.INTEGER_LITERAL#null#129#129#129#null
 CursorKind.STRUCT_DECL#ucontext#133#133#141#
 CursorKind.FIELD_DECL#uc_flags#135#135#135#ucontext
 CursorKind.FIELD_DECL#uc_link#136#136#136#ucontext
@@ -1835,7 +1835,7 @@ CursorKind.TYPE_REF#__sigset_t#139#139#139#null
 CursorKind.FIELD_DECL#__fpregs_mem#140#140#140#ucontext
 CursorKind.TYPE_REF#struct _libc_fpstate#140#140#140#null
 CursorKind.FUNCTION_DECL#sigstack(struct sigstack *, struct sigstack *)#332#332#333#
-CursorKind.UNEXPOSED_ATTR##333#333#333#null
+CursorKind.UNEXPOSED_ATTR#null#333#333#333#null
 CursorKind.PARM_DECL#__ss#332#332#332#sigstack(struct sigstack *, struct sigstack *)
 CursorKind.TYPE_REF#struct sigstack#332#332#332#null
 CursorKind.PARM_DECL#__oss#332#332#332#sigstack(struct sigstack *, struct sigstack *)
@@ -1859,7 +1859,7 @@ CursorKind.TYPE_REF#__sighandler_t#355#355#355#null
 CursorKind.TYPEDEF_DECL#pthread_t#60#60#60#
 CursorKind.UNION_DECL#pthread_attr_t#63#63#67#
 CursorKind.FIELD_DECL#__size#65#65#65#pthread_attr_t
-CursorKind.INTEGER_LITERAL##65#65#65#null
+CursorKind.INTEGER_LITERAL#null#65#65#65#null
 CursorKind.FIELD_DECL#__align#66#66#66#pthread_attr_t
 CursorKind.STRUCT_DECL#__pthread_internal_list#75#75#79#
 CursorKind.FIELD_DECL#__prev#77#77#77#__pthread_internal_list
@@ -1872,7 +1872,7 @@ CursorKind.FIELD_DECL#__prev#77#77#77#__pthread_internal_list
 CursorKind.TYPE_REF#struct __pthread_internal_list#77#77#77#null
 CursorKind.FIELD_DECL#__next#78#78#78#__pthread_internal_list
 CursorKind.TYPE_REF#struct __pthread_internal_list#78#78#78#null
-CursorKind.UNION_DECL##90#90#128#
+CursorKind.UNION_DECL#null#90#90#128#
 CursorKind.STRUCT_DECL#__pthread_mutex_s#92#92#125#
 CursorKind.FIELD_DECL#__lock#94#94#94#__pthread_mutex_s
 CursorKind.FIELD_DECL#__count#95#95#95#__pthread_mutex_s
@@ -1895,10 +1895,10 @@ CursorKind.FIELD_DECL#__elision#105#105#105#__pthread_mutex_s
 CursorKind.FIELD_DECL#__list#106#106#106#__pthread_mutex_s
 CursorKind.TYPE_REF#__pthread_list_t#106#106#106#null
 CursorKind.FIELD_DECL#__size#126#126#126#
-CursorKind.INTEGER_LITERAL##126#126#126#null
+CursorKind.INTEGER_LITERAL#null#126#126#126#null
 CursorKind.FIELD_DECL#__align#127#127#127#
 CursorKind.TYPEDEF_DECL#pthread_mutex_t#128#90#128#
-CursorKind.UNION_DECL##90#90#128#
+CursorKind.UNION_DECL#null#90#90#128#
 CursorKind.STRUCT_DECL#__pthread_mutex_s#92#92#125#
 CursorKind.FIELD_DECL#__lock#94#94#94#__pthread_mutex_s
 CursorKind.FIELD_DECL#__count#95#95#95#__pthread_mutex_s
@@ -1921,19 +1921,19 @@ CursorKind.FIELD_DECL#__elision#105#105#105#__pthread_mutex_s
 CursorKind.FIELD_DECL#__list#106#106#106#__pthread_mutex_s
 CursorKind.TYPE_REF#__pthread_list_t#106#106#106#null
 CursorKind.FIELD_DECL#__size#126#126#126#
-CursorKind.INTEGER_LITERAL##126#126#126#null
+CursorKind.INTEGER_LITERAL#null#126#126#126#null
 CursorKind.FIELD_DECL#__align#127#127#127#
-CursorKind.UNION_DECL##130#130#134#
+CursorKind.UNION_DECL#null#130#130#134#
 CursorKind.FIELD_DECL#__size#132#132#132#
-CursorKind.INTEGER_LITERAL##132#132#132#null
+CursorKind.INTEGER_LITERAL#null#132#132#132#null
 CursorKind.FIELD_DECL#__align#133#133#133#
 CursorKind.TYPEDEF_DECL#pthread_mutexattr_t#134#130#134#
-CursorKind.UNION_DECL##130#130#134#
+CursorKind.UNION_DECL#null#130#130#134#
 CursorKind.FIELD_DECL#__size#132#132#132#
-CursorKind.INTEGER_LITERAL##132#132#132#null
+CursorKind.INTEGER_LITERAL#null#132#132#132#null
 CursorKind.FIELD_DECL#__align#133#133#133#
-CursorKind.UNION_DECL##139#139#154#
-CursorKind.STRUCT_DECL##141#141#151#
+CursorKind.UNION_DECL#null#139#139#154#
+CursorKind.STRUCT_DECL#null#141#141#151#
 CursorKind.FIELD_DECL#__lock#143#143#143#
 CursorKind.FIELD_DECL#__futex#144#144#144#
 CursorKind.FIELD_DECL#__total_seq#145#145#145#
@@ -1943,7 +1943,7 @@ CursorKind.FIELD_DECL#__mutex#148#148#148#
 CursorKind.FIELD_DECL#__nwaiters#149#149#149#
 CursorKind.FIELD_DECL#__broadcast_seq#150#150#150#
 CursorKind.FIELD_DECL#__data#151#141#151#
-CursorKind.STRUCT_DECL##141#141#151#
+CursorKind.STRUCT_DECL#null#141#141#151#
 CursorKind.FIELD_DECL#__lock#143#143#143#
 CursorKind.FIELD_DECL#__futex#144#144#144#
 CursorKind.FIELD_DECL#__total_seq#145#145#145#
@@ -1953,11 +1953,11 @@ CursorKind.FIELD_DECL#__mutex#148#148#148#
 CursorKind.FIELD_DECL#__nwaiters#149#149#149#
 CursorKind.FIELD_DECL#__broadcast_seq#150#150#150#
 CursorKind.FIELD_DECL#__size#152#152#152#
-CursorKind.INTEGER_LITERAL##152#152#152#null
+CursorKind.INTEGER_LITERAL#null#152#152#152#null
 CursorKind.FIELD_DECL#__align#153#153#153#
 CursorKind.TYPEDEF_DECL#pthread_cond_t#154#139#154#
-CursorKind.UNION_DECL##139#139#154#
-CursorKind.STRUCT_DECL##141#141#151#
+CursorKind.UNION_DECL#null#139#139#154#
+CursorKind.STRUCT_DECL#null#141#141#151#
 CursorKind.FIELD_DECL#__lock#143#143#143#
 CursorKind.FIELD_DECL#__futex#144#144#144#
 CursorKind.FIELD_DECL#__total_seq#145#145#145#
@@ -1967,7 +1967,7 @@ CursorKind.FIELD_DECL#__mutex#148#148#148#
 CursorKind.FIELD_DECL#__nwaiters#149#149#149#
 CursorKind.FIELD_DECL#__broadcast_seq#150#150#150#
 CursorKind.FIELD_DECL#__data#151#141#151#
-CursorKind.STRUCT_DECL##141#141#151#
+CursorKind.STRUCT_DECL#null#141#141#151#
 CursorKind.FIELD_DECL#__lock#143#143#143#
 CursorKind.FIELD_DECL#__futex#144#144#144#
 CursorKind.FIELD_DECL#__total_seq#145#145#145#
@@ -1977,21 +1977,21 @@ CursorKind.FIELD_DECL#__mutex#148#148#148#
 CursorKind.FIELD_DECL#__nwaiters#149#149#149#
 CursorKind.FIELD_DECL#__broadcast_seq#150#150#150#
 CursorKind.FIELD_DECL#__size#152#152#152#
-CursorKind.INTEGER_LITERAL##152#152#152#null
+CursorKind.INTEGER_LITERAL#null#152#152#152#null
 CursorKind.FIELD_DECL#__align#153#153#153#
-CursorKind.UNION_DECL##156#156#160#
+CursorKind.UNION_DECL#null#156#156#160#
 CursorKind.FIELD_DECL#__size#158#158#158#
-CursorKind.INTEGER_LITERAL##158#158#158#null
+CursorKind.INTEGER_LITERAL#null#158#158#158#null
 CursorKind.FIELD_DECL#__align#159#159#159#
 CursorKind.TYPEDEF_DECL#pthread_condattr_t#160#156#160#
-CursorKind.UNION_DECL##156#156#160#
+CursorKind.UNION_DECL#null#156#156#160#
 CursorKind.FIELD_DECL#__size#158#158#158#
-CursorKind.INTEGER_LITERAL##158#158#158#null
+CursorKind.INTEGER_LITERAL#null#158#158#158#null
 CursorKind.FIELD_DECL#__align#159#159#159#
 CursorKind.TYPEDEF_DECL#pthread_key_t#164#164#164#
 CursorKind.TYPEDEF_DECL#pthread_once_t#168#168#168#
-CursorKind.UNION_DECL##174#174#222#
-CursorKind.STRUCT_DECL##177#177#200#
+CursorKind.UNION_DECL#null#174#174#222#
+CursorKind.STRUCT_DECL#null#177#177#200#
 CursorKind.FIELD_DECL#__lock#179#179#179#
 CursorKind.FIELD_DECL#__nr_readers#180#180#180#
 CursorKind.FIELD_DECL#__readers_wakeup#181#181#181#
@@ -2002,11 +2002,11 @@ CursorKind.FIELD_DECL#__writer#185#185#185#
 CursorKind.FIELD_DECL#__shared#186#186#186#
 CursorKind.FIELD_DECL#__rwelision#187#187#187#
 CursorKind.FIELD_DECL#__pad1#192#192#192#
-CursorKind.INTEGER_LITERAL##192#192#192#null
+CursorKind.INTEGER_LITERAL#null#192#192#192#null
 CursorKind.FIELD_DECL#__pad2#195#195#195#
 CursorKind.FIELD_DECL#__flags#198#198#198#
 CursorKind.FIELD_DECL#__data#200#177#200#
-CursorKind.STRUCT_DECL##177#177#200#
+CursorKind.STRUCT_DECL#null#177#177#200#
 CursorKind.FIELD_DECL#__lock#179#179#179#
 CursorKind.FIELD_DECL#__nr_readers#180#180#180#
 CursorKind.FIELD_DECL#__readers_wakeup#181#181#181#
@@ -2017,15 +2017,15 @@ CursorKind.FIELD_DECL#__writer#185#185#185#
 CursorKind.FIELD_DECL#__shared#186#186#186#
 CursorKind.FIELD_DECL#__rwelision#187#187#187#
 CursorKind.FIELD_DECL#__pad1#192#192#192#
-CursorKind.INTEGER_LITERAL##192#192#192#null
+CursorKind.INTEGER_LITERAL#null#192#192#192#null
 CursorKind.FIELD_DECL#__pad2#195#195#195#
 CursorKind.FIELD_DECL#__flags#198#198#198#
 CursorKind.FIELD_DECL#__size#220#220#220#
-CursorKind.INTEGER_LITERAL##220#220#220#null
+CursorKind.INTEGER_LITERAL#null#220#220#220#null
 CursorKind.FIELD_DECL#__align#221#221#221#
 CursorKind.TYPEDEF_DECL#pthread_rwlock_t#222#174#222#
-CursorKind.UNION_DECL##174#174#222#
-CursorKind.STRUCT_DECL##177#177#200#
+CursorKind.UNION_DECL#null#174#174#222#
+CursorKind.STRUCT_DECL#null#177#177#200#
 CursorKind.FIELD_DECL#__lock#179#179#179#
 CursorKind.FIELD_DECL#__nr_readers#180#180#180#
 CursorKind.FIELD_DECL#__readers_wakeup#181#181#181#
@@ -2036,11 +2036,11 @@ CursorKind.FIELD_DECL#__writer#185#185#185#
 CursorKind.FIELD_DECL#__shared#186#186#186#
 CursorKind.FIELD_DECL#__rwelision#187#187#187#
 CursorKind.FIELD_DECL#__pad1#192#192#192#
-CursorKind.INTEGER_LITERAL##192#192#192#null
+CursorKind.INTEGER_LITERAL#null#192#192#192#null
 CursorKind.FIELD_DECL#__pad2#195#195#195#
 CursorKind.FIELD_DECL#__flags#198#198#198#
 CursorKind.FIELD_DECL#__data#200#177#200#
-CursorKind.STRUCT_DECL##177#177#200#
+CursorKind.STRUCT_DECL#null#177#177#200#
 CursorKind.FIELD_DECL#__lock#179#179#179#
 CursorKind.FIELD_DECL#__nr_readers#180#180#180#
 CursorKind.FIELD_DECL#__readers_wakeup#181#181#181#
@@ -2051,39 +2051,39 @@ CursorKind.FIELD_DECL#__writer#185#185#185#
 CursorKind.FIELD_DECL#__shared#186#186#186#
 CursorKind.FIELD_DECL#__rwelision#187#187#187#
 CursorKind.FIELD_DECL#__pad1#192#192#192#
-CursorKind.INTEGER_LITERAL##192#192#192#null
+CursorKind.INTEGER_LITERAL#null#192#192#192#null
 CursorKind.FIELD_DECL#__pad2#195#195#195#
 CursorKind.FIELD_DECL#__flags#198#198#198#
 CursorKind.FIELD_DECL#__size#220#220#220#
-CursorKind.INTEGER_LITERAL##220#220#220#null
+CursorKind.INTEGER_LITERAL#null#220#220#220#null
 CursorKind.FIELD_DECL#__align#221#221#221#
-CursorKind.UNION_DECL##224#224#228#
+CursorKind.UNION_DECL#null#224#224#228#
 CursorKind.FIELD_DECL#__size#226#226#226#
-CursorKind.INTEGER_LITERAL##226#226#226#null
+CursorKind.INTEGER_LITERAL#null#226#226#226#null
 CursorKind.FIELD_DECL#__align#227#227#227#
 CursorKind.TYPEDEF_DECL#pthread_rwlockattr_t#228#224#228#
-CursorKind.UNION_DECL##224#224#228#
+CursorKind.UNION_DECL#null#224#224#228#
 CursorKind.FIELD_DECL#__size#226#226#226#
-CursorKind.INTEGER_LITERAL##226#226#226#null
+CursorKind.INTEGER_LITERAL#null#226#226#226#null
 CursorKind.FIELD_DECL#__align#227#227#227#
 CursorKind.TYPEDEF_DECL#pthread_spinlock_t#234#234#234#
-CursorKind.UNION_DECL##239#239#243#
+CursorKind.UNION_DECL#null#239#239#243#
 CursorKind.FIELD_DECL#__size#241#241#241#
-CursorKind.INTEGER_LITERAL##241#241#241#null
+CursorKind.INTEGER_LITERAL#null#241#241#241#null
 CursorKind.FIELD_DECL#__align#242#242#242#
 CursorKind.TYPEDEF_DECL#pthread_barrier_t#243#239#243#
-CursorKind.UNION_DECL##239#239#243#
+CursorKind.UNION_DECL#null#239#239#243#
 CursorKind.FIELD_DECL#__size#241#241#241#
-CursorKind.INTEGER_LITERAL##241#241#241#null
+CursorKind.INTEGER_LITERAL#null#241#241#241#null
 CursorKind.FIELD_DECL#__align#242#242#242#
-CursorKind.UNION_DECL##245#245#249#
+CursorKind.UNION_DECL#null#245#245#249#
 CursorKind.FIELD_DECL#__size#247#247#247#
-CursorKind.INTEGER_LITERAL##247#247#247#null
+CursorKind.INTEGER_LITERAL#null#247#247#247#null
 CursorKind.FIELD_DECL#__align#248#248#248#
 CursorKind.TYPEDEF_DECL#pthread_barrierattr_t#249#245#249#
-CursorKind.UNION_DECL##245#245#249#
+CursorKind.UNION_DECL#null#245#245#249#
 CursorKind.FIELD_DECL#__size#247#247#247#
-CursorKind.INTEGER_LITERAL##247#247#247#null
+CursorKind.INTEGER_LITERAL#null#247#247#247#null
 CursorKind.FIELD_DECL#__align#248#248#248#
 CursorKind.FUNCTION_DECL#pthread_sigmask(int, const __sigset_t *__restrict, __sigset_t *__restrict)#30#30#32#
 CursorKind.PARM_DECL#__how#30#30#30#pthread_sigmask(int, const __sigset_t *__restrict, __sigset_t *__restrict)
@@ -2103,129 +2103,129 @@ CursorKind.PARM_DECL#__value#40#40#40#pthread_sigqueue(pthread_t, int, const uni
 CursorKind.TYPE_REF#union sigval#40#40#40#null
 CursorKind.FUNCTION_DECL#__libc_current_sigrtmin()#369#369#369#
 CursorKind.FUNCTION_DECL#__libc_current_sigrtmax()#371#371#371#
-CursorKind.UNEXPOSED_DECL##34#34#967#test.cpp
-CursorKind.ENUM_DECL##50#50#55#
+CursorKind.UNEXPOSED_DECL#null#34#34#967#test.cpp
+CursorKind.ENUM_DECL#null#50#50#55#
 CursorKind.ENUM_CONSTANT_DECL#P_ALL#52#52#52#
 CursorKind.ENUM_CONSTANT_DECL#P_PID#53#53#53#
 CursorKind.ENUM_CONSTANT_DECL#P_PGID#54#54#54#
 CursorKind.TYPEDEF_DECL#idtype_t#55#50#55#
-CursorKind.ENUM_DECL##50#50#55#
+CursorKind.ENUM_DECL#null#50#50#55#
 CursorKind.ENUM_CONSTANT_DECL#P_ALL#52#52#52#
 CursorKind.ENUM_CONSTANT_DECL#P_PID#53#53#53#
 CursorKind.ENUM_CONSTANT_DECL#P_PGID#54#54#54#
 CursorKind.UNION_DECL#wait#66#66#97#
 CursorKind.FIELD_DECL#w_status#68#68#68#wait
-CursorKind.STRUCT_DECL##69#69#83#wait
+CursorKind.STRUCT_DECL#null#69#69#83#wait
 CursorKind.FIELD_DECL#__w_termsig#72#72#72#
-CursorKind.INTEGER_LITERAL##72#72#72#null
+CursorKind.INTEGER_LITERAL#null#72#72#72#null
 CursorKind.FIELD_DECL#__w_coredump#73#73#73#
-CursorKind.INTEGER_LITERAL##73#73#73#null
+CursorKind.INTEGER_LITERAL#null#73#73#73#null
 CursorKind.FIELD_DECL#__w_retcode#74#74#74#
-CursorKind.INTEGER_LITERAL##74#74#74#null
-CursorKind.FIELD_DECL##75#75#75#
-CursorKind.INTEGER_LITERAL##75#75#75#null
+CursorKind.INTEGER_LITERAL#null#74#74#74#null
+CursorKind.FIELD_DECL#null#75#75#75#
+CursorKind.INTEGER_LITERAL#null#75#75#75#null
 CursorKind.FIELD_DECL#__wait_terminated#83#69#83#wait
-CursorKind.STRUCT_DECL##69#69#83#wait
+CursorKind.STRUCT_DECL#null#69#69#83#wait
 CursorKind.FIELD_DECL#__w_termsig#72#72#72#
-CursorKind.INTEGER_LITERAL##72#72#72#null
+CursorKind.INTEGER_LITERAL#null#72#72#72#null
 CursorKind.FIELD_DECL#__w_coredump#73#73#73#
-CursorKind.INTEGER_LITERAL##73#73#73#null
+CursorKind.INTEGER_LITERAL#null#73#73#73#null
 CursorKind.FIELD_DECL#__w_retcode#74#74#74#
-CursorKind.INTEGER_LITERAL##74#74#74#null
-CursorKind.FIELD_DECL##75#75#75#
-CursorKind.INTEGER_LITERAL##75#75#75#null
-CursorKind.STRUCT_DECL##84#84#96#wait
+CursorKind.INTEGER_LITERAL#null#74#74#74#null
+CursorKind.FIELD_DECL#null#75#75#75#
+CursorKind.INTEGER_LITERAL#null#75#75#75#null
+CursorKind.STRUCT_DECL#null#84#84#96#wait
 CursorKind.FIELD_DECL#__w_stopval#87#87#87#
-CursorKind.INTEGER_LITERAL##87#87#87#null
+CursorKind.INTEGER_LITERAL#null#87#87#87#null
 CursorKind.FIELD_DECL#__w_stopsig#88#88#88#
-CursorKind.INTEGER_LITERAL##88#88#88#null
-CursorKind.FIELD_DECL##89#89#89#
-CursorKind.INTEGER_LITERAL##89#89#89#null
+CursorKind.INTEGER_LITERAL#null#88#88#88#null
+CursorKind.FIELD_DECL#null#89#89#89#
+CursorKind.INTEGER_LITERAL#null#89#89#89#null
 CursorKind.FIELD_DECL#__wait_stopped#96#84#96#wait
-CursorKind.STRUCT_DECL##84#84#96#wait
+CursorKind.STRUCT_DECL#null#84#84#96#wait
 CursorKind.FIELD_DECL#__w_stopval#87#87#87#
-CursorKind.INTEGER_LITERAL##87#87#87#null
+CursorKind.INTEGER_LITERAL#null#87#87#87#null
 CursorKind.FIELD_DECL#__w_stopsig#88#88#88#
-CursorKind.INTEGER_LITERAL##88#88#88#null
-CursorKind.FIELD_DECL##89#89#89#
-CursorKind.INTEGER_LITERAL##89#89#89#null
-CursorKind.STRUCT_DECL##97#97#101#
+CursorKind.INTEGER_LITERAL#null#88#88#88#null
+CursorKind.FIELD_DECL#null#89#89#89#
+CursorKind.INTEGER_LITERAL#null#89#89#89#null
+CursorKind.STRUCT_DECL#null#97#97#101#
 CursorKind.FIELD_DECL#quot#99#99#99#
 CursorKind.FIELD_DECL#rem#100#100#100#
 CursorKind.TYPEDEF_DECL#div_t#101#97#101#
-CursorKind.STRUCT_DECL##97#97#101#
+CursorKind.STRUCT_DECL#null#97#97#101#
 CursorKind.FIELD_DECL#quot#99#99#99#
 CursorKind.FIELD_DECL#rem#100#100#100#
-CursorKind.STRUCT_DECL##105#105#109#
+CursorKind.STRUCT_DECL#null#105#105#109#
 CursorKind.FIELD_DECL#quot#107#107#107#
 CursorKind.FIELD_DECL#rem#108#108#108#
 CursorKind.TYPEDEF_DECL#ldiv_t#109#105#109#
-CursorKind.STRUCT_DECL##105#105#109#
+CursorKind.STRUCT_DECL#null#105#105#109#
 CursorKind.FIELD_DECL#quot#107#107#107#
 CursorKind.FIELD_DECL#rem#108#108#108#
-CursorKind.STRUCT_DECL##117#117#121#
+CursorKind.STRUCT_DECL#null#117#117#121#
 CursorKind.FIELD_DECL#quot#119#119#119#
 CursorKind.FIELD_DECL#rem#120#120#120#
 CursorKind.TYPEDEF_DECL#lldiv_t#121#117#121#
-CursorKind.STRUCT_DECL##117#117#121#
+CursorKind.STRUCT_DECL#null#117#117#121#
 CursorKind.FIELD_DECL#quot#119#119#119#
 CursorKind.FIELD_DECL#rem#120#120#120#
 CursorKind.FUNCTION_DECL#__ctype_get_mb_cur_max()#139#139#139#
 CursorKind.FUNCTION_DECL#atof(const char *)#144#144#145#
-CursorKind.UNEXPOSED_ATTR##145#145#145#null
-CursorKind.PURE_ATTR##145#145#145#null
+CursorKind.UNEXPOSED_ATTR#null#145#145#145#null
+CursorKind.PURE_ATTR#null#145#145#145#null
 CursorKind.PARM_DECL#__nptr#144#144#144#atof(const char *)
 CursorKind.FUNCTION_DECL#atoi(const char *)#147#147#148#
-CursorKind.UNEXPOSED_ATTR##148#148#148#null
-CursorKind.PURE_ATTR##148#148#148#null
+CursorKind.UNEXPOSED_ATTR#null#148#148#148#null
+CursorKind.PURE_ATTR#null#148#148#148#null
 CursorKind.PARM_DECL#__nptr#147#147#147#atoi(const char *)
 CursorKind.FUNCTION_DECL#atol(const char *)#150#150#151#
-CursorKind.UNEXPOSED_ATTR##151#151#151#null
-CursorKind.PURE_ATTR##151#151#151#null
+CursorKind.UNEXPOSED_ATTR#null#151#151#151#null
+CursorKind.PURE_ATTR#null#151#151#151#null
 CursorKind.PARM_DECL#__nptr#150#150#150#atol(const char *)
 CursorKind.FUNCTION_DECL#atoll(const char *)#157#157#158#
-CursorKind.UNEXPOSED_ATTR##158#158#158#null
-CursorKind.PURE_ATTR##158#158#158#null
+CursorKind.UNEXPOSED_ATTR#null#158#158#158#null
+CursorKind.PURE_ATTR#null#158#158#158#null
 CursorKind.PARM_DECL#__nptr#157#157#157#atoll(const char *)
 CursorKind.FUNCTION_DECL#strtod(const char *__restrict, char **__restrict)#164#164#166#
-CursorKind.UNEXPOSED_ATTR##166#166#166#null
+CursorKind.UNEXPOSED_ATTR#null#166#166#166#null
 CursorKind.PARM_DECL#__nptr#164#164#164#strtod(const char *__restrict, char **__restrict)
 CursorKind.PARM_DECL#__endptr#165#165#165#strtod(const char *__restrict, char **__restrict)
 CursorKind.FUNCTION_DECL#strtof(const char *__restrict, char **__restrict)#172#172#173#
-CursorKind.UNEXPOSED_ATTR##173#173#173#null
+CursorKind.UNEXPOSED_ATTR#null#173#173#173#null
 CursorKind.PARM_DECL#__nptr#172#172#172#strtof(const char *__restrict, char **__restrict)
 CursorKind.PARM_DECL#__endptr#173#173#173#strtof(const char *__restrict, char **__restrict)
 CursorKind.FUNCTION_DECL#strtold(const char *__restrict, char **__restrict)#175#175#177#
-CursorKind.UNEXPOSED_ATTR##177#177#177#null
+CursorKind.UNEXPOSED_ATTR#null#177#177#177#null
 CursorKind.PARM_DECL#__nptr#175#175#175#strtold(const char *__restrict, char **__restrict)
 CursorKind.PARM_DECL#__endptr#176#176#176#strtold(const char *__restrict, char **__restrict)
 CursorKind.FUNCTION_DECL#strtol(const char *__restrict, char **__restrict, int)#183#183#185#
-CursorKind.UNEXPOSED_ATTR##185#185#185#null
+CursorKind.UNEXPOSED_ATTR#null#185#185#185#null
 CursorKind.PARM_DECL#__nptr#183#183#183#strtol(const char *__restrict, char **__restrict, int)
 CursorKind.PARM_DECL#__endptr#184#184#184#strtol(const char *__restrict, char **__restrict, int)
 CursorKind.PARM_DECL#__base#184#184#184#strtol(const char *__restrict, char **__restrict, int)
 CursorKind.FUNCTION_DECL#strtoul(const char *__restrict, char **__restrict, int)#187#187#189#
-CursorKind.UNEXPOSED_ATTR##189#189#189#null
+CursorKind.UNEXPOSED_ATTR#null#189#189#189#null
 CursorKind.PARM_DECL#__nptr#187#187#187#strtoul(const char *__restrict, char **__restrict, int)
 CursorKind.PARM_DECL#__endptr#188#188#188#strtoul(const char *__restrict, char **__restrict, int)
 CursorKind.PARM_DECL#__base#188#188#188#strtoul(const char *__restrict, char **__restrict, int)
 CursorKind.FUNCTION_DECL#strtoq(const char *__restrict, char **__restrict, int)#195#195#197#
-CursorKind.UNEXPOSED_ATTR##197#197#197#null
+CursorKind.UNEXPOSED_ATTR#null#197#197#197#null
 CursorKind.PARM_DECL#__nptr#195#195#195#strtoq(const char *__restrict, char **__restrict, int)
 CursorKind.PARM_DECL#__endptr#196#196#196#strtoq(const char *__restrict, char **__restrict, int)
 CursorKind.PARM_DECL#__base#196#196#196#strtoq(const char *__restrict, char **__restrict, int)
 CursorKind.FUNCTION_DECL#strtouq(const char *__restrict, char **__restrict, int)#200#200#202#
-CursorKind.UNEXPOSED_ATTR##202#202#202#null
+CursorKind.UNEXPOSED_ATTR#null#202#202#202#null
 CursorKind.PARM_DECL#__nptr#200#200#200#strtouq(const char *__restrict, char **__restrict, int)
 CursorKind.PARM_DECL#__endptr#201#201#201#strtouq(const char *__restrict, char **__restrict, int)
 CursorKind.PARM_DECL#__base#201#201#201#strtouq(const char *__restrict, char **__restrict, int)
 CursorKind.FUNCTION_DECL#strtoll(const char *__restrict, char **__restrict, int)#209#209#211#
-CursorKind.UNEXPOSED_ATTR##211#211#211#null
+CursorKind.UNEXPOSED_ATTR#null#211#211#211#null
 CursorKind.PARM_DECL#__nptr#209#209#209#strtoll(const char *__restrict, char **__restrict, int)
 CursorKind.PARM_DECL#__endptr#210#210#210#strtoll(const char *__restrict, char **__restrict, int)
 CursorKind.PARM_DECL#__base#210#210#210#strtoll(const char *__restrict, char **__restrict, int)
 CursorKind.FUNCTION_DECL#strtoull(const char *__restrict, char **__restrict, int)#214#214#216#
-CursorKind.UNEXPOSED_ATTR##216#216#216#null
+CursorKind.UNEXPOSED_ATTR#null#216#216#216#null
 CursorKind.PARM_DECL#__nptr#214#214#214#strtoull(const char *__restrict, char **__restrict, int)
 CursorKind.PARM_DECL#__endptr#215#215#215#strtoull(const char *__restrict, char **__restrict, int)
 CursorKind.PARM_DECL#__base#215#215#215#strtoull(const char *__restrict, char **__restrict, int)
@@ -2233,67 +2233,67 @@ CursorKind.STRUCT_DECL#__locale_struct#27#27#39#
 CursorKind.STRUCT_DECL#__locale_data#30#30#30#__locale_struct
 CursorKind.FIELD_DECL#__locales#30#30#30#__locale_struct
 CursorKind.TYPE_REF#struct __locale_data#30#30#30#null
-CursorKind.INTEGER_LITERAL##30#30#30#null
+CursorKind.INTEGER_LITERAL#null#30#30#30#null
 CursorKind.FIELD_DECL#__ctype_b#33#33#33#__locale_struct
 CursorKind.FIELD_DECL#__ctype_tolower#34#34#34#__locale_struct
 CursorKind.FIELD_DECL#__ctype_toupper#35#35#35#__locale_struct
 CursorKind.FIELD_DECL#__names#38#38#38#__locale_struct
-CursorKind.INTEGER_LITERAL##38#38#38#null
+CursorKind.INTEGER_LITERAL#null#38#38#38#null
 CursorKind.TYPEDEF_DECL#__locale_t#39#27#39#
 CursorKind.STRUCT_DECL#__locale_struct#27#27#39#
 CursorKind.STRUCT_DECL#__locale_data#30#30#30#__locale_struct
 CursorKind.FIELD_DECL#__locales#30#30#30#__locale_struct
 CursorKind.TYPE_REF#struct __locale_data#30#30#30#null
-CursorKind.INTEGER_LITERAL##30#30#30#null
+CursorKind.INTEGER_LITERAL#null#30#30#30#null
 CursorKind.FIELD_DECL#__ctype_b#33#33#33#__locale_struct
 CursorKind.FIELD_DECL#__ctype_tolower#34#34#34#__locale_struct
 CursorKind.FIELD_DECL#__ctype_toupper#35#35#35#__locale_struct
 CursorKind.FIELD_DECL#__names#38#38#38#__locale_struct
-CursorKind.INTEGER_LITERAL##38#38#38#null
+CursorKind.INTEGER_LITERAL#null#38#38#38#null
 CursorKind.TYPEDEF_DECL#locale_t#42#42#42#
 CursorKind.TYPE_REF#__locale_t#42#42#42#null
 CursorKind.FUNCTION_DECL#strtol_l(const char *__restrict, char **__restrict, int, __locale_t)#239#239#241#
-CursorKind.UNEXPOSED_ATTR##241#241#241#null
+CursorKind.UNEXPOSED_ATTR#null#241#241#241#null
 CursorKind.PARM_DECL#__nptr#239#239#239#strtol_l(const char *__restrict, char **__restrict, int, __locale_t)
 CursorKind.PARM_DECL#__endptr#240#240#240#strtol_l(const char *__restrict, char **__restrict, int, __locale_t)
 CursorKind.PARM_DECL#__base#240#240#240#strtol_l(const char *__restrict, char **__restrict, int, __locale_t)
 CursorKind.PARM_DECL#__loc#241#241#241#strtol_l(const char *__restrict, char **__restrict, int, __locale_t)
 CursorKind.TYPE_REF#__locale_t#241#241#241#null
 CursorKind.FUNCTION_DECL#strtoul_l(const char *__restrict, char **__restrict, int, __locale_t)#243#243#246#
-CursorKind.UNEXPOSED_ATTR##246#246#246#null
+CursorKind.UNEXPOSED_ATTR#null#246#246#246#null
 CursorKind.PARM_DECL#__nptr#243#243#243#strtoul_l(const char *__restrict, char **__restrict, int, __locale_t)
 CursorKind.PARM_DECL#__endptr#244#244#244#strtoul_l(const char *__restrict, char **__restrict, int, __locale_t)
 CursorKind.PARM_DECL#__base#245#245#245#strtoul_l(const char *__restrict, char **__restrict, int, __locale_t)
 CursorKind.PARM_DECL#__loc#245#245#245#strtoul_l(const char *__restrict, char **__restrict, int, __locale_t)
 CursorKind.TYPE_REF#__locale_t#245#245#245#null
 CursorKind.FUNCTION_DECL#strtoll_l(const char *__restrict, char **__restrict, int, __locale_t)#249#249#252#
-CursorKind.UNEXPOSED_ATTR##252#252#252#null
+CursorKind.UNEXPOSED_ATTR#null#252#252#252#null
 CursorKind.PARM_DECL#__nptr#249#249#249#strtoll_l(const char *__restrict, char **__restrict, int, __locale_t)
 CursorKind.PARM_DECL#__endptr#250#250#250#strtoll_l(const char *__restrict, char **__restrict, int, __locale_t)
 CursorKind.PARM_DECL#__base#250#250#250#strtoll_l(const char *__restrict, char **__restrict, int, __locale_t)
 CursorKind.PARM_DECL#__loc#251#251#251#strtoll_l(const char *__restrict, char **__restrict, int, __locale_t)
 CursorKind.TYPE_REF#__locale_t#251#251#251#null
 CursorKind.FUNCTION_DECL#strtoull_l(const char *__restrict, char **__restrict, int, __locale_t)#255#255#258#
-CursorKind.UNEXPOSED_ATTR##258#258#258#null
+CursorKind.UNEXPOSED_ATTR#null#258#258#258#null
 CursorKind.PARM_DECL#__nptr#255#255#255#strtoull_l(const char *__restrict, char **__restrict, int, __locale_t)
 CursorKind.PARM_DECL#__endptr#256#256#256#strtoull_l(const char *__restrict, char **__restrict, int, __locale_t)
 CursorKind.PARM_DECL#__base#257#257#257#strtoull_l(const char *__restrict, char **__restrict, int, __locale_t)
 CursorKind.PARM_DECL#__loc#257#257#257#strtoull_l(const char *__restrict, char **__restrict, int, __locale_t)
 CursorKind.TYPE_REF#__locale_t#257#257#257#null
 CursorKind.FUNCTION_DECL#strtod_l(const char *__restrict, char **__restrict, __locale_t)#260#260#262#
-CursorKind.UNEXPOSED_ATTR##262#262#262#null
+CursorKind.UNEXPOSED_ATTR#null#262#262#262#null
 CursorKind.PARM_DECL#__nptr#260#260#260#strtod_l(const char *__restrict, char **__restrict, __locale_t)
 CursorKind.PARM_DECL#__endptr#261#261#261#strtod_l(const char *__restrict, char **__restrict, __locale_t)
 CursorKind.PARM_DECL#__loc#261#261#261#strtod_l(const char *__restrict, char **__restrict, __locale_t)
 CursorKind.TYPE_REF#__locale_t#261#261#261#null
 CursorKind.FUNCTION_DECL#strtof_l(const char *__restrict, char **__restrict, __locale_t)#264#264#266#
-CursorKind.UNEXPOSED_ATTR##266#266#266#null
+CursorKind.UNEXPOSED_ATTR#null#266#266#266#null
 CursorKind.PARM_DECL#__nptr#264#264#264#strtof_l(const char *__restrict, char **__restrict, __locale_t)
 CursorKind.PARM_DECL#__endptr#265#265#265#strtof_l(const char *__restrict, char **__restrict, __locale_t)
 CursorKind.PARM_DECL#__loc#265#265#265#strtof_l(const char *__restrict, char **__restrict, __locale_t)
 CursorKind.TYPE_REF#__locale_t#265#265#265#null
 CursorKind.FUNCTION_DECL#strtold_l(const char *__restrict, char **__restrict, __locale_t)#268#268#271#
-CursorKind.UNEXPOSED_ATTR##271#271#271#null
+CursorKind.UNEXPOSED_ATTR#null#271#271#271#null
 CursorKind.PARM_DECL#__nptr#268#268#268#strtold_l(const char *__restrict, char **__restrict, __locale_t)
 CursorKind.PARM_DECL#__endptr#269#269#269#strtold_l(const char *__restrict, char **__restrict, __locale_t)
 CursorKind.PARM_DECL#__loc#270#270#270#strtold_l(const char *__restrict, char **__restrict, __locale_t)
@@ -2301,10 +2301,10 @@ CursorKind.TYPE_REF#__locale_t#270#270#270#null
 CursorKind.FUNCTION_DECL#l64a(long)#305#305#305#
 CursorKind.PARM_DECL#__n#305#305#305#l64a(long)
 CursorKind.FUNCTION_DECL#a64l(const char *)#308#308#309#
-CursorKind.UNEXPOSED_ATTR##309#309#309#null
-CursorKind.PURE_ATTR##309#309#309#null
+CursorKind.UNEXPOSED_ATTR#null#309#309#309#null
+CursorKind.PURE_ATTR#null#309#309#309#null
 CursorKind.PARM_DECL#__s#308#308#308#a64l(const char *)
-CursorKind.UNEXPOSED_DECL##27#27#273#
+CursorKind.UNEXPOSED_DECL#null#27#27#273#
 CursorKind.TYPEDEF_DECL#u_char#33#33#33#
 CursorKind.TYPE_REF#__u_char#33#33#33#null
 CursorKind.TYPEDEF_DECL#u_short#34#34#34#
@@ -2357,57 +2357,57 @@ CursorKind.TYPEDEF_DECL#ulong#150#150#150#
 CursorKind.TYPEDEF_DECL#ushort#151#151#151#
 CursorKind.TYPEDEF_DECL#uint#152#152#152#
 CursorKind.TYPEDEF_DECL#int8_t#194#194#194#
-CursorKind.UNEXPOSED_ATTR##194#194#194#null
+CursorKind.UNEXPOSED_ATTR#null#194#194#194#null
 CursorKind.TYPEDEF_DECL#int16_t#195#195#195#
-CursorKind.UNEXPOSED_ATTR##195#195#195#null
+CursorKind.UNEXPOSED_ATTR#null#195#195#195#null
 CursorKind.TYPEDEF_DECL#int32_t#196#196#196#
-CursorKind.UNEXPOSED_ATTR##196#196#196#null
+CursorKind.UNEXPOSED_ATTR#null#196#196#196#null
 CursorKind.TYPEDEF_DECL#int64_t#197#197#197#
-CursorKind.UNEXPOSED_ATTR##197#197#197#null
+CursorKind.UNEXPOSED_ATTR#null#197#197#197#null
 CursorKind.TYPEDEF_DECL#u_int8_t#200#200#200#
-CursorKind.UNEXPOSED_ATTR##200#200#200#null
+CursorKind.UNEXPOSED_ATTR#null#200#200#200#null
 CursorKind.TYPEDEF_DECL#u_int16_t#201#201#201#
-CursorKind.UNEXPOSED_ATTR##201#201#201#null
+CursorKind.UNEXPOSED_ATTR#null#201#201#201#null
 CursorKind.TYPEDEF_DECL#u_int32_t#202#202#202#
-CursorKind.UNEXPOSED_ATTR##202#202#202#null
+CursorKind.UNEXPOSED_ATTR#null#202#202#202#null
 CursorKind.TYPEDEF_DECL#u_int64_t#203#203#203#
-CursorKind.UNEXPOSED_ATTR##203#203#203#null
+CursorKind.UNEXPOSED_ATTR#null#203#203#203#null
 CursorKind.TYPEDEF_DECL#register_t#205#205#205#
-CursorKind.UNEXPOSED_ATTR##205#205#205#null
+CursorKind.UNEXPOSED_ATTR#null#205#205#205#null
 CursorKind.STRUCT_DECL#timeval#30#30#34#
 CursorKind.FIELD_DECL#tv_sec#32#32#32#timeval
 CursorKind.TYPE_REF#__time_t#32#32#32#null
 CursorKind.FIELD_DECL#tv_usec#33#33#33#timeval
 CursorKind.TYPE_REF#__suseconds_t#33#33#33#null
 CursorKind.TYPEDEF_DECL#__fd_mask#54#54#54#
-CursorKind.STRUCT_DECL##64#64#75#
+CursorKind.STRUCT_DECL#null#64#64#75#
 CursorKind.FIELD_DECL#fds_bits#69#69#69#
 CursorKind.TYPE_REF#__fd_mask#69#69#69#null
-CursorKind.BINARY_OPERATOR##69#69#69#null
-CursorKind.INTEGER_LITERAL##69#69#69#null
-CursorKind.PAREN_EXPR##69#69#69#null
-CursorKind.BINARY_OPERATOR##69#69#69#null
-CursorKind.INTEGER_LITERAL##69#69#69#null
-CursorKind.CSTYLE_CAST_EXPR##69#69#69#null
-CursorKind.UNEXPOSED_EXPR##69#69#69#null
-CursorKind.UNEXPOSED_EXPR##69#69#69#null
+CursorKind.BINARY_OPERATOR#null#69#69#69#null
+CursorKind.INTEGER_LITERAL#null#69#69#69#null
+CursorKind.PAREN_EXPR#null#69#69#69#null
+CursorKind.BINARY_OPERATOR#null#69#69#69#null
+CursorKind.INTEGER_LITERAL#null#69#69#69#null
+CursorKind.CSTYLE_CAST_EXPR#null#69#69#69#null
+CursorKind.UNEXPOSED_EXPR#null#69#69#69#null
+CursorKind.UNEXPOSED_EXPR#null#69#69#69#null
 CursorKind.TYPE_REF#__fd_mask#69#69#69#null
 CursorKind.TYPEDEF_DECL#fd_set#75#64#75#
-CursorKind.STRUCT_DECL##64#64#75#
+CursorKind.STRUCT_DECL#null#64#64#75#
 CursorKind.FIELD_DECL#fds_bits#69#69#69#
 CursorKind.TYPE_REF#__fd_mask#69#69#69#null
-CursorKind.BINARY_OPERATOR##69#69#69#null
-CursorKind.INTEGER_LITERAL##69#69#69#null
-CursorKind.PAREN_EXPR##69#69#69#null
-CursorKind.BINARY_OPERATOR##69#69#69#null
-CursorKind.INTEGER_LITERAL##69#69#69#null
-CursorKind.CSTYLE_CAST_EXPR##69#69#69#null
-CursorKind.UNEXPOSED_EXPR##69#69#69#null
-CursorKind.UNEXPOSED_EXPR##69#69#69#null
+CursorKind.BINARY_OPERATOR#null#69#69#69#null
+CursorKind.INTEGER_LITERAL#null#69#69#69#null
+CursorKind.PAREN_EXPR#null#69#69#69#null
+CursorKind.BINARY_OPERATOR#null#69#69#69#null
+CursorKind.INTEGER_LITERAL#null#69#69#69#null
+CursorKind.CSTYLE_CAST_EXPR#null#69#69#69#null
+CursorKind.UNEXPOSED_EXPR#null#69#69#69#null
+CursorKind.UNEXPOSED_EXPR#null#69#69#69#null
 CursorKind.TYPE_REF#__fd_mask#69#69#69#null
 CursorKind.TYPEDEF_DECL#fd_mask#82#82#82#
 CursorKind.TYPE_REF#__fd_mask#82#82#82#null
-CursorKind.UNEXPOSED_DECL##96#96#131#
+CursorKind.UNEXPOSED_DECL#null#96#96#131#
 CursorKind.FUNCTION_DECL#select(int, fd_set *__restrict, fd_set *__restrict, fd_set *__restrict, struct timeval *__restrict)#106#106#109#
 CursorKind.PARM_DECL#__nfds#106#106#106#select(int, fd_set *__restrict, fd_set *__restrict, fd_set *__restrict, struct timeval *__restrict)
 CursorKind.PARM_DECL#__readfds#106#106#106#select(int, fd_set *__restrict, fd_set *__restrict, fd_set *__restrict, struct timeval *__restrict)
@@ -2430,15 +2430,15 @@ CursorKind.PARM_DECL#__timeout#121#121#121#pselect(int, fd_set *__restrict, fd_s
 CursorKind.TYPE_REF#struct timespec#121#121#121#null
 CursorKind.PARM_DECL#__sigmask#122#122#122#pselect(int, fd_set *__restrict, fd_set *__restrict, fd_set *__restrict, const struct timespec *__restrict, const __sigset_t *__restrict)
 CursorKind.TYPE_REF#__sigset_t#122#122#122#null
-CursorKind.UNEXPOSED_DECL##24#24#58#
+CursorKind.UNEXPOSED_DECL#null#24#24#58#
 CursorKind.FUNCTION_DECL#gnu_dev_major(unsigned long long)#27#27#28#
-CursorKind.CONST_ATTR##28#28#28#null
+CursorKind.CONST_ATTR#null#28#28#28#null
 CursorKind.PARM_DECL#__dev#27#27#27#gnu_dev_major(unsigned long long)
 CursorKind.FUNCTION_DECL#gnu_dev_minor(unsigned long long)#30#30#31#
-CursorKind.CONST_ATTR##31#31#31#null
+CursorKind.CONST_ATTR#null#31#31#31#null
 CursorKind.PARM_DECL#__dev#30#30#30#gnu_dev_minor(unsigned long long)
 CursorKind.FUNCTION_DECL#gnu_dev_makedev(unsigned int, unsigned int)#33#33#35#
-CursorKind.CONST_ATTR##35#35#35#null
+CursorKind.CONST_ATTR#null#35#35#35#null
 CursorKind.PARM_DECL#__major#33#33#33#gnu_dev_makedev(unsigned int, unsigned int)
 CursorKind.PARM_DECL#__minor#34#34#34#gnu_dev_makedev(unsigned int, unsigned int)
 CursorKind.TYPEDEF_DECL#blksize_t#228#228#228#
@@ -2459,12 +2459,12 @@ CursorKind.FUNCTION_DECL#random()#321#321#321#
 CursorKind.FUNCTION_DECL#srandom(unsigned int)#324#324#324#
 CursorKind.PARM_DECL#__seed#324#324#324#srandom(unsigned int)
 CursorKind.FUNCTION_DECL#initstate(unsigned int, char *, int)#330#330#331#
-CursorKind.UNEXPOSED_ATTR##331#331#331#null
+CursorKind.UNEXPOSED_ATTR#null#331#331#331#null
 CursorKind.PARM_DECL#__seed#330#330#330#initstate(unsigned int, char *, int)
 CursorKind.PARM_DECL#__statebuf#330#330#330#initstate(unsigned int, char *, int)
 CursorKind.PARM_DECL#__statelen#331#331#331#initstate(unsigned int, char *, int)
 CursorKind.FUNCTION_DECL#setstate(char *)#335#335#335#
-CursorKind.UNEXPOSED_ATTR##335#335#335#null
+CursorKind.UNEXPOSED_ATTR#null#335#335#335#null
 CursorKind.PARM_DECL#__statebuf#335#335#335#setstate(char *)
 CursorKind.STRUCT_DECL#random_data#343#343#352#
 CursorKind.FIELD_DECL#fptr#345#345#345#random_data
@@ -2479,25 +2479,25 @@ CursorKind.FIELD_DECL#rand_sep#350#350#350#random_data
 CursorKind.FIELD_DECL#end_ptr#351#351#351#random_data
 CursorKind.TYPE_REF#int32_t#351#351#351#null
 CursorKind.FUNCTION_DECL#random_r(struct random_data *__restrict, int32_t *__restrict)#354#354#355#
-CursorKind.UNEXPOSED_ATTR##355#355#355#null
+CursorKind.UNEXPOSED_ATTR#null#355#355#355#null
 CursorKind.PARM_DECL#__buf#354#354#354#random_r(struct random_data *__restrict, int32_t *__restrict)
 CursorKind.TYPE_REF#struct random_data#354#354#354#null
 CursorKind.PARM_DECL#__result#355#355#355#random_r(struct random_data *__restrict, int32_t *__restrict)
 CursorKind.TYPE_REF#int32_t#355#355#355#null
 CursorKind.FUNCTION_DECL#srandom_r(unsigned int, struct random_data *)#357#357#358#
-CursorKind.UNEXPOSED_ATTR##358#358#358#null
+CursorKind.UNEXPOSED_ATTR#null#358#358#358#null
 CursorKind.PARM_DECL#__seed#357#357#357#srandom_r(unsigned int, struct random_data *)
 CursorKind.PARM_DECL#__buf#357#357#357#srandom_r(unsigned int, struct random_data *)
 CursorKind.TYPE_REF#struct random_data#357#357#357#null
 CursorKind.FUNCTION_DECL#initstate_r(unsigned int, char *__restrict, int, struct random_data *__restrict)#360#360#363#
-CursorKind.UNEXPOSED_ATTR##363#363#363#null
+CursorKind.UNEXPOSED_ATTR#null#363#363#363#null
 CursorKind.PARM_DECL#__seed#360#360#360#initstate_r(unsigned int, char *__restrict, int, struct random_data *__restrict)
 CursorKind.PARM_DECL#__statebuf#360#360#360#initstate_r(unsigned int, char *__restrict, int, struct random_data *__restrict)
 CursorKind.PARM_DECL#__statelen#361#361#361#initstate_r(unsigned int, char *__restrict, int, struct random_data *__restrict)
 CursorKind.PARM_DECL#__buf#362#362#362#initstate_r(unsigned int, char *__restrict, int, struct random_data *__restrict)
 CursorKind.TYPE_REF#struct random_data#362#362#362#null
 CursorKind.FUNCTION_DECL#setstate_r(char *__restrict, struct random_data *__restrict)#365#365#367#
-CursorKind.UNEXPOSED_ATTR##367#367#367#null
+CursorKind.UNEXPOSED_ATTR#null#367#367#367#null
 CursorKind.PARM_DECL#__statebuf#365#365#365#setstate_r(char *__restrict, struct random_data *__restrict)
 CursorKind.PARM_DECL#__buf#366#366#366#setstate_r(char *__restrict, struct random_data *__restrict)
 CursorKind.TYPE_REF#struct random_data#366#366#366#null
@@ -2508,131 +2508,131 @@ CursorKind.FUNCTION_DECL#rand_r(unsigned int *)#381#381#381#
 CursorKind.PARM_DECL#__seed#381#381#381#rand_r(unsigned int *)
 CursorKind.FUNCTION_DECL#drand48()#389#389#389#
 CursorKind.FUNCTION_DECL#erand48(unsigned short *)#390#390#390#
-CursorKind.UNEXPOSED_ATTR##390#390#390#null
+CursorKind.UNEXPOSED_ATTR#null#390#390#390#null
 CursorKind.PARM_DECL#__xsubi#390#390#390#erand48(unsigned short *)
-CursorKind.INTEGER_LITERAL##390#390#390#null
+CursorKind.INTEGER_LITERAL#null#390#390#390#null
 CursorKind.FUNCTION_DECL#lrand48()#393#393#393#
 CursorKind.FUNCTION_DECL#nrand48(unsigned short *)#394#394#395#
-CursorKind.UNEXPOSED_ATTR##395#395#395#null
+CursorKind.UNEXPOSED_ATTR#null#395#395#395#null
 CursorKind.PARM_DECL#__xsubi#394#394#394#nrand48(unsigned short *)
-CursorKind.INTEGER_LITERAL##394#394#394#null
+CursorKind.INTEGER_LITERAL#null#394#394#394#null
 CursorKind.FUNCTION_DECL#mrand48()#398#398#398#
 CursorKind.FUNCTION_DECL#jrand48(unsigned short *)#399#399#400#
-CursorKind.UNEXPOSED_ATTR##400#400#400#null
+CursorKind.UNEXPOSED_ATTR#null#400#400#400#null
 CursorKind.PARM_DECL#__xsubi#399#399#399#jrand48(unsigned short *)
-CursorKind.INTEGER_LITERAL##399#399#399#null
+CursorKind.INTEGER_LITERAL#null#399#399#399#null
 CursorKind.FUNCTION_DECL#srand48(long)#403#403#403#
 CursorKind.PARM_DECL#__seedval#403#403#403#srand48(long)
 CursorKind.FUNCTION_DECL#seed48(unsigned short *)#404#404#405#
-CursorKind.UNEXPOSED_ATTR##405#405#405#null
+CursorKind.UNEXPOSED_ATTR#null#405#405#405#null
 CursorKind.PARM_DECL#__seed16v#404#404#404#seed48(unsigned short *)
-CursorKind.INTEGER_LITERAL##404#404#404#null
+CursorKind.INTEGER_LITERAL#null#404#404#404#null
 CursorKind.FUNCTION_DECL#lcong48(unsigned short *)#406#406#406#
-CursorKind.UNEXPOSED_ATTR##406#406#406#null
+CursorKind.UNEXPOSED_ATTR#null#406#406#406#null
 CursorKind.PARM_DECL#__param#406#406#406#lcong48(unsigned short *)
-CursorKind.INTEGER_LITERAL##406#406#406#null
+CursorKind.INTEGER_LITERAL#null#406#406#406#null
 CursorKind.STRUCT_DECL#drand48_data#412#412#420#
 CursorKind.FIELD_DECL#__x#414#414#414#drand48_data
-CursorKind.INTEGER_LITERAL##414#414#414#null
+CursorKind.INTEGER_LITERAL#null#414#414#414#null
 CursorKind.FIELD_DECL#__old_x#415#415#415#drand48_data
-CursorKind.INTEGER_LITERAL##415#415#415#null
+CursorKind.INTEGER_LITERAL#null#415#415#415#null
 CursorKind.FIELD_DECL#__c#416#416#416#drand48_data
 CursorKind.FIELD_DECL#__init#417#417#417#drand48_data
 CursorKind.FIELD_DECL#__a#418#418#418#drand48_data
 CursorKind.FUNCTION_DECL#drand48_r(struct drand48_data *__restrict, double *__restrict)#423#423#424#
-CursorKind.UNEXPOSED_ATTR##424#424#424#null
+CursorKind.UNEXPOSED_ATTR#null#424#424#424#null
 CursorKind.PARM_DECL#__buffer#423#423#423#drand48_r(struct drand48_data *__restrict, double *__restrict)
 CursorKind.TYPE_REF#struct drand48_data#423#423#423#null
 CursorKind.PARM_DECL#__result#424#424#424#drand48_r(struct drand48_data *__restrict, double *__restrict)
 CursorKind.FUNCTION_DECL#erand48_r(unsigned short *, struct drand48_data *__restrict, double *__restrict)#425#425#427#
-CursorKind.UNEXPOSED_ATTR##427#427#427#null
+CursorKind.UNEXPOSED_ATTR#null#427#427#427#null
 CursorKind.PARM_DECL#__xsubi#425#425#425#erand48_r(unsigned short *, struct drand48_data *__restrict, double *__restrict)
-CursorKind.INTEGER_LITERAL##425#425#425#null
+CursorKind.INTEGER_LITERAL#null#425#425#425#null
 CursorKind.PARM_DECL#__buffer#426#426#426#erand48_r(unsigned short *, struct drand48_data *__restrict, double *__restrict)
 CursorKind.TYPE_REF#struct drand48_data#426#426#426#null
 CursorKind.PARM_DECL#__result#427#427#427#erand48_r(unsigned short *, struct drand48_data *__restrict, double *__restrict)
 CursorKind.FUNCTION_DECL#lrand48_r(struct drand48_data *__restrict, long *__restrict)#430#430#432#
-CursorKind.UNEXPOSED_ATTR##432#432#432#null
+CursorKind.UNEXPOSED_ATTR#null#432#432#432#null
 CursorKind.PARM_DECL#__buffer#430#430#430#lrand48_r(struct drand48_data *__restrict, long *__restrict)
 CursorKind.TYPE_REF#struct drand48_data#430#430#430#null
 CursorKind.PARM_DECL#__result#431#431#431#lrand48_r(struct drand48_data *__restrict, long *__restrict)
 CursorKind.FUNCTION_DECL#nrand48_r(unsigned short *, struct drand48_data *__restrict, long *__restrict)#433#433#436#
-CursorKind.UNEXPOSED_ATTR##436#436#436#null
+CursorKind.UNEXPOSED_ATTR#null#436#436#436#null
 CursorKind.PARM_DECL#__xsubi#433#433#433#nrand48_r(unsigned short *, struct drand48_data *__restrict, long *__restrict)
-CursorKind.INTEGER_LITERAL##433#433#433#null
+CursorKind.INTEGER_LITERAL#null#433#433#433#null
 CursorKind.PARM_DECL#__buffer#434#434#434#nrand48_r(unsigned short *, struct drand48_data *__restrict, long *__restrict)
 CursorKind.TYPE_REF#struct drand48_data#434#434#434#null
 CursorKind.PARM_DECL#__result#435#435#435#nrand48_r(unsigned short *, struct drand48_data *__restrict, long *__restrict)
 CursorKind.FUNCTION_DECL#mrand48_r(struct drand48_data *__restrict, long *__restrict)#439#439#441#
-CursorKind.UNEXPOSED_ATTR##441#441#441#null
+CursorKind.UNEXPOSED_ATTR#null#441#441#441#null
 CursorKind.PARM_DECL#__buffer#439#439#439#mrand48_r(struct drand48_data *__restrict, long *__restrict)
 CursorKind.TYPE_REF#struct drand48_data#439#439#439#null
 CursorKind.PARM_DECL#__result#440#440#440#mrand48_r(struct drand48_data *__restrict, long *__restrict)
 CursorKind.FUNCTION_DECL#jrand48_r(unsigned short *, struct drand48_data *__restrict, long *__restrict)#442#442#445#
-CursorKind.UNEXPOSED_ATTR##445#445#445#null
+CursorKind.UNEXPOSED_ATTR#null#445#445#445#null
 CursorKind.PARM_DECL#__xsubi#442#442#442#jrand48_r(unsigned short *, struct drand48_data *__restrict, long *__restrict)
-CursorKind.INTEGER_LITERAL##442#442#442#null
+CursorKind.INTEGER_LITERAL#null#442#442#442#null
 CursorKind.PARM_DECL#__buffer#443#443#443#jrand48_r(unsigned short *, struct drand48_data *__restrict, long *__restrict)
 CursorKind.TYPE_REF#struct drand48_data#443#443#443#null
 CursorKind.PARM_DECL#__result#444#444#444#jrand48_r(unsigned short *, struct drand48_data *__restrict, long *__restrict)
 CursorKind.FUNCTION_DECL#srand48_r(long, struct drand48_data *)#448#448#449#
-CursorKind.UNEXPOSED_ATTR##449#449#449#null
+CursorKind.UNEXPOSED_ATTR#null#449#449#449#null
 CursorKind.PARM_DECL#__seedval#448#448#448#srand48_r(long, struct drand48_data *)
 CursorKind.PARM_DECL#__buffer#448#448#448#srand48_r(long, struct drand48_data *)
 CursorKind.TYPE_REF#struct drand48_data#448#448#448#null
 CursorKind.FUNCTION_DECL#seed48_r(unsigned short *, struct drand48_data *)#451#451#452#
-CursorKind.UNEXPOSED_ATTR##452#452#452#null
+CursorKind.UNEXPOSED_ATTR#null#452#452#452#null
 CursorKind.PARM_DECL#__seed16v#451#451#451#seed48_r(unsigned short *, struct drand48_data *)
-CursorKind.INTEGER_LITERAL##451#451#451#null
+CursorKind.INTEGER_LITERAL#null#451#451#451#null
 CursorKind.PARM_DECL#__buffer#452#452#452#seed48_r(unsigned short *, struct drand48_data *)
 CursorKind.TYPE_REF#struct drand48_data#452#452#452#null
 CursorKind.FUNCTION_DECL#lcong48_r(unsigned short *, struct drand48_data *)#454#454#456#
-CursorKind.UNEXPOSED_ATTR##456#456#456#null
+CursorKind.UNEXPOSED_ATTR#null#456#456#456#null
 CursorKind.PARM_DECL#__param#454#454#454#lcong48_r(unsigned short *, struct drand48_data *)
-CursorKind.INTEGER_LITERAL##454#454#454#null
+CursorKind.INTEGER_LITERAL#null#454#454#454#null
 CursorKind.PARM_DECL#__buffer#455#455#455#lcong48_r(unsigned short *, struct drand48_data *)
 CursorKind.TYPE_REF#struct drand48_data#455#455#455#null
 CursorKind.FUNCTION_DECL#malloc(int)#466#466#466#
-CursorKind.UNEXPOSED_ATTR##466#466#466#null
+CursorKind.UNEXPOSED_ATTR#null#466#466#466#null
 CursorKind.PARM_DECL#__size#466#466#466#malloc(int)
 CursorKind.FUNCTION_DECL#calloc(int, int)#468#468#469#
-CursorKind.UNEXPOSED_ATTR##469#469#469#null
+CursorKind.UNEXPOSED_ATTR#null#469#469#469#null
 CursorKind.PARM_DECL#__nmemb#468#468#468#calloc(int, int)
 CursorKind.PARM_DECL#__size#468#468#468#calloc(int, int)
 CursorKind.FUNCTION_DECL#realloc(void *, int)#480#480#481#
-CursorKind.UNEXPOSED_ATTR##481#481#481#null
+CursorKind.UNEXPOSED_ATTR#null#481#481#481#null
 CursorKind.PARM_DECL#__ptr#480#480#480#realloc(void *, int)
 CursorKind.PARM_DECL#__size#480#480#480#realloc(void *, int)
 CursorKind.FUNCTION_DECL#free(void *)#483#483#483#
 CursorKind.PARM_DECL#__ptr#483#483#483#free(void *)
 CursorKind.FUNCTION_DECL#cfree(void *)#488#488#488#
 CursorKind.PARM_DECL#__ptr#488#488#488#cfree(void *)
-CursorKind.UNEXPOSED_DECL##26#26#38#
+CursorKind.UNEXPOSED_DECL#null#26#26#38#
 CursorKind.FUNCTION_DECL#alloca(int)#32#32#32#
 CursorKind.PARM_DECL#__size#32#32#32#alloca(int)
 CursorKind.FUNCTION_DECL#valloc(int)#498#498#498#
-CursorKind.UNEXPOSED_ATTR##498#498#498#null
+CursorKind.UNEXPOSED_ATTR#null#498#498#498#null
 CursorKind.PARM_DECL#__size#498#498#498#valloc(int)
 CursorKind.FUNCTION_DECL#posix_memalign(void **, int, int)#503#503#504#
-CursorKind.UNEXPOSED_ATTR##504#504#504#null
+CursorKind.UNEXPOSED_ATTR#null#504#504#504#null
 CursorKind.PARM_DECL#__memptr#503#503#503#posix_memalign(void **, int, int)
 CursorKind.PARM_DECL#__alignment#503#503#503#posix_memalign(void **, int, int)
 CursorKind.PARM_DECL#__size#503#503#503#posix_memalign(void **, int, int)
 CursorKind.FUNCTION_DECL#aligned_alloc(int, int)#509#509#510#
-CursorKind.UNEXPOSED_ATTR##510#510#510#null
+CursorKind.UNEXPOSED_ATTR#null#510#510#510#null
 CursorKind.PARM_DECL#__alignment#509#509#509#aligned_alloc(int, int)
 CursorKind.PARM_DECL#__size#509#509#509#aligned_alloc(int, int)
 CursorKind.FUNCTION_DECL#abort()#515#515#515#
 CursorKind.FUNCTION_DECL#atexit(void (*)())#519#519#519#
-CursorKind.UNEXPOSED_ATTR##519#519#519#null
+CursorKind.UNEXPOSED_ATTR#null#519#519#519#null
 CursorKind.PARM_DECL#__func#519#519#519#atexit(void (*)())
-CursorKind.UNEXPOSED_DECL##524#524#525#
+CursorKind.UNEXPOSED_DECL#null#524#524#525#
 CursorKind.FUNCTION_DECL#at_quick_exit(void (*)())#524#524#525#
 CursorKind.ASM_LABEL_ATTR#at_quick_exit#525#525#525#null
-CursorKind.UNEXPOSED_ATTR##525#525#525#null
+CursorKind.UNEXPOSED_ATTR#null#525#525#525#null
 CursorKind.PARM_DECL#__func#524#524#524#at_quick_exit(void (*)())
 CursorKind.FUNCTION_DECL#on_exit(void (*)(int, void *), void *)#535#535#536#
-CursorKind.UNEXPOSED_ATTR##536#536#536#null
+CursorKind.UNEXPOSED_ATTR#null#536#536#536#null
 CursorKind.PARM_DECL#__func#535#535#535#on_exit(void (*)(int, void *), void *)
 CursorKind.PARM_DECL#__status#535#535#535#test.cpp
 CursorKind.PARM_DECL#__arg#535#535#535#test.cpp
@@ -2644,80 +2644,80 @@ CursorKind.PARM_DECL#__status#549#549#549#quick_exit(int)
 CursorKind.FUNCTION_DECL#_Exit(int)#557#557#557#
 CursorKind.PARM_DECL#__status#557#557#557#_Exit(int)
 CursorKind.FUNCTION_DECL#getenv(const char *)#564#564#564#
-CursorKind.UNEXPOSED_ATTR##564#564#564#null
+CursorKind.UNEXPOSED_ATTR#null#564#564#564#null
 CursorKind.PARM_DECL#__name#564#564#564#getenv(const char *)
 CursorKind.FUNCTION_DECL#secure_getenv(const char *)#570#570#571#
-CursorKind.UNEXPOSED_ATTR##571#571#571#null
+CursorKind.UNEXPOSED_ATTR#null#571#571#571#null
 CursorKind.PARM_DECL#__name#570#570#570#secure_getenv(const char *)
 CursorKind.FUNCTION_DECL#putenv(char *)#578#578#578#
-CursorKind.UNEXPOSED_ATTR##578#578#578#null
+CursorKind.UNEXPOSED_ATTR#null#578#578#578#null
 CursorKind.PARM_DECL#__string#578#578#578#putenv(char *)
 CursorKind.FUNCTION_DECL#setenv(const char *, const char *, int)#584#584#585#
-CursorKind.UNEXPOSED_ATTR##585#585#585#null
+CursorKind.UNEXPOSED_ATTR#null#585#585#585#null
 CursorKind.PARM_DECL#__name#584#584#584#setenv(const char *, const char *, int)
 CursorKind.PARM_DECL#__value#584#584#584#setenv(const char *, const char *, int)
 CursorKind.PARM_DECL#__replace#584#584#584#setenv(const char *, const char *, int)
 CursorKind.FUNCTION_DECL#unsetenv(const char *)#588#588#588#
-CursorKind.UNEXPOSED_ATTR##588#588#588#null
+CursorKind.UNEXPOSED_ATTR#null#588#588#588#null
 CursorKind.PARM_DECL#__name#588#588#588#unsetenv(const char *)
 CursorKind.FUNCTION_DECL#clearenv()#595#595#595#
 CursorKind.FUNCTION_DECL#mktemp(char *)#606#606#606#
-CursorKind.UNEXPOSED_ATTR##606#606#606#null
+CursorKind.UNEXPOSED_ATTR#null#606#606#606#null
 CursorKind.PARM_DECL#__template#606#606#606#mktemp(char *)
 CursorKind.FUNCTION_DECL#mkstemp(char *)#619#619#619#
-CursorKind.UNEXPOSED_ATTR##619#619#619#null
+CursorKind.UNEXPOSED_ATTR#null#619#619#619#null
 CursorKind.PARM_DECL#__template#619#619#619#mkstemp(char *)
 CursorKind.FUNCTION_DECL#mkstemp64(char *)#629#629#629#
-CursorKind.UNEXPOSED_ATTR##629#629#629#null
+CursorKind.UNEXPOSED_ATTR#null#629#629#629#null
 CursorKind.PARM_DECL#__template#629#629#629#mkstemp64(char *)
 CursorKind.FUNCTION_DECL#mkstemps(char *, int)#641#641#641#
-CursorKind.UNEXPOSED_ATTR##641#641#641#null
+CursorKind.UNEXPOSED_ATTR#null#641#641#641#null
 CursorKind.PARM_DECL#__template#641#641#641#mkstemps(char *, int)
 CursorKind.PARM_DECL#__suffixlen#641#641#641#mkstemps(char *, int)
 CursorKind.FUNCTION_DECL#mkstemps64(char *, int)#651#651#652#
-CursorKind.UNEXPOSED_ATTR##652#652#652#null
+CursorKind.UNEXPOSED_ATTR#null#652#652#652#null
 CursorKind.PARM_DECL#__template#651#651#651#mkstemps64(char *, int)
 CursorKind.PARM_DECL#__suffixlen#651#651#651#mkstemps64(char *, int)
 CursorKind.FUNCTION_DECL#mkdtemp(char *)#662#662#662#
-CursorKind.UNEXPOSED_ATTR##662#662#662#null
+CursorKind.UNEXPOSED_ATTR#null#662#662#662#null
 CursorKind.PARM_DECL#__template#662#662#662#mkdtemp(char *)
 CursorKind.FUNCTION_DECL#mkostemp(char *, int)#673#673#673#
-CursorKind.UNEXPOSED_ATTR##673#673#673#null
+CursorKind.UNEXPOSED_ATTR#null#673#673#673#null
 CursorKind.PARM_DECL#__template#673#673#673#mkostemp(char *, int)
 CursorKind.PARM_DECL#__flags#673#673#673#mkostemp(char *, int)
 CursorKind.FUNCTION_DECL#mkostemp64(char *, int)#683#683#683#
-CursorKind.UNEXPOSED_ATTR##683#683#683#null
+CursorKind.UNEXPOSED_ATTR#null#683#683#683#null
 CursorKind.PARM_DECL#__template#683#683#683#mkostemp64(char *, int)
 CursorKind.PARM_DECL#__flags#683#683#683#mkostemp64(char *, int)
 CursorKind.FUNCTION_DECL#mkostemps(char *, int, int)#693#693#694#
-CursorKind.UNEXPOSED_ATTR##694#694#694#null
+CursorKind.UNEXPOSED_ATTR#null#694#694#694#null
 CursorKind.PARM_DECL#__template#693#693#693#mkostemps(char *, int, int)
 CursorKind.PARM_DECL#__suffixlen#693#693#693#mkostemps(char *, int, int)
 CursorKind.PARM_DECL#__flags#693#693#693#mkostemps(char *, int, int)
 CursorKind.FUNCTION_DECL#mkostemps64(char *, int, int)#705#705#706#
-CursorKind.UNEXPOSED_ATTR##706#706#706#null
+CursorKind.UNEXPOSED_ATTR#null#706#706#706#null
 CursorKind.PARM_DECL#__template#705#705#705#mkostemps64(char *, int, int)
 CursorKind.PARM_DECL#__suffixlen#705#705#705#mkostemps64(char *, int, int)
 CursorKind.PARM_DECL#__flags#705#705#705#mkostemps64(char *, int, int)
 CursorKind.FUNCTION_DECL#system(const char *)#716#716#716#
 CursorKind.PARM_DECL#__command#716#716#716#system(const char *)
 CursorKind.FUNCTION_DECL#canonicalize_file_name(const char *)#723#723#724#
-CursorKind.UNEXPOSED_ATTR##724#724#724#null
+CursorKind.UNEXPOSED_ATTR#null#724#724#724#null
 CursorKind.PARM_DECL#__name#723#723#723#canonicalize_file_name(const char *)
 CursorKind.FUNCTION_DECL#realpath(const char *__restrict, char *__restrict)#733#733#734#
 CursorKind.PARM_DECL#__name#733#733#733#realpath(const char *__restrict, char *__restrict)
 CursorKind.PARM_DECL#__resolved#734#734#734#realpath(const char *__restrict, char *__restrict)
 CursorKind.TYPEDEF_DECL#__compar_fn_t#741#741#741#
-CursorKind.PARM_DECL##741#741#741#test.cpp
-CursorKind.PARM_DECL##741#741#741#test.cpp
+CursorKind.PARM_DECL#null#741#741#741#test.cpp
+CursorKind.PARM_DECL#null#741#741#741#test.cpp
 CursorKind.TYPEDEF_DECL#comparison_fn_t#744#744#744#
 CursorKind.TYPE_REF#__compar_fn_t#744#744#744#null
 CursorKind.TYPEDEF_DECL#__compar_d_fn_t#748#748#748#
-CursorKind.PARM_DECL##748#748#748#test.cpp
-CursorKind.PARM_DECL##748#748#748#test.cpp
-CursorKind.PARM_DECL##748#748#748#test.cpp
+CursorKind.PARM_DECL#null#748#748#748#test.cpp
+CursorKind.PARM_DECL#null#748#748#748#test.cpp
+CursorKind.PARM_DECL#null#748#748#748#test.cpp
 CursorKind.FUNCTION_DECL#bsearch(const void *, const void *, int, int, __compar_fn_t)#754#754#756#
-CursorKind.UNEXPOSED_ATTR##756#756#756#null
+CursorKind.UNEXPOSED_ATTR#null#756#756#756#null
 CursorKind.PARM_DECL#__key#754#754#754#bsearch(const void *, const void *, int, int, __compar_fn_t)
 CursorKind.PARM_DECL#__base#754#754#754#bsearch(const void *, const void *, int, int, __compar_fn_t)
 CursorKind.PARM_DECL#__nmemb#755#755#755#bsearch(const void *, const void *, int, int, __compar_fn_t)
@@ -2725,14 +2725,14 @@ CursorKind.PARM_DECL#__size#755#755#755#bsearch(const void *, const void *, int,
 CursorKind.PARM_DECL#__compar#755#755#755#bsearch(const void *, const void *, int, int, __compar_fn_t)
 CursorKind.TYPE_REF#__compar_fn_t#755#755#755#null
 CursorKind.FUNCTION_DECL#qsort(void *, int, int, __compar_fn_t)#764#764#765#
-CursorKind.UNEXPOSED_ATTR##765#765#765#null
+CursorKind.UNEXPOSED_ATTR#null#765#765#765#null
 CursorKind.PARM_DECL#__base#764#764#764#qsort(void *, int, int, __compar_fn_t)
 CursorKind.PARM_DECL#__nmemb#764#764#764#qsort(void *, int, int, __compar_fn_t)
 CursorKind.PARM_DECL#__size#764#764#764#qsort(void *, int, int, __compar_fn_t)
 CursorKind.PARM_DECL#__compar#765#765#765#qsort(void *, int, int, __compar_fn_t)
 CursorKind.TYPE_REF#__compar_fn_t#765#765#765#null
 CursorKind.FUNCTION_DECL#qsort_r(void *, int, int, __compar_d_fn_t, void *)#767#767#769#
-CursorKind.UNEXPOSED_ATTR##769#769#769#null
+CursorKind.UNEXPOSED_ATTR#null#769#769#769#null
 CursorKind.PARM_DECL#__base#767#767#767#qsort_r(void *, int, int, __compar_d_fn_t, void *)
 CursorKind.PARM_DECL#__nmemb#767#767#767#qsort_r(void *, int, int, __compar_d_fn_t, void *)
 CursorKind.PARM_DECL#__size#767#767#767#qsort_r(void *, int, int, __compar_d_fn_t, void *)
@@ -2740,68 +2740,68 @@ CursorKind.PARM_DECL#__compar#768#768#768#qsort_r(void *, int, int, __compar_d_f
 CursorKind.TYPE_REF#__compar_d_fn_t#768#768#768#null
 CursorKind.PARM_DECL#__arg#768#768#768#qsort_r(void *, int, int, __compar_d_fn_t, void *)
 CursorKind.FUNCTION_DECL#abs(int)#774#774#774#
-CursorKind.CONST_ATTR##774#774#774#null
-CursorKind.UNEXPOSED_ATTR##774#774#774#null
+CursorKind.CONST_ATTR#null#774#774#774#null
+CursorKind.UNEXPOSED_ATTR#null#774#774#774#null
 CursorKind.PARM_DECL#__x#774#774#774#abs(int)
 CursorKind.FUNCTION_DECL#labs(long)#775#775#775#
-CursorKind.CONST_ATTR##775#775#775#null
-CursorKind.UNEXPOSED_ATTR##775#775#775#null
+CursorKind.CONST_ATTR#null#775#775#775#null
+CursorKind.UNEXPOSED_ATTR#null#775#775#775#null
 CursorKind.PARM_DECL#__x#775#775#775#labs(long)
 CursorKind.FUNCTION_DECL#llabs(long long)#779#779#780#
-CursorKind.CONST_ATTR##780#780#780#null
-CursorKind.UNEXPOSED_ATTR##779#779#779#null
+CursorKind.CONST_ATTR#null#780#780#780#null
+CursorKind.UNEXPOSED_ATTR#null#779#779#779#null
 CursorKind.PARM_DECL#__x#779#779#779#llabs(long long)
 CursorKind.FUNCTION_DECL#div(int, int)#788#788#789#
-CursorKind.CONST_ATTR##789#789#789#null
+CursorKind.CONST_ATTR#null#789#789#789#null
 CursorKind.TYPE_REF#div_t#788#788#788#null
 CursorKind.PARM_DECL#__numer#788#788#788#div(int, int)
 CursorKind.PARM_DECL#__denom#788#788#788#div(int, int)
 CursorKind.FUNCTION_DECL#ldiv(long, long)#790#790#791#
-CursorKind.CONST_ATTR##791#791#791#null
+CursorKind.CONST_ATTR#null#791#791#791#null
 CursorKind.TYPE_REF#ldiv_t#790#790#790#null
 CursorKind.PARM_DECL#__numer#790#790#790#ldiv(long, long)
 CursorKind.PARM_DECL#__denom#790#790#790#ldiv(long, long)
 CursorKind.FUNCTION_DECL#lldiv(long long, long long)#796#796#798#
-CursorKind.CONST_ATTR##798#798#798#null
+CursorKind.CONST_ATTR#null#798#798#798#null
 CursorKind.TYPE_REF#lldiv_t#796#796#796#null
 CursorKind.PARM_DECL#__numer#796#796#796#lldiv(long long, long long)
 CursorKind.PARM_DECL#__denom#797#797#797#lldiv(long long, long long)
 CursorKind.FUNCTION_DECL#ecvt(double, int, int *__restrict, int *__restrict)#811#811#812#
-CursorKind.UNEXPOSED_ATTR##812#812#812#null
+CursorKind.UNEXPOSED_ATTR#null#812#812#812#null
 CursorKind.PARM_DECL#__value#811#811#811#ecvt(double, int, int *__restrict, int *__restrict)
 CursorKind.PARM_DECL#__ndigit#811#811#811#ecvt(double, int, int *__restrict, int *__restrict)
 CursorKind.PARM_DECL#__decpt#811#811#811#ecvt(double, int, int *__restrict, int *__restrict)
 CursorKind.PARM_DECL#__sign#812#812#812#ecvt(double, int, int *__restrict, int *__restrict)
 CursorKind.FUNCTION_DECL#fcvt(double, int, int *__restrict, int *__restrict)#817#817#818#
-CursorKind.UNEXPOSED_ATTR##818#818#818#null
+CursorKind.UNEXPOSED_ATTR#null#818#818#818#null
 CursorKind.PARM_DECL#__value#817#817#817#fcvt(double, int, int *__restrict, int *__restrict)
 CursorKind.PARM_DECL#__ndigit#817#817#817#fcvt(double, int, int *__restrict, int *__restrict)
 CursorKind.PARM_DECL#__decpt#817#817#817#fcvt(double, int, int *__restrict, int *__restrict)
 CursorKind.PARM_DECL#__sign#818#818#818#fcvt(double, int, int *__restrict, int *__restrict)
 CursorKind.FUNCTION_DECL#gcvt(double, int, char *)#823#823#824#
-CursorKind.UNEXPOSED_ATTR##824#824#824#null
+CursorKind.UNEXPOSED_ATTR#null#824#824#824#null
 CursorKind.PARM_DECL#__value#823#823#823#gcvt(double, int, char *)
 CursorKind.PARM_DECL#__ndigit#823#823#823#gcvt(double, int, char *)
 CursorKind.PARM_DECL#__buf#823#823#823#gcvt(double, int, char *)
 CursorKind.FUNCTION_DECL#qecvt(long double, int, int *__restrict, int *__restrict)#829#829#831#
-CursorKind.UNEXPOSED_ATTR##831#831#831#null
+CursorKind.UNEXPOSED_ATTR#null#831#831#831#null
 CursorKind.PARM_DECL#__value#829#829#829#qecvt(long double, int, int *__restrict, int *__restrict)
 CursorKind.PARM_DECL#__ndigit#829#829#829#qecvt(long double, int, int *__restrict, int *__restrict)
 CursorKind.PARM_DECL#__decpt#830#830#830#qecvt(long double, int, int *__restrict, int *__restrict)
 CursorKind.PARM_DECL#__sign#830#830#830#qecvt(long double, int, int *__restrict, int *__restrict)
 CursorKind.FUNCTION_DECL#qfcvt(long double, int, int *__restrict, int *__restrict)#832#832#834#
-CursorKind.UNEXPOSED_ATTR##834#834#834#null
+CursorKind.UNEXPOSED_ATTR#null#834#834#834#null
 CursorKind.PARM_DECL#__value#832#832#832#qfcvt(long double, int, int *__restrict, int *__restrict)
 CursorKind.PARM_DECL#__ndigit#832#832#832#qfcvt(long double, int, int *__restrict, int *__restrict)
 CursorKind.PARM_DECL#__decpt#833#833#833#qfcvt(long double, int, int *__restrict, int *__restrict)
 CursorKind.PARM_DECL#__sign#833#833#833#qfcvt(long double, int, int *__restrict, int *__restrict)
 CursorKind.FUNCTION_DECL#qgcvt(long double, int, char *)#835#835#836#
-CursorKind.UNEXPOSED_ATTR##836#836#836#null
+CursorKind.UNEXPOSED_ATTR#null#836#836#836#null
 CursorKind.PARM_DECL#__value#835#835#835#qgcvt(long double, int, char *)
 CursorKind.PARM_DECL#__ndigit#835#835#835#qgcvt(long double, int, char *)
 CursorKind.PARM_DECL#__buf#835#835#835#qgcvt(long double, int, char *)
 CursorKind.FUNCTION_DECL#ecvt_r(double, int, int *__restrict, int *__restrict, char *__restrict, int)#841#841#843#
-CursorKind.UNEXPOSED_ATTR##843#843#843#null
+CursorKind.UNEXPOSED_ATTR#null#843#843#843#null
 CursorKind.PARM_DECL#__value#841#841#841#ecvt_r(double, int, int *__restrict, int *__restrict, char *__restrict, int)
 CursorKind.PARM_DECL#__ndigit#841#841#841#ecvt_r(double, int, int *__restrict, int *__restrict, char *__restrict, int)
 CursorKind.PARM_DECL#__decpt#841#841#841#ecvt_r(double, int, int *__restrict, int *__restrict, char *__restrict, int)
@@ -2809,7 +2809,7 @@ CursorKind.PARM_DECL#__sign#842#842#842#ecvt_r(double, int, int *__restrict, int
 CursorKind.PARM_DECL#__buf#842#842#842#ecvt_r(double, int, int *__restrict, int *__restrict, char *__restrict, int)
 CursorKind.PARM_DECL#__len#843#843#843#ecvt_r(double, int, int *__restrict, int *__restrict, char *__restrict, int)
 CursorKind.FUNCTION_DECL#fcvt_r(double, int, int *__restrict, int *__restrict, char *__restrict, int)#844#844#846#
-CursorKind.UNEXPOSED_ATTR##846#846#846#null
+CursorKind.UNEXPOSED_ATTR#null#846#846#846#null
 CursorKind.PARM_DECL#__value#844#844#844#fcvt_r(double, int, int *__restrict, int *__restrict, char *__restrict, int)
 CursorKind.PARM_DECL#__ndigit#844#844#844#fcvt_r(double, int, int *__restrict, int *__restrict, char *__restrict, int)
 CursorKind.PARM_DECL#__decpt#844#844#844#fcvt_r(double, int, int *__restrict, int *__restrict, char *__restrict, int)
@@ -2817,7 +2817,7 @@ CursorKind.PARM_DECL#__sign#845#845#845#fcvt_r(double, int, int *__restrict, int
 CursorKind.PARM_DECL#__buf#845#845#845#fcvt_r(double, int, int *__restrict, int *__restrict, char *__restrict, int)
 CursorKind.PARM_DECL#__len#846#846#846#fcvt_r(double, int, int *__restrict, int *__restrict, char *__restrict, int)
 CursorKind.FUNCTION_DECL#qecvt_r(long double, int, int *__restrict, int *__restrict, char *__restrict, int)#848#848#851#
-CursorKind.UNEXPOSED_ATTR##851#851#851#null
+CursorKind.UNEXPOSED_ATTR#null#851#851#851#null
 CursorKind.PARM_DECL#__value#848#848#848#qecvt_r(long double, int, int *__restrict, int *__restrict, char *__restrict, int)
 CursorKind.PARM_DECL#__ndigit#848#848#848#qecvt_r(long double, int, int *__restrict, int *__restrict, char *__restrict, int)
 CursorKind.PARM_DECL#__decpt#849#849#849#qecvt_r(long double, int, int *__restrict, int *__restrict, char *__restrict, int)
@@ -2825,7 +2825,7 @@ CursorKind.PARM_DECL#__sign#849#849#849#qecvt_r(long double, int, int *__restric
 CursorKind.PARM_DECL#__buf#850#850#850#qecvt_r(long double, int, int *__restrict, int *__restrict, char *__restrict, int)
 CursorKind.PARM_DECL#__len#850#850#850#qecvt_r(long double, int, int *__restrict, int *__restrict, char *__restrict, int)
 CursorKind.FUNCTION_DECL#qfcvt_r(long double, int, int *__restrict, int *__restrict, char *__restrict, int)#852#852#855#
-CursorKind.UNEXPOSED_ATTR##855#855#855#null
+CursorKind.UNEXPOSED_ATTR#null#855#855#855#null
 CursorKind.PARM_DECL#__value#852#852#852#qfcvt_r(long double, int, int *__restrict, int *__restrict, char *__restrict, int)
 CursorKind.PARM_DECL#__ndigit#852#852#852#qfcvt_r(long double, int, int *__restrict, int *__restrict, char *__restrict, int)
 CursorKind.PARM_DECL#__decpt#853#853#853#qfcvt_r(long double, int, int *__restrict, int *__restrict, char *__restrict, int)
@@ -2845,15 +2845,15 @@ CursorKind.PARM_DECL#__wchar#869#869#869#wctomb(char *, wchar_t)
 CursorKind.FUNCTION_DECL#mbstowcs(wchar_t *__restrict, const char *__restrict, int)#873#873#874#
 CursorKind.FUNCTION_DECL#wcstombs(char *__restrict, const wchar_t *__restrict, int)#876#876#878#
 CursorKind.FUNCTION_DECL#rpmatch(const char *)#887#887#887#
-CursorKind.UNEXPOSED_ATTR##887#887#887#null
+CursorKind.UNEXPOSED_ATTR#null#887#887#887#null
 CursorKind.PARM_DECL#__response#887#887#887#rpmatch(const char *)
 CursorKind.FUNCTION_DECL#getsubopt(char **__restrict, char *const *__restrict, char **__restrict)#898#898#901#
-CursorKind.UNEXPOSED_ATTR##901#901#901#null
+CursorKind.UNEXPOSED_ATTR#null#901#901#901#null
 CursorKind.PARM_DECL#__optionp#898#898#898#getsubopt(char **__restrict, char *const *__restrict, char **__restrict)
 CursorKind.PARM_DECL#__tokens#899#899#899#getsubopt(char **__restrict, char *const *__restrict, char **__restrict)
 CursorKind.PARM_DECL#__valuep#900#900#900#getsubopt(char **__restrict, char *const *__restrict, char **__restrict)
 CursorKind.FUNCTION_DECL#setkey(const char *)#907#907#907#
-CursorKind.UNEXPOSED_ATTR##907#907#907#null
+CursorKind.UNEXPOSED_ATTR#null#907#907#907#null
 CursorKind.PARM_DECL#__key#907#907#907#setkey(const char *)
 CursorKind.FUNCTION_DECL#posix_openpt(int)#915#915#915#
 CursorKind.PARM_DECL#__oflag#915#915#915#posix_openpt(int)
@@ -2864,34 +2864,34 @@ CursorKind.PARM_DECL#__fd#927#927#927#unlockpt(int)
 CursorKind.FUNCTION_DECL#ptsname(int)#932#932#932#
 CursorKind.PARM_DECL#__fd#932#932#932#ptsname(int)
 CursorKind.FUNCTION_DECL#ptsname_r(int, char *, int)#939#939#940#
-CursorKind.UNEXPOSED_ATTR##940#940#940#null
+CursorKind.UNEXPOSED_ATTR#null#940#940#940#null
 CursorKind.PARM_DECL#__fd#939#939#939#ptsname_r(int, char *, int)
 CursorKind.PARM_DECL#__buf#939#939#939#ptsname_r(int, char *, int)
 CursorKind.PARM_DECL#__buflen#939#939#939#ptsname_r(int, char *, int)
 CursorKind.FUNCTION_DECL#getpt()#943#943#943#
 CursorKind.FUNCTION_DECL#getloadavg(double *, int)#950#950#951#
-CursorKind.UNEXPOSED_ATTR##951#951#951#null
+CursorKind.UNEXPOSED_ATTR#null#951#951#951#null
 CursorKind.PARM_DECL#__loadavg#950#950#950#getloadavg(double *, int)
 CursorKind.PARM_DECL#__nelem#950#950#950#getloadavg(double *, int)
-CursorKind.UNEXPOSED_DECL##27#27#1154#test.cpp
+CursorKind.UNEXPOSED_DECL#null#27#27#1154#test.cpp
 CursorKind.TYPEDEF_DECL#intptr_t#270#270#270#
 CursorKind.TYPE_REF#__intptr_t#270#270#270#null
 CursorKind.TYPEDEF_DECL#socklen_t#277#277#277#
 CursorKind.TYPE_REF#__socklen_t#277#277#277#null
 CursorKind.FUNCTION_DECL#access(const char *, int)#290#290#290#
-CursorKind.UNEXPOSED_ATTR##290#290#290#null
+CursorKind.UNEXPOSED_ATTR#null#290#290#290#null
 CursorKind.PARM_DECL#__name#290#290#290#access(const char *, int)
 CursorKind.PARM_DECL#__type#290#290#290#access(const char *, int)
 CursorKind.FUNCTION_DECL#euidaccess(const char *, int)#295#295#296#
-CursorKind.UNEXPOSED_ATTR##296#296#296#null
+CursorKind.UNEXPOSED_ATTR#null#296#296#296#null
 CursorKind.PARM_DECL#__name#295#295#295#euidaccess(const char *, int)
 CursorKind.PARM_DECL#__type#295#295#295#euidaccess(const char *, int)
 CursorKind.FUNCTION_DECL#eaccess(const char *, int)#299#299#300#
-CursorKind.UNEXPOSED_ATTR##300#300#300#null
+CursorKind.UNEXPOSED_ATTR#null#300#300#300#null
 CursorKind.PARM_DECL#__name#299#299#299#eaccess(const char *, int)
 CursorKind.PARM_DECL#__type#299#299#299#eaccess(const char *, int)
 CursorKind.FUNCTION_DECL#faccessat(int, const char *, int, int)#307#307#308#
-CursorKind.UNEXPOSED_ATTR##308#308#308#null
+CursorKind.UNEXPOSED_ATTR#null#308#308#308#null
 CursorKind.PARM_DECL#__fd#307#307#307#faccessat(int, const char *, int, int)
 CursorKind.PARM_DECL#__file#307#307#307#faccessat(int, const char *, int, int)
 CursorKind.PARM_DECL#__type#307#307#307#faccessat(int, const char *, int, int)
@@ -2950,10 +2950,10 @@ CursorKind.PARM_DECL#__offset#412#412#412#pwrite64(int, const void *, int, __off
 CursorKind.TYPE_REF#__off64_t#412#412#412#null
 CursorKind.FUNCTION_DECL#pipe(int *)#420#420#420#
 CursorKind.PARM_DECL#__pipedes#420#420#420#pipe(int *)
-CursorKind.INTEGER_LITERAL##420#420#420#null
+CursorKind.INTEGER_LITERAL#null#420#420#420#null
 CursorKind.FUNCTION_DECL#pipe2(int *, int)#425#425#425#
 CursorKind.PARM_DECL#__pipedes#425#425#425#pipe2(int *, int)
-CursorKind.INTEGER_LITERAL##425#425#425#null
+CursorKind.INTEGER_LITERAL#null#425#425#425#null
 CursorKind.PARM_DECL#__flags#425#425#425#pipe2(int *, int)
 CursorKind.FUNCTION_DECL#alarm(unsigned int)#435#435#435#
 CursorKind.PARM_DECL#__seconds#435#435#435#alarm(unsigned int)
@@ -2970,7 +2970,7 @@ CursorKind.PARM_DECL#__useconds#463#463#463#usleep(__useconds_t)
 CursorKind.TYPE_REF#__useconds_t#463#463#463#null
 CursorKind.FUNCTION_DECL#pause()#472#472#472#
 CursorKind.FUNCTION_DECL#chown(const char *, __uid_t, __gid_t)#476#476#477#
-CursorKind.UNEXPOSED_ATTR##477#477#477#null
+CursorKind.UNEXPOSED_ATTR#null#477#477#477#null
 CursorKind.PARM_DECL#__file#476#476#476#chown(const char *, __uid_t, __gid_t)
 CursorKind.PARM_DECL#__owner#476#476#476#chown(const char *, __uid_t, __gid_t)
 CursorKind.TYPE_REF#__uid_t#476#476#476#null
@@ -2983,14 +2983,14 @@ CursorKind.TYPE_REF#__uid_t#481#481#481#null
 CursorKind.PARM_DECL#__group#481#481#481#fchown(int, __uid_t, __gid_t)
 CursorKind.TYPE_REF#__gid_t#481#481#481#null
 CursorKind.FUNCTION_DECL#lchown(const char *, __uid_t, __gid_t)#486#486#487#
-CursorKind.UNEXPOSED_ATTR##487#487#487#null
+CursorKind.UNEXPOSED_ATTR#null#487#487#487#null
 CursorKind.PARM_DECL#__file#486#486#486#lchown(const char *, __uid_t, __gid_t)
 CursorKind.PARM_DECL#__owner#486#486#486#lchown(const char *, __uid_t, __gid_t)
 CursorKind.TYPE_REF#__uid_t#486#486#486#null
 CursorKind.PARM_DECL#__group#486#486#486#lchown(const char *, __uid_t, __gid_t)
 CursorKind.TYPE_REF#__gid_t#486#486#486#null
 CursorKind.FUNCTION_DECL#fchownat(int, const char *, __uid_t, __gid_t, int)#494#494#496#
-CursorKind.UNEXPOSED_ATTR##496#496#496#null
+CursorKind.UNEXPOSED_ATTR#null#496#496#496#null
 CursorKind.PARM_DECL#__fd#494#494#494#fchownat(int, const char *, __uid_t, __gid_t, int)
 CursorKind.PARM_DECL#__file#494#494#494#fchownat(int, const char *, __uid_t, __gid_t, int)
 CursorKind.PARM_DECL#__owner#494#494#494#fchownat(int, const char *, __uid_t, __gid_t, int)
@@ -2999,7 +2999,7 @@ CursorKind.PARM_DECL#__group#495#495#495#fchownat(int, const char *, __uid_t, __
 CursorKind.TYPE_REF#__gid_t#495#495#495#null
 CursorKind.PARM_DECL#__flag#495#495#495#fchownat(int, const char *, __uid_t, __gid_t, int)
 CursorKind.FUNCTION_DECL#chdir(const char *)#500#500#500#
-CursorKind.UNEXPOSED_ATTR##500#500#500#null
+CursorKind.UNEXPOSED_ATTR#null#500#500#500#null
 CursorKind.PARM_DECL#__path#500#500#500#chdir(const char *)
 CursorKind.FUNCTION_DECL#fchdir(int)#504#504#504#
 CursorKind.PARM_DECL#__fd#504#504#504#fchdir(int)
@@ -3008,8 +3008,8 @@ CursorKind.PARM_DECL#__buf#514#514#514#getcwd(char *, int)
 CursorKind.PARM_DECL#__size#514#514#514#getcwd(char *, int)
 CursorKind.FUNCTION_DECL#get_current_dir_name()#520#520#520#
 CursorKind.FUNCTION_DECL#getwd(char *)#528#528#529#
-CursorKind.UNEXPOSED_ATTR##529#529#529#null
-CursorKind.UNEXPOSED_ATTR##529#529#529#null
+CursorKind.UNEXPOSED_ATTR#null#529#529#529#null
+CursorKind.UNEXPOSED_ATTR#null#529#529#529#null
 CursorKind.PARM_DECL#__buf#528#528#528#getwd(char *)
 CursorKind.FUNCTION_DECL#dup(int)#534#534#534#
 CursorKind.PARM_DECL#__fd#534#534#534#dup(int)
@@ -3023,37 +3023,37 @@ CursorKind.PARM_DECL#__flags#542#542#542#dup3(int, int, int)
 CursorKind.VAR_DECL#__environ#546#546#546#
 CursorKind.VAR_DECL#environ#548#548#548#
 CursorKind.FUNCTION_DECL#execve(const char *, char *const *, char *const *)#554#554#555#
-CursorKind.UNEXPOSED_ATTR##555#555#555#null
+CursorKind.UNEXPOSED_ATTR#null#555#555#555#null
 CursorKind.PARM_DECL#__path#554#554#554#execve(const char *, char *const *, char *const *)
 CursorKind.PARM_DECL#__argv#554#554#554#execve(const char *, char *const *, char *const *)
 CursorKind.PARM_DECL#__envp#555#555#555#execve(const char *, char *const *, char *const *)
 CursorKind.FUNCTION_DECL#fexecve(int, char *const *, char *const *)#560#560#561#
-CursorKind.UNEXPOSED_ATTR##561#561#561#null
+CursorKind.UNEXPOSED_ATTR#null#561#561#561#null
 CursorKind.PARM_DECL#__fd#560#560#560#fexecve(int, char *const *, char *const *)
 CursorKind.PARM_DECL#__argv#560#560#560#fexecve(int, char *const *, char *const *)
 CursorKind.PARM_DECL#__envp#560#560#560#fexecve(int, char *const *, char *const *)
 CursorKind.FUNCTION_DECL#execv(const char *, char *const *)#566#566#567#
-CursorKind.UNEXPOSED_ATTR##567#567#567#null
+CursorKind.UNEXPOSED_ATTR#null#567#567#567#null
 CursorKind.PARM_DECL#__path#566#566#566#execv(const char *, char *const *)
 CursorKind.PARM_DECL#__argv#566#566#566#execv(const char *, char *const *)
 CursorKind.FUNCTION_DECL#execle(const char *, const char *, ...)#571#571#572#
-CursorKind.UNEXPOSED_ATTR##572#572#572#null
+CursorKind.UNEXPOSED_ATTR#null#572#572#572#null
 CursorKind.PARM_DECL#__path#571#571#571#execle(const char *, const char *, ...)
 CursorKind.PARM_DECL#__arg#571#571#571#execle(const char *, const char *, ...)
 CursorKind.FUNCTION_DECL#execl(const char *, const char *, ...)#576#576#577#
-CursorKind.UNEXPOSED_ATTR##577#577#577#null
+CursorKind.UNEXPOSED_ATTR#null#577#577#577#null
 CursorKind.PARM_DECL#__path#576#576#576#execl(const char *, const char *, ...)
 CursorKind.PARM_DECL#__arg#576#576#576#execl(const char *, const char *, ...)
 CursorKind.FUNCTION_DECL#execvp(const char *, char *const *)#581#581#582#
-CursorKind.UNEXPOSED_ATTR##582#582#582#null
+CursorKind.UNEXPOSED_ATTR#null#582#582#582#null
 CursorKind.PARM_DECL#__file#581#581#581#execvp(const char *, char *const *)
 CursorKind.PARM_DECL#__argv#581#581#581#execvp(const char *, char *const *)
 CursorKind.FUNCTION_DECL#execlp(const char *, const char *, ...)#587#587#588#
-CursorKind.UNEXPOSED_ATTR##588#588#588#null
+CursorKind.UNEXPOSED_ATTR#null#588#588#588#null
 CursorKind.PARM_DECL#__file#587#587#587#execlp(const char *, const char *, ...)
 CursorKind.PARM_DECL#__arg#587#587#587#execlp(const char *, const char *, ...)
 CursorKind.FUNCTION_DECL#execvpe(const char *, char *const *, char *const *)#593#593#595#
-CursorKind.UNEXPOSED_ATTR##595#595#595#null
+CursorKind.UNEXPOSED_ATTR#null#595#595#595#null
 CursorKind.PARM_DECL#__file#593#593#593#execvpe(const char *, char *const *, char *const *)
 CursorKind.PARM_DECL#__argv#593#593#593#execvpe(const char *, char *const *, char *const *)
 CursorKind.PARM_DECL#__envp#594#594#594#execvpe(const char *, char *const *, char *const *)
@@ -3061,7 +3061,7 @@ CursorKind.FUNCTION_DECL#nice(int)#601#601#601#
 CursorKind.PARM_DECL#__inc#601#601#601#nice(int)
 CursorKind.FUNCTION_DECL#_exit(int)#606#606#606#
 CursorKind.PARM_DECL#__status#606#606#606#_exit(int)
-CursorKind.ENUM_DECL##24#24#68#
+CursorKind.ENUM_DECL#null#24#24#68#
 CursorKind.ENUM_CONSTANT_DECL#_PC_LINK_MAX#26#26#26#
 CursorKind.ENUM_CONSTANT_DECL#_PC_MAX_CANON#28#28#28#
 CursorKind.ENUM_CONSTANT_DECL#_PC_MAX_INPUT#30#30#30#
@@ -3083,7 +3083,7 @@ CursorKind.ENUM_CONSTANT_DECL#_PC_REC_XFER_ALIGN#60#60#60#
 CursorKind.ENUM_CONSTANT_DECL#_PC_ALLOC_SIZE_MIN#62#62#62#
 CursorKind.ENUM_CONSTANT_DECL#_PC_SYMLINK_MAX#64#64#64#
 CursorKind.ENUM_CONSTANT_DECL#_PC_2_SYMLINKS#66#66#66#
-CursorKind.ENUM_DECL##71#71#530#
+CursorKind.ENUM_DECL#null#71#71#530#
 CursorKind.ENUM_CONSTANT_DECL#_SC_ARG_MAX#73#73#73#
 CursorKind.ENUM_CONSTANT_DECL#_SC_CHILD_MAX#75#75#75#
 CursorKind.ENUM_CONSTANT_DECL#_SC_CLK_TCK#77#77#77#
@@ -3288,10 +3288,10 @@ CursorKind.ENUM_CONSTANT_DECL#_SC_LEVEL4_CACHE_SIZE#489#489#489#
 CursorKind.ENUM_CONSTANT_DECL#_SC_LEVEL4_CACHE_ASSOC#491#491#491#
 CursorKind.ENUM_CONSTANT_DECL#_SC_LEVEL4_CACHE_LINESIZE#493#493#493#
 CursorKind.ENUM_CONSTANT_DECL#_SC_IPV6#497#497#497#
-CursorKind.UNEXPOSED_EXPR##497#497#497#null
-CursorKind.BINARY_OPERATOR##497#497#497#null
+CursorKind.UNEXPOSED_EXPR#null#497#497#497#null
+CursorKind.BINARY_OPERATOR#null#497#497#497#null
 CursorKind.DECL_REF_EXPR#_SC_LEVEL1_ICACHE_SIZE#497#497#497#null
-CursorKind.INTEGER_LITERAL##497#497#497#null
+CursorKind.INTEGER_LITERAL#null#497#497#497#null
 CursorKind.ENUM_CONSTANT_DECL#_SC_RAW_SOCKETS#499#499#499#
 CursorKind.ENUM_CONSTANT_DECL#_SC_V7_ILP32_OFF32#502#502#502#
 CursorKind.ENUM_CONSTANT_DECL#_SC_V7_ILP32_OFFBIG#504#504#504#
@@ -3305,7 +3305,7 @@ CursorKind.ENUM_CONSTANT_DECL#_SC_TRACE_USER_EVENT_MAX#520#520#520#
 CursorKind.ENUM_CONSTANT_DECL#_SC_XOPEN_STREAMS#523#523#523#
 CursorKind.ENUM_CONSTANT_DECL#_SC_THREAD_ROBUST_PRIO_INHERIT#526#526#526#
 CursorKind.ENUM_CONSTANT_DECL#_SC_THREAD_ROBUST_PRIO_PROTECT#528#528#528#
-CursorKind.ENUM_DECL##533#533#675#
+CursorKind.ENUM_DECL#null#533#533#675#
 CursorKind.ENUM_CONSTANT_DECL#_CS_PATH#535#535#535#
 CursorKind.ENUM_CONSTANT_DECL#_CS_V6_WIDTH_RESTRICTED_ENVS#538#538#538#
 CursorKind.ENUM_CONSTANT_DECL#_CS_GNU_LIBC_VERSION#542#542#542#
@@ -3313,8 +3313,8 @@ CursorKind.ENUM_CONSTANT_DECL#_CS_GNU_LIBPTHREAD_VERSION#544#544#544#
 CursorKind.ENUM_CONSTANT_DECL#_CS_V5_WIDTH_RESTRICTED_ENVS#547#547#547#
 CursorKind.ENUM_CONSTANT_DECL#_CS_V7_WIDTH_RESTRICTED_ENVS#551#551#551#
 CursorKind.ENUM_CONSTANT_DECL#_CS_LFS_CFLAGS#555#555#555#
-CursorKind.UNEXPOSED_EXPR##555#555#555#null
-CursorKind.INTEGER_LITERAL##555#555#555#null
+CursorKind.UNEXPOSED_EXPR#null#555#555#555#null
+CursorKind.INTEGER_LITERAL#null#555#555#555#null
 CursorKind.ENUM_CONSTANT_DECL#_CS_LFS_LDFLAGS#557#557#557#
 CursorKind.ENUM_CONSTANT_DECL#_CS_LFS_LIBS#559#559#559#
 CursorKind.ENUM_CONSTANT_DECL#_CS_LFS_LINTFLAGS#561#561#561#
@@ -3323,8 +3323,8 @@ CursorKind.ENUM_CONSTANT_DECL#_CS_LFS64_LDFLAGS#565#565#565#
 CursorKind.ENUM_CONSTANT_DECL#_CS_LFS64_LIBS#567#567#567#
 CursorKind.ENUM_CONSTANT_DECL#_CS_LFS64_LINTFLAGS#569#569#569#
 CursorKind.ENUM_CONSTANT_DECL#_CS_XBS5_ILP32_OFF32_CFLAGS#572#572#572#
-CursorKind.UNEXPOSED_EXPR##572#572#572#null
-CursorKind.INTEGER_LITERAL##572#572#572#null
+CursorKind.UNEXPOSED_EXPR#null#572#572#572#null
+CursorKind.INTEGER_LITERAL#null#572#572#572#null
 CursorKind.ENUM_CONSTANT_DECL#_CS_XBS5_ILP32_OFF32_LDFLAGS#574#574#574#
 CursorKind.ENUM_CONSTANT_DECL#_CS_XBS5_ILP32_OFF32_LIBS#576#576#576#
 CursorKind.ENUM_CONSTANT_DECL#_CS_XBS5_ILP32_OFF32_LINTFLAGS#578#578#578#
@@ -3375,7 +3375,7 @@ CursorKind.ENUM_CONSTANT_DECL#_CS_POSIX_V7_LPBIG_OFFBIG_LINTFLAGS#668#668#668#
 CursorKind.ENUM_CONSTANT_DECL#_CS_V6_ENV#671#671#671#
 CursorKind.ENUM_CONSTANT_DECL#_CS_V7_ENV#673#673#673#
 CursorKind.FUNCTION_DECL#pathconf(const char *, int)#615#615#616#
-CursorKind.UNEXPOSED_ATTR##616#616#616#null
+CursorKind.UNEXPOSED_ATTR#null#616#616#616#null
 CursorKind.PARM_DECL#__path#615#615#615#pathconf(const char *, int)
 CursorKind.PARM_DECL#__name#615#615#615#pathconf(const char *, int)
 CursorKind.FUNCTION_DECL#fpathconf(int, int)#619#619#619#
@@ -3478,12 +3478,12 @@ CursorKind.TYPE_REF#__gid_t#751#751#751#null
 CursorKind.FUNCTION_DECL#fork()#759#759#759#
 CursorKind.TYPE_REF#__pid_t#759#759#759#null
 CursorKind.FUNCTION_DECL#vfork()#767#767#767#
-CursorKind.UNEXPOSED_ATTR##767#767#767#null
+CursorKind.UNEXPOSED_ATTR#null#767#767#767#null
 CursorKind.TYPE_REF#__pid_t#767#767#767#null
 CursorKind.FUNCTION_DECL#ttyname(int)#773#773#773#
 CursorKind.PARM_DECL#__fd#773#773#773#ttyname(int)
 CursorKind.FUNCTION_DECL#ttyname_r(int, char *, int)#777#777#778#
-CursorKind.UNEXPOSED_ATTR##778#778#778#null
+CursorKind.UNEXPOSED_ATTR#null#778#778#778#null
 CursorKind.PARM_DECL#__fd#777#777#777#ttyname_r(int, char *, int)
 CursorKind.PARM_DECL#__buf#777#777#777#ttyname_r(int, char *, int)
 CursorKind.PARM_DECL#__buflen#777#777#777#ttyname_r(int, char *, int)
@@ -3491,48 +3491,48 @@ CursorKind.FUNCTION_DECL#isatty(int)#782#782#782#
 CursorKind.PARM_DECL#__fd#782#782#782#isatty(int)
 CursorKind.FUNCTION_DECL#ttyslot()#788#788#788#
 CursorKind.FUNCTION_DECL#link(const char *, const char *)#793#793#794#
-CursorKind.UNEXPOSED_ATTR##794#794#794#null
+CursorKind.UNEXPOSED_ATTR#null#794#794#794#null
 CursorKind.PARM_DECL#__from#793#793#793#link(const char *, const char *)
 CursorKind.PARM_DECL#__to#793#793#793#link(const char *, const char *)
 CursorKind.FUNCTION_DECL#linkat(int, const char *, int, const char *, int)#799#799#801#
-CursorKind.UNEXPOSED_ATTR##801#801#801#null
+CursorKind.UNEXPOSED_ATTR#null#801#801#801#null
 CursorKind.PARM_DECL#__fromfd#799#799#799#linkat(int, const char *, int, const char *, int)
 CursorKind.PARM_DECL#__from#799#799#799#linkat(int, const char *, int, const char *, int)
 CursorKind.PARM_DECL#__tofd#799#799#799#linkat(int, const char *, int, const char *, int)
 CursorKind.PARM_DECL#__to#800#800#800#linkat(int, const char *, int, const char *, int)
 CursorKind.PARM_DECL#__flags#800#800#800#linkat(int, const char *, int, const char *, int)
 CursorKind.FUNCTION_DECL#symlink(const char *, const char *)#806#806#807#
-CursorKind.UNEXPOSED_ATTR##807#807#807#null
+CursorKind.UNEXPOSED_ATTR#null#807#807#807#null
 CursorKind.PARM_DECL#__from#806#806#806#symlink(const char *, const char *)
 CursorKind.PARM_DECL#__to#806#806#806#symlink(const char *, const char *)
 CursorKind.FUNCTION_DECL#readlink(const char *__restrict, char *__restrict, int)#812#812#814#
-CursorKind.UNEXPOSED_ATTR##814#814#814#null
+CursorKind.UNEXPOSED_ATTR#null#814#814#814#null
 CursorKind.TYPE_REF#ssize_t#812#812#812#null
 CursorKind.PARM_DECL#__path#812#812#812#readlink(const char *__restrict, char *__restrict, int)
 CursorKind.PARM_DECL#__buf#813#813#813#readlink(const char *__restrict, char *__restrict, int)
 CursorKind.PARM_DECL#__len#813#813#813#readlink(const char *__restrict, char *__restrict, int)
 CursorKind.FUNCTION_DECL#symlinkat(const char *, int, const char *)#819#819#820#
-CursorKind.UNEXPOSED_ATTR##820#820#820#null
+CursorKind.UNEXPOSED_ATTR#null#820#820#820#null
 CursorKind.PARM_DECL#__from#819#819#819#symlinkat(const char *, int, const char *)
 CursorKind.PARM_DECL#__tofd#819#819#819#symlinkat(const char *, int, const char *)
 CursorKind.PARM_DECL#__to#820#820#820#symlinkat(const char *, int, const char *)
 CursorKind.FUNCTION_DECL#readlinkat(int, const char *__restrict, char *__restrict, int)#823#823#825#
-CursorKind.UNEXPOSED_ATTR##825#825#825#null
+CursorKind.UNEXPOSED_ATTR#null#825#825#825#null
 CursorKind.TYPE_REF#ssize_t#823#823#823#null
 CursorKind.PARM_DECL#__fd#823#823#823#readlinkat(int, const char *__restrict, char *__restrict, int)
 CursorKind.PARM_DECL#__path#823#823#823#readlinkat(int, const char *__restrict, char *__restrict, int)
 CursorKind.PARM_DECL#__buf#824#824#824#readlinkat(int, const char *__restrict, char *__restrict, int)
 CursorKind.PARM_DECL#__len#824#824#824#readlinkat(int, const char *__restrict, char *__restrict, int)
 CursorKind.FUNCTION_DECL#unlink(const char *)#829#829#829#
-CursorKind.UNEXPOSED_ATTR##829#829#829#null
+CursorKind.UNEXPOSED_ATTR#null#829#829#829#null
 CursorKind.PARM_DECL#__name#829#829#829#unlink(const char *)
 CursorKind.FUNCTION_DECL#unlinkat(int, const char *, int)#833#833#834#
-CursorKind.UNEXPOSED_ATTR##834#834#834#null
+CursorKind.UNEXPOSED_ATTR#null#834#834#834#null
 CursorKind.PARM_DECL#__fd#833#833#833#unlinkat(int, const char *, int)
 CursorKind.PARM_DECL#__name#833#833#833#unlinkat(int, const char *, int)
 CursorKind.PARM_DECL#__flag#833#833#833#unlinkat(int, const char *, int)
 CursorKind.FUNCTION_DECL#rmdir(const char *)#838#838#838#
-CursorKind.UNEXPOSED_ATTR##838#838#838#null
+CursorKind.UNEXPOSED_ATTR#null#838#838#838#null
 CursorKind.PARM_DECL#__path#838#838#838#rmdir(const char *)
 CursorKind.FUNCTION_DECL#tcgetpgrp(int)#842#842#842#
 CursorKind.TYPE_REF#__pid_t#842#842#842#null
@@ -3543,13 +3543,13 @@ CursorKind.PARM_DECL#__pgrp_id#845#845#845#tcsetpgrp(int, __pid_t)
 CursorKind.TYPE_REF#__pid_t#845#845#845#null
 CursorKind.FUNCTION_DECL#getlogin()#852#852#852#
 CursorKind.FUNCTION_DECL#getlogin_r(char *, int)#860#860#860#
-CursorKind.UNEXPOSED_ATTR##860#860#860#null
+CursorKind.UNEXPOSED_ATTR#null#860#860#860#null
 CursorKind.PARM_DECL#__name#860#860#860#getlogin_r(char *, int)
 CursorKind.PARM_DECL#__name_len#860#860#860#getlogin_r(char *, int)
 CursorKind.FUNCTION_DECL#setlogin(const char *)#865#865#865#
-CursorKind.UNEXPOSED_ATTR##865#865#865#null
+CursorKind.UNEXPOSED_ATTR#null#865#865#865#null
 CursorKind.PARM_DECL#__name#865#865#865#setlogin(const char *)
-CursorKind.UNEXPOSED_DECL##48#48#185#
+CursorKind.UNEXPOSED_DECL#null#48#48#185#
 CursorKind.VAR_DECL#optarg#57#57#57#
 CursorKind.VAR_DECL#optind#71#71#71#
 CursorKind.VAR_DECL#opterr#76#76#76#
@@ -3559,29 +3559,29 @@ CursorKind.PARM_DECL#___argc#150#150#150#getopt(int, char *const *, const char *
 CursorKind.PARM_DECL#___argv#150#150#150#getopt(int, char *const *, const char *)
 CursorKind.PARM_DECL#__shortopts#150#150#150#getopt(int, char *const *, const char *)
 CursorKind.FUNCTION_DECL#gethostname(char *, int)#882#882#882#
-CursorKind.UNEXPOSED_ATTR##882#882#882#null
+CursorKind.UNEXPOSED_ATTR#null#882#882#882#null
 CursorKind.PARM_DECL#__name#882#882#882#gethostname(char *, int)
 CursorKind.PARM_DECL#__len#882#882#882#gethostname(char *, int)
 CursorKind.FUNCTION_DECL#sethostname(const char *, int)#889#889#890#
-CursorKind.UNEXPOSED_ATTR##890#890#890#null
+CursorKind.UNEXPOSED_ATTR#null#890#890#890#null
 CursorKind.PARM_DECL#__name#889#889#889#sethostname(const char *, int)
 CursorKind.PARM_DECL#__len#889#889#889#sethostname(const char *, int)
 CursorKind.FUNCTION_DECL#sethostid(long)#894#894#894#
 CursorKind.PARM_DECL#__id#894#894#894#sethostid(long)
 CursorKind.FUNCTION_DECL#getdomainname(char *, int)#900#900#901#
-CursorKind.UNEXPOSED_ATTR##901#901#901#null
+CursorKind.UNEXPOSED_ATTR#null#901#901#901#null
 CursorKind.PARM_DECL#__name#900#900#900#getdomainname(char *, int)
 CursorKind.PARM_DECL#__len#900#900#900#getdomainname(char *, int)
 CursorKind.FUNCTION_DECL#setdomainname(const char *, int)#902#902#903#
-CursorKind.UNEXPOSED_ATTR##903#903#903#null
+CursorKind.UNEXPOSED_ATTR#null#903#903#903#null
 CursorKind.PARM_DECL#__name#902#902#902#setdomainname(const char *, int)
 CursorKind.PARM_DECL#__len#902#902#902#setdomainname(const char *, int)
 CursorKind.FUNCTION_DECL#vhangup()#909#909#909#
 CursorKind.FUNCTION_DECL#revoke(const char *)#912#912#912#
-CursorKind.UNEXPOSED_ATTR##912#912#912#null
+CursorKind.UNEXPOSED_ATTR#null#912#912#912#null
 CursorKind.PARM_DECL#__file#912#912#912#revoke(const char *)
 CursorKind.FUNCTION_DECL#profil(unsigned short *, int, int, unsigned int)#920#920#922#
-CursorKind.UNEXPOSED_ATTR##922#922#922#null
+CursorKind.UNEXPOSED_ATTR#null#922#922#922#null
 CursorKind.PARM_DECL#__sample_buffer#920#920#920#profil(unsigned short *, int, int, unsigned int)
 CursorKind.PARM_DECL#__size#920#920#920#profil(unsigned short *, int, int, unsigned int)
 CursorKind.PARM_DECL#__offset#921#921#921#profil(unsigned short *, int, int, unsigned int)
@@ -3595,10 +3595,10 @@ CursorKind.FUNCTION_DECL#daemon(int, int)#940#940#940#
 CursorKind.PARM_DECL#__nochdir#940#940#940#daemon(int, int)
 CursorKind.PARM_DECL#__noclose#940#940#940#daemon(int, int)
 CursorKind.FUNCTION_DECL#chroot(const char *)#947#947#947#
-CursorKind.UNEXPOSED_ATTR##947#947#947#null
+CursorKind.UNEXPOSED_ATTR#null#947#947#947#null
 CursorKind.PARM_DECL#__path#947#947#947#chroot(const char *)
 CursorKind.FUNCTION_DECL#getpass(const char *)#951#951#951#
-CursorKind.UNEXPOSED_ATTR##951#951#951#null
+CursorKind.UNEXPOSED_ATTR#null#951#951#951#null
 CursorKind.PARM_DECL#__prompt#951#951#951#getpass(const char *)
 CursorKind.FUNCTION_DECL#fsync(int)#959#959#959#
 CursorKind.PARM_DECL#__fd#959#959#959#fsync(int)
@@ -3607,15 +3607,15 @@ CursorKind.PARM_DECL#__fd#965#965#965#syncfs(int)
 CursorKind.FUNCTION_DECL#gethostid()#972#972#972#
 CursorKind.FUNCTION_DECL#sync()#975#975#975#
 CursorKind.FUNCTION_DECL#getpagesize()#981#981#981#
-CursorKind.CONST_ATTR##981#981#981#null
+CursorKind.CONST_ATTR#null#981#981#981#null
 CursorKind.FUNCTION_DECL#getdtablesize()#986#986#986#
 CursorKind.FUNCTION_DECL#truncate(const char *, __off_t)#996#996#997#
-CursorKind.UNEXPOSED_ATTR##997#997#997#null
+CursorKind.UNEXPOSED_ATTR#null#997#997#997#null
 CursorKind.PARM_DECL#__file#996#996#996#truncate(const char *, __off_t)
 CursorKind.PARM_DECL#__length#996#996#996#truncate(const char *, __off_t)
 CursorKind.TYPE_REF#__off_t#996#996#996#null
 CursorKind.FUNCTION_DECL#truncate64(const char *, __off64_t)#1008#1008#1009#
-CursorKind.UNEXPOSED_ATTR##1009#1009#1009#null
+CursorKind.UNEXPOSED_ATTR#null#1009#1009#1009#null
 CursorKind.PARM_DECL#__file#1008#1008#1008#truncate64(const char *, __off64_t)
 CursorKind.PARM_DECL#__length#1008#1008#1008#truncate64(const char *, __off64_t)
 CursorKind.TYPE_REF#__off64_t#1008#1008#1008#null
@@ -3647,50 +3647,50 @@ CursorKind.TYPE_REF#__off64_t#1094#1094#1094#null
 CursorKind.FUNCTION_DECL#fdatasync(int)#1115#1115#1115#
 CursorKind.PARM_DECL#__fildes#1115#1115#1115#fdatasync(int)
 CursorKind.FUNCTION_DECL#crypt(const char *, const char *)#1123#1123#1124#
-CursorKind.UNEXPOSED_ATTR##1124#1124#1124#null
+CursorKind.UNEXPOSED_ATTR#null#1124#1124#1124#null
 CursorKind.PARM_DECL#__key#1123#1123#1123#crypt(const char *, const char *)
 CursorKind.PARM_DECL#__salt#1123#1123#1123#crypt(const char *, const char *)
 CursorKind.FUNCTION_DECL#encrypt(char *, int)#1128#1128#1129#
-CursorKind.UNEXPOSED_ATTR##1129#1129#1129#null
+CursorKind.UNEXPOSED_ATTR#null#1129#1129#1129#null
 CursorKind.PARM_DECL#__glibc_block#1128#1128#1128#encrypt(char *, int)
 CursorKind.PARM_DECL#__edflag#1128#1128#1128#encrypt(char *, int)
 CursorKind.FUNCTION_DECL#swab(const void *__restrict, void *__restrict, ssize_t)#1136#1136#1137#
-CursorKind.UNEXPOSED_ATTR##1137#1137#1137#null
+CursorKind.UNEXPOSED_ATTR#null#1137#1137#1137#null
 CursorKind.PARM_DECL#__from#1136#1136#1136#swab(const void *__restrict, void *__restrict, ssize_t)
 CursorKind.PARM_DECL#__to#1136#1136#1136#swab(const void *__restrict, void *__restrict, ssize_t)
 CursorKind.PARM_DECL#__n#1137#1137#1137#swab(const void *__restrict, void *__restrict, ssize_t)
 CursorKind.TYPE_REF#ssize_t#1137#1137#1137#null
 CursorKind.CLASS_DECL#B#1#1#5#test.cpp
-CursorKind.CXX_ACCESS_SPEC_DECL##2#2#2#B
+CursorKind.CXX_ACCESS_SPEC_DECL#null#2#2#2#B
 CursorKind.CXX_METHOD#hello()#3#3#4#B
-CursorKind.COMPOUND_STMT##3#3#4#null
+CursorKind.COMPOUND_STMT#null#3#3#4#null
 CursorKind.FUNCTION_DECL#baz()#7#7#7#test.cpp
 CursorKind.FUNCTION_DECL#bar()#8#8#10#test.cpp
-CursorKind.COMPOUND_STMT##8#8#10#null
+CursorKind.COMPOUND_STMT#null#8#8#10#null
 CursorKind.CALL_EXPR#baz#9#9#9#null
 CursorKind.UNEXPOSED_EXPR#baz#9#9#9#null
 CursorKind.DECL_REF_EXPR#baz#9#9#9#null
 CursorKind.FUNCTION_DECL#foo()#11#11#13#test.cpp
-CursorKind.COMPOUND_STMT##11#11#13#null
+CursorKind.COMPOUND_STMT#null#11#11#13#null
 CursorKind.CALL_EXPR#bar#12#12#12#null
 CursorKind.UNEXPOSED_EXPR#bar#12#12#12#null
 CursorKind.DECL_REF_EXPR#bar#12#12#12#null
 CursorKind.FUNCTION_DECL#baz()#14#14#18#test.cpp
-CursorKind.COMPOUND_STMT##14#14#18#null
-CursorKind.DECL_STMT##15#15#15#null
+CursorKind.COMPOUND_STMT#null#14#14#18#null
+CursorKind.DECL_STMT#null#15#15#15#null
 CursorKind.VAR_DECL#foo#15#15#15#baz()
-CursorKind.CSTYLE_CAST_EXPR##15#15#15#null
-CursorKind.UNARY_OPERATOR##15#15#15#null
-CursorKind.INTEGER_LITERAL##15#15#15#null
-CursorKind.DECL_STMT##16#16#16#null
+CursorKind.CSTYLE_CAST_EXPR#null#15#15#15#null
+CursorKind.UNARY_OPERATOR#null#15#15#15#null
+CursorKind.INTEGER_LITERAL#null#15#15#15#null
+CursorKind.DECL_STMT#null#16#16#16#null
 CursorKind.VAR_DECL#fh#16#16#16#baz()
 CursorKind.TYPE_REF#FILE#16#16#16#null
 CursorKind.CALL_EXPR#fopen#16#16#16#null
 CursorKind.UNEXPOSED_EXPR#fopen#16#16#16#null
 CursorKind.DECL_REF_EXPR#fopen#16#16#16#null
-CursorKind.UNEXPOSED_EXPR##16#16#16#null
+CursorKind.UNEXPOSED_EXPR#null#16#16#16#null
 CursorKind.STRING_LITERAL#"a.txt"#16#16#16#null
-CursorKind.UNEXPOSED_EXPR##16#16#16#null
+CursorKind.UNEXPOSED_EXPR#null#16#16#16#null
 CursorKind.STRING_LITERAL#"w"#16#16#16#null
 CursorKind.CALL_EXPR#fclose#17#17#17#null
 CursorKind.UNEXPOSED_EXPR#fclose#17#17#17#null
@@ -3698,21 +3698,21 @@ CursorKind.DECL_REF_EXPR#fclose#17#17#17#null
 CursorKind.UNEXPOSED_EXPR#fh#17#17#17#null
 CursorKind.DECL_REF_EXPR#fh#17#17#17#null
 CursorKind.CLASS_DECL#A#19#19#23#test.cpp
-CursorKind.CXX_ACCESS_SPEC_DECL##20#20#20#A
+CursorKind.CXX_ACCESS_SPEC_DECL#null#20#20#20#A
 CursorKind.CXX_METHOD#hello()#21#21#22#A
-CursorKind.COMPOUND_STMT##21#21#22#null
+CursorKind.COMPOUND_STMT#null#21#21#22#null
 CursorKind.FUNCTION_DECL#main(int, char **)#24#24#29#test.cpp
 CursorKind.PARM_DECL#argc#24#24#24#main(int, char **)
 CursorKind.PARM_DECL#argv#24#24#24#main(int, char **)
-CursorKind.COMPOUND_STMT##24#24#29#null
+CursorKind.COMPOUND_STMT#null#24#24#29#null
 CursorKind.CALL_EXPR#foo#25#25#25#null
 CursorKind.UNEXPOSED_EXPR#foo#25#25#25#null
 CursorKind.DECL_REF_EXPR#foo#25#25#25#null
-CursorKind.DECL_STMT##26#26#26#null
+CursorKind.DECL_STMT#null#26#26#26#null
 CursorKind.VAR_DECL#object#26#26#26#main(int, char **)
 CursorKind.TYPE_REF#class A#26#26#26#null
-CursorKind.CALL_EXPR##26#26#26#null
-CursorKind.UNEXPOSED_EXPR##26#26#26#null
+CursorKind.CALL_EXPR#null#26#26#26#null
+CursorKind.UNEXPOSED_EXPR#null#26#26#26#null
 CursorKind.UNEXPOSED_EXPR#A#26#26#26#null
 CursorKind.CALL_EXPR#A#26#26#26#null
 CursorKind.TYPE_REF#class A#26#26#26#null
@@ -3722,4 +3722,4 @@ CursorKind.DECL_REF_EXPR#object#27#27#27#null
 CursorKind.CALL_EXPR#exit#28#28#28#null
 CursorKind.UNEXPOSED_EXPR#exit#28#28#28#null
 CursorKind.DECL_REF_EXPR#exit#28#28#28#null
-CursorKind.INTEGER_LITERAL##28#28#28#null
+CursorKind.INTEGER_LITERAL#null#28#28#28#null
