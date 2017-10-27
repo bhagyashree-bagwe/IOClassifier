@@ -13,7 +13,7 @@ bar();
 }
 void baz() {
  int *foo = (int*)-1; // make a bad pointer
- FILE* fh fopen("a.txt","w");
+ FILE* fh=fopen("a.txt","w");
  fclose(fh);
 }
 class A{
