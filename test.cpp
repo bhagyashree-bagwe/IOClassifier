@@ -8,10 +8,11 @@ void baz();
 void bar() { 
 baz(); 
 }
-void foo() { bar(); }
+void foo() { 
+bar(); 
+}
 void baz() {
  int *foo = (int*)-1; // make a bad pointer
- printf("%d\n", *foo);       // causes segfault
  FILE* fh fopen("a.txt","w");
  fclose(fh);
 }

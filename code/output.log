@@ -1,0 +1,17 @@
+CursorKind.FUNCTION_DECL#baz()#7#7#7#test.cpp
+CursorKind.FUNCTION_DECL#bar()#8#8#10#test.cpp
+CursorKind.CALL_EXPR#baz#9#9#9#null
+CursorKind.FUNCTION_DECL#foo()#11#11#13#test.cpp
+CursorKind.CALL_EXPR#bar#12#12#12#null
+CursorKind.FUNCTION_DECL#baz()#14#14#18#test.cpp
+CursorKind.VAR_DECL#foo#15#15#15#baz()
+CursorKind.VAR_DECL#fh#16#16#16#baz()
+CursorKind.CALL_EXPR#fclose#17#17#17#null
+CursorKind.CLASS_DECL#A#19#19#23#test.cpp
+CursorKind.CXX_METHOD#hello()#21#21#22#A
+CursorKind.FUNCTION_DECL#main(int, char **)#24#24#29#test.cpp
+CursorKind.CALL_EXPR#foo#25#25#25#null
+CursorKind.VAR_DECL#object#26#26#26#main(int, char **)
+CursorKind.CALL_EXPR#A#26#26#26#null
+CursorKind.CALL_EXPR#hello#27#27#27#null
+CursorKind.CALL_EXPR#exit#28#28#28#null

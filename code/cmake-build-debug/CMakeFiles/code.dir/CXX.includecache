@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hdevarajan/IOClassifier/code/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+vector
+-
+iterator
+-
+unordered_map
+-
+string.h
+-
+
