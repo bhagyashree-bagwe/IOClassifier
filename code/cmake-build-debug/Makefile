@@ -123,6 +123,33 @@ code/fast:
 	$(MAKE) -f CMakeFiles/code.dir/build.make CMakeFiles/code.dir/build
 .PHONY : code/fast
 
+clang.o: clang.cpp.o
+
+.PHONY : clang.o
+
+# target to build an object file
+clang.cpp.o:
+	$(MAKE) -f CMakeFiles/code.dir/build.make CMakeFiles/code.dir/clang.cpp.o
+.PHONY : clang.cpp.o
+
+clang.i: clang.cpp.i
+
+.PHONY : clang.i
+
+# target to preprocess a source file
+clang.cpp.i:
+	$(MAKE) -f CMakeFiles/code.dir/build.make CMakeFiles/code.dir/clang.cpp.i
+.PHONY : clang.cpp.i
+
+clang.s: clang.cpp.s
+
+.PHONY : clang.s
+
+# target to generate assembly for a file
+clang.cpp.s:
+	$(MAKE) -f CMakeFiles/code.dir/build.make CMakeFiles/code.dir/clang.cpp.s
+.PHONY : clang.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... code"
+	@echo "... clang.o"
+	@echo "... clang.i"
+	@echo "... clang.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

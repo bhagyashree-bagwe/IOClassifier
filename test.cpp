@@ -20,7 +20,7 @@ class A{
 public:
 void hello(){
 }
-}
+};
 int main(int argc, char **argv) {
   int a=10;
   int b;
