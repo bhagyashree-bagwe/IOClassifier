@@ -8,7 +8,6 @@ import json
 import cPickle
 from collections import OrderedDict
 functionMap=[]
-<<<<<<< HEAD
 main_variables={}
 line_map={}
 function_decl={}
