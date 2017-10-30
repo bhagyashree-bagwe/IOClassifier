@@ -36,7 +36,9 @@ a+=1;
 //  }
 //  for(int i=0;i<10;i++) 
 b+=1;
-  foo(a,b); // this will call foo, bar, and baz.  baz segfaults.
+ foo(a,b); // this will call foo, bar, and baz.  baz segfaults.
+b+=1;
+foo(a,b);
   A object=A();
   object.hello();
   exit(0);
