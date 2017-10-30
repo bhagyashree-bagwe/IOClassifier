@@ -4,12 +4,15 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/hdevarajan/IOClassifier/code/clang.cpp" "/home/hdevarajan/IOClassifier/code/cmake-build-debug/CMakeFiles/code.dir/clang.cpp.o"
   "/home/hdevarajan/IOClassifier/code/main.cpp" "/home/hdevarajan/IOClassifier/code/cmake-build-debug/CMakeFiles/code.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "/usr/lib/llvm-3.8/lib"
+  "/usr/lib/llvm-3.8/include"
   )
 
 # Targets to which this target links.

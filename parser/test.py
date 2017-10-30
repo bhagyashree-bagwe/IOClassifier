@@ -8,6 +8,7 @@ import json
 import cPickle
 from collections import OrderedDict
 functionMap=[]
+<<<<<<< HEAD
 main_variables={}
 line_map={}
 function_decl={}
@@ -15,6 +16,10 @@ i=0;
 import pprint
 call_stack=[]
 def find_typerefs(node,parent):
+=======
+i=0;
+def find_typerefs(node,filename):
+>>>>>>> 284cda80d2ae15980ac4ec2e4901aa5883e4ce68
     global i
     """ Find all references to the type named 'typename'
     """
@@ -27,6 +32,7 @@ def find_typerefs(node,parent):
             functionMap.append({node.displayname: arguments});
         elif c.kind==clang.cindex.CursorKind.UNEXPOSED_EXPR:
             arguments.append({'attr':c.displayname,'type':c.type.spelling,'value':str(c.data)})
+<<<<<<< HEAD
         elif c.kind==clang.cindex.CursorKind.VAR_DECL or  c.kind==clang.cindex.CursorKind.PARM_DECL:
 		variables={}
                 scope=c.lexical_parent.displayname if c.lexical_parent else (c.location.file.name if c.location.file else "null3")
@@ -62,10 +68,41 @@ def find_typerefs(node,parent):
     parent_node= node.lexical_parent.displayname if node.lexical_parent else (node.location.file.name if node.location.file else "null3")
     for j in range(0,i):
     	dast_string+="-"
+=======
+        else:
+            find_typerefs(c,filename)
+    dast_string=""
+    for j in range(0,i):
+        dast_string+="-";
+>>>>>>> 284cda80d2ae15980ac4ec2e4901aa5883e4ce68
     if node.kind is clang.cindex.CursorKind.FUNCTION_DECL:
         arg_string=""
         for argument in arguments:
             arg_string+=argument["attr"]+":"+argument["type"]+";"
+<<<<<<< HEAD
+=======
+
+        arg_string = arg_string[:-1]
+        print '%s#%s#%s#%s#%s#%s#%s#%s' % (
+            dast_string,node.kind, node.displayname if node.displayname else "null1", node.location.line, node.extent.start.line,
+            node.extent.end.line, node.lexical_parent.displayname if node.lexical_parent else "null2",arg_string)
+    elif node.kind is clang.cindex.CursorKind.CALL_EXPR:
+        arg_string=""
+        if len(arguments) !=0:
+            for argument in arguments:
+                arg_string+=argument["attr"]+":"+argument["type"]+":"+argument["value"]+";"
+
+        arg_string = arg_string[:-1]
+        print '%s#%s#%s#%s#%s#%s#%s#%s' % (
+            dast_string,node.kind, node.displayname if node.displayname else "null1", node.location.line, node.extent.start.line,
+            node.extent.end.line, node.lexical_parent.displayname if node.lexical_parent else "null2",arg_string)
+
+    else:
+        print '%s#%s#%s#%s#%s#%s#%s' % (
+            dast_string,node.kind, node.displayname if node.displayname else "null1", node.location.line, node.extent.start.line,
+            node.extent.end.line, node.lexical_parent.displayname if node.lexical_parent else "null2")
+    i=i-1
+>>>>>>> 284cda80d2ae15980ac4ec2e4901aa5883e4ce68
 
         arg_string = arg_string[:-1]
 	if node.displayname in function_decl:
