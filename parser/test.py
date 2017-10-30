@@ -34,7 +34,7 @@ def find_typerefs(node,parent):
                 	variables=main_variables[scope]
                 val=""
                 val_t=None
-		        if c.get_children():
+		if c.get_children():
                 	for ci in c.get_children():
                         	if ci.kind==clang.cindex.CursorKind.INTEGER_LITERAL:
                                 	present=False
@@ -42,15 +42,15 @@ def find_typerefs(node,parent):
                                         	present=True
                                         if present:
                                         	val=ci.get_tokens().next().spelling
-						                    val_t=ci.type.kind
-                                            #variables[c.displayname]=ci.get_tokens().next().spelling
+						val_t=ci.type.kind
+                                            	#variables[c.displayname]=ci.get_tokens().next().spelling
 		        if val_t == clang.cindex.TypeKind.INT:
 			        variables[c.displayname]=int(val)
 		        else:
 			        variables[c.displayname]=val
                 main_variables[scope]=variables
-		        find_typerefs(c,node.displayname)
-	    else:
+		find_typerefs(c,node.displayname)
+	else:
                 find_typerefs(c,node.displayname)
     lines={}
     if  node.location.line in line_map:
