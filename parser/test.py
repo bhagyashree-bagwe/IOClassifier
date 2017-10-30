@@ -22,13 +22,13 @@ def find_typerefs(node,parent):
     arguments = []
     i=i+1
     for c in node.get_children():
-        if c.kind==clang.cindex.CursorKind.PARM_DECL:
-            arguments.append({'attr':c.displayname,'type':c.type.spelling})
-            functionMap.append({node.displayname: arguments});
-        elif c.kind==clang.cindex.CursorKind.UNEXPOSED_EXPR:
+        if c.kind==clang.cindex.CursorKind.UNEXPOSED_EXPR:
             arguments.append({'attr':c.displayname,'type':c.type.spelling,'value':str(c.data)})
         elif c.kind==clang.cindex.CursorKind.VAR_DECL or  c.kind==clang.cindex.CursorKind.PARM_DECL:
-                variables={}
+                if c.kind==clang.cindex.CursorKind.PARM_DECL:
+            		arguments.append({'attr':c.displayname,'type':c.type.spelling})
+            		functionMap.append({node.displayname: arguments})
+		variables={}
                 scope=c.lexical_parent.displayname if c.lexical_parent else (c.location.file.name if c.location.file else "null3")
                 if scope in main_variables:
                 	variables=main_variables[scope]
@@ -48,7 +48,8 @@ def find_typerefs(node,parent):
 			        variables[c.displayname]=int(val)
 		        else:
 			        variables[c.displayname]=val
-                main_variables[scope]=variables
+                print("scope %s"%(scope))
+		main_variables[scope]=variables
 		find_typerefs(c,node.displayname)
 	else:
                 find_typerefs(c,node.displayname)
@@ -151,7 +152,7 @@ def str_eval(tokens):
 		return main_variables[current_scope][variable]
 	return None
 def calc(node):
-	#print(node.displayname,node.type.kind)
+	print(node.displayname,node.type.kind)
 	if node.kind in [clang.cindex.CursorKind.VAR_DECL,clang.cindex.CursorKind.BINARY_OPERATOR,clang.cindex.CursorKind.COMPOUND_ASSIGNMENT_OPERATOR]:
 		
 		token_str=[]
@@ -187,7 +188,15 @@ def traverse_build(function_name,node_type=clang.cindex.CursorKind.CALL_EXPR):
 					if len( value['arguments'][1:])>0:
 						node_name=node_name[:-2]
 					node_name+=")"
-					traverse_build(node_name); 
+					if node_name in function_decl:
+						function_called=function_decl[node_name]
+						function_def_arguments= function_called["arguments"]
+						for i in range(0,len(function_def_arguments)):
+							print("function pass: %s check value %s"%(function_def_arguments[i]['attr'],main_variables[function_name][value['arguments'][i+1]['attr']]))
+							main_variables[node_name][function_def_arguments[i]['attr']]= main_variables[function_name][value['arguments'][i+1]['attr']]
+						if node_name in main_variables:
+							print("after passing values %s"%(main_variables[node_name]))
+						traverse_build(node_name);
 				else:
 					calc(value['node'])
             		start+=1
@@ -199,8 +208,8 @@ tu = index.parse(sys.argv[1])
 print(vars(tu.cursor))
 pp = pprint.PrettyPrinter(indent=4)
 find_typerefs(tu.cursor,sys.argv[1])
-pp.pprint(main_variables)
+#pp.pprint(main_variables)
 #pp.pprint(function_decl["foo(int, int)"])
-#pp.pprint(line_map)
+pp.pprint(line_map)
 traverse_build("main(int, char **)")
-pp.pprint(main_variables)
+#pp.pprint(main_variables)
