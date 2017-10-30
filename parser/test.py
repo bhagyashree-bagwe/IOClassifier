@@ -168,14 +168,13 @@ def str_eval(tokens):
         elif token in ["==", ">=", "<=", "<", ">"]:
             # print("condition %s"%(''.join(tokens)))
             return eval(''.join(tokens))
-
     if current_scope and variable and current_scope in main_variables and variable in main_variables[current_scope]:
         return main_variables[current_scope][variable]
     return None
 
 
 def calc(node):
-    print(node.displayname, node.kind)
+    #print(node.displayname, node.kind)
     if node.kind in [clang.cindex.CursorKind.VAR_DECL, clang.cindex.CursorKind.BINARY_OPERATOR,
                      clang.cindex.CursorKind.COMPOUND_ASSIGNMENT_OPERATOR]:
 
@@ -225,6 +224,10 @@ def traverse_build(function_name, node_type=clang.cindex.CursorKind.CALL_EXPR):
                         if node_name in main_variables:
                             print("after passing values %s" % (main_variables[node_name]))
                         traverse_build(node_name);
+                elif value['node'].kind == clang.cindex.CursorKind.FOR_STMT:
+                    continue
+                elif value['node'].kind == clang.cindex.CursorKind.WHILE_STMT:
+                    continue
                 elif not value['node'].kind == clang.cindex.CursorKind.COMPOUND_STMT:
                     calc(value['node'])
             start += 1

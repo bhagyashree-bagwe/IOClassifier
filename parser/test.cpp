@@ -27,15 +27,15 @@ int main(int argc, char **argv) {
   int a=12+10;
   int b;
   b=12;
-//  for(int i=0;i<10;i++){
+  for(int i=0;i<10;i++){
   b+=1;
-//  }
-//  while(true)
-//  {
+  }
+  while(true)
+  {
 a+=1;
-//  }
-//  for(int i=0;i<10;i++) 
-b+=1;
+  }
+  for(int i=0;i<10;i++)
+    b+=1;
  foo(a,b); // this will call foo, bar, and baz.  baz segfaults.
 b+=1;
 foo(a,b);
