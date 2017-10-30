@@ -17,4 +17,4 @@ index = clang.cindex.Index.create()
 tu = index.parse(sys.argv[1])
 #print 'Translation unit:', tu.spelling
 print(dir(tu.cursor))
-find_typerefs(tu.cursor,sys.argv[1])
+#find_typerefs(tu.cursor,sys.argv[1])
