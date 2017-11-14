@@ -191,8 +191,77 @@ def calc(node):
             calc(c)
 
 
-def traverse_build(function_name, node_type=clang.cindex.CursorKind.CALL_EXPR):
+#bags
+def println(text):
+    sys.stdout.write("#####"+text + "#####\n")
+
+class Node(object):
+    def __init__(self):
+        self.id = None
+        self.children = []
+
+    def add_child(self, node):
+        self.children.append(node)
+
+    def get_children(self):
+        return self.children
+
+    def get_rev_children(self):
+        children = self.children[:]
+        children.reverse()
+        return children
+
+def addNode(data,parent):
+    global treeroot
+    print "inside add node! "+ data+"  "+str(parent)
+    currentNode = Node();
+    currentNode.id=data;
+    if str(parent).find("__main__") != -1 and treeroot != None:
+        print "its only main in the tree"
+        treeroot.add_child(currentNode)
+    else:
+        print "search for parent node"
+        pnode=search_depth_first_nodes(treeroot,parent)
+        pnode.add_child(currentNode)
+
+def get_depth_first_nodes(root):
+    nodes = []
+    stack = [root]
+    while stack:
+        cur_node = stack[0]
+        stack = stack[1:]
+        nodes.append(cur_node)
+        for child in cur_node.get_rev_children():
+            stack.insert(0, child)
+    return nodes
+
+def search_depth_first_nodes(treeroot,search):
+    print "*****Inside search_depth_first_nodes*****"+str(search)
+    node_list = get_depth_first_nodes(treeroot)
+    for node in node_list:
+        print "....... "+str(node.id)+" ......."
+        if(str(search) ==  str(node.id)):
+            print "---> there is match for parent <---"
+            return node
+
+def print_tree():
+    global treeroot
+    node_list = get_depth_first_nodes(treeroot)
+    for node in node_list:
+        println(str(node.id))
+
+
+funcMap = {}
+
+global mapSize;
+
+mapSize=0
+
+def traverse_build(function_name, parent, node_type=clang.cindex.CursorKind.CALL_EXPR):
     global call_stack
+    global mapSize
+    nodedata=""
+    flag=0
     print("call function %s %s start" % (function_name, node_type))
     if node_type == clang.cindex.CursorKind.CALL_EXPR:
         call_stack.append(function_name)
@@ -201,7 +270,7 @@ def traverse_build(function_name, node_type=clang.cindex.CursorKind.CALL_EXPR):
     if function_name in function_decl:
         start = function_decl[function_name]['start']
         end = function_decl[function_name]['end']
-    # print("start %s, end %s"%(start,end))
+    #print("start %s, end %s"%(start,end))
     if not (start == -1 or end == -1):
         while start <= end and start in line_map:
             nodes = line_map[start]
@@ -216,14 +285,29 @@ def traverse_build(function_name, node_type=clang.cindex.CursorKind.CALL_EXPR):
                     if node_name in function_decl:
                         function_called = function_decl[node_name]
                         function_def_arguments = function_called["arguments"]
+                        nodedata=""
                         for i in range(0, len(function_def_arguments)):
-                            print("function pass: %s check value %s" % (function_def_arguments[i]['attr'],
-                                                                        main_variables[function_name][
-                                                                            value['arguments'][i + 1]['attr']]))
+                            #print("function pass: %s check value %s" % (function_def_arguments[i]['attr'],
+                                                                        #main_variables[function_name][
+                                                                            #value['arguments'][i + 1]['attr']]))
                             main_variables[node_name][function_def_arguments[i]['attr']] = main_variables[function_name][value['arguments'][i + 1]['attr']]
+
+                            nodedata=nodedata+"_"+str(function_def_arguments[i]['attr'])+"_"+str(main_variables[function_name][value['arguments'][i + 1]['attr']])
+
+                        nodedata=node_name+nodedata
+
+                        for key, value in funcMap.iteritems():
+                            if value == nodedata:
+                                flag=1
+
+                        if flag == 0:
+                            funcMap[mapSize] = nodedata
+                            mapSize += 1
+                            addNode(nodedata,parent)
+
                         if node_name in main_variables:
                             print("after passing values %s" % (main_variables[node_name]))
-                        traverse_build(node_name);
+                        traverse_build(node_name,nodedata);
                 elif value['node'].kind == clang.cindex.CursorKind.FOR_STMT:
                     continue
                 elif value['node'].kind == clang.cindex.CursorKind.WHILE_STMT:
@@ -241,8 +325,11 @@ tu = index.parse(sys.argv[1])
 print(vars(tu.cursor))
 pp = pprint.PrettyPrinter(indent=4)
 find_typerefs(tu.cursor, sys.argv[1])
-# pp.pprint(main_variables)
-# pp.pprint(function_decl["foo(int, int)"])
+#pp.pprint(main_variables)
+#pp.pprint(function_decl["foo(int, int)"])
 #pp.pprint(line_map)
-traverse_build("main(int, char **)")
+global treeroot
+treeroot=Node()
+traverse_build("main(int, char **)",treeroot)
+print_tree()
 #pp.pprint(main_variables)
